@@ -1,0 +1,815 @@
+WTP,n_wtp,Code,Description,Amount per month (RM),Production (m3 per month),UnitCost (cent per m3),Month,Year
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,35984,548691,6.558153861,3,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,30202,160144,18.85927665,3,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,59047.23,1109956,5.319781144,3,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,107263.7,3550276,3.021277782,3,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,94753.25,472490,20.05402231,3,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,62893.38,693649,9.067032462,3,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6765.63,160524,4.214715557,3,2020
+Kepong,Kepong,70110100,Chemical Consumed,3071.5,47554,6.458972957,3,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,7429.5,204253,3.637400675,3,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,67020,1616906,4.144953386,3,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,270281.3,8859033,3.05091199,3,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,53572.14,350450,15.28667142,3,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,53996.31,967582,5.580540977,3,2020
+Rasa,Rasa,70110100,Chemical Consumed,267.4,6598401,0.004052497,3,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,14171.25,132893,10.66365422,3,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,176714.95,2707362,6.527200648,3,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,87104.2,3402623,2.559913337,3,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,1081,NULL,NULL,3,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4999.5,45936,10.88362069,3,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,27522,963920,2.855216201,3,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,65633.11,2492566,2.633154348,3,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,355714.2,10925156,3.255918726,3,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,5299,161613,3.278820392,3,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,117194,3.727153267,3,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,8056.75,202584,3.97699226,3,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1485.5,29003,5.121883943,3,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,489778.5,30591937,1.601005193,3,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1315802.2,30957989,4.250283182,3,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25794876,,1,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6175.5,62572,9.869430416,3,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,696186.25,18510168,3.761101736,3,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4770,41973,11.36444857,3,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,88531.5,485864,18.22145703,3,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5595,60841,9.196101313,3,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34064.15,1224093,2.782807352,3,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,39545.5,530941,7.448191042,4,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,31397,158262,19.83862203,4,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,73590.7,1071953,6.865105093,4,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,96810.3,2850724,3.395989931,4,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,140308.25,453943,30.9087815,4,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,90087.68,664965,13.54773259,4,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,8120,163295,4.972595609,4,2020
+Kepong,Kepong,70110100,Chemical Consumed,2628,46143,5.695338405,4,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8428.38,191990,4.390009896,4,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,84376.2,1566433,5.386518287,4,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,258527.4,8646950,2.98981028,4,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,49901.91,349738,14.26836947,4,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,47894.9,916893,5.223608425,4,2020
+Rasa,Rasa,70110100,Chemical Consumed,210.61,6387931,0.003296999,4,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9302.25,122535,7.591504468,4,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,204962.9,2581951,7.938295498,4,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,83148.95,3252962,2.556099641,4,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,319,NULL,NULL,4,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4546,43972,10.33839716,4,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,33578,882932,3.803010877,4,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,61138.51,2284817.5,2.675859669,4,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,375086.96,10274401,3.650694186,4,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,5704,161034,3.54210912,4,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,9604,112864,8.509356394,4,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9807.5,176520,5.556027646,4,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1350.5,18668,7.234304693,4,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,494886.65,29773055,1.662196405,4,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1747907.7,29696001,5.886003641,4,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6706,60429,11.09732082,4,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,650201.8,17800579,3.652700286,4,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4725,38082,12.40743658,4,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,78697.5,482683,16.30417893,4,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5457,60432,9.029984114,4,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,32524.86,1168352,2.783823711,4,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,45644,550086,8.297611646,5,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,25830,138831,18.60535471,5,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,75217.43,1123906,6.692501864,5,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,91422.6,3109860,2.939765777,5,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,103104.78,482935,21.34961848,5,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,55075.93,699568,7.872848672,5,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6325.25,164574,3.843407829,5,2020
+Kepong,Kepong,70110100,Chemical Consumed,2801,49724,5.633094683,5,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,7650.38,196001,3.903235188,5,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,79522.8,1604638,4.955809348,5,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,423265.7,11957787,3.539665826,5,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,50586.23,373209,13.55439713,5,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,50972.24,890789,5.722145199,5,2020
+Rasa,Rasa,70110100,Chemical Consumed,288.7,6756517,0.004272912,5,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9591.25,138400,6.930093931,5,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,205455.55,2790137,7.363636624,5,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,81792.35,3408102,2.399938441,5,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,323,NULL,NULL,5,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5134.5,50022,10.26448363,5,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,34504.63,929802,3.710965345,5,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,50964.6,2357059,2.162211468,5,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,333564.42,8719226,3.825619613,5,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,7062.5,168005,4.203743936,5,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,114142,3.826812216,5,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,11125,189300,5.87691495,5,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,2498.5,32077,7.78907005,5,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,488633.25,29906396,1.633875409,5,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1659599.15,32221471,5.150600201,5,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,23638496,,2,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6404.5,57206,11.19550397,5,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,655021.1,18537527,3.533486964,5,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4770,40170,11.87453323,5,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,106946.8,525919,20.33522272,5,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5261.5,66975,7.855916387,5,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,38356.88,1189011,3.225948288,5,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,39624.5,517075,7.663201663,6,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,23467,127409,18.41863605,6,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,74232.6,1087884,6.823576778,6,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,118945.9,3304215,3.599823256,6,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,106076.3,456806,23.22130182,6,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,50627.3,673830,7.513363905,6,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6767.75,156161,4.333828549,6,2020
+Kepong,Kepong,70110100,Chemical Consumed,3003.5,48839,6.149798317,6,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8774.75,185565,4.728666505,6,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,65206.13,1471883,4.430116388,6,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,503748,12855554,3.918524243,6,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,36194.72,316648,11.43058538,6,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,45930.8,775078,5.92595842,6,2020
+Rasa,Rasa,70110100,Chemical Consumed,269.77,6524214,0.004134904,6,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9302.25,120066,7.747613812,6,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,203874,2717745,7.501586793,6,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,84358.15,3232324,2.609829646,6,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,274,NULL,NULL,6,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5264,47623,11.05348256,6,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,35069.25,883920,3.967468775,6,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,51916.78,2404980.5,2.158719374,6,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,305272.91,7267383,4.200589263,6,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,7422.5,153982,4.820368615,6,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3437,113897,3.017638744,6,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9226.5,183415,5.030395551,6,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1110.5,30495,3.641580587,6,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,422570.2,27796975,1.520202108,6,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1629731.76,31116226,5.237562422,6,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6859,57386,11.95239257,6,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,609455.7,18104534,3.366315311,6,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4950,41607,11.89703656,6,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,70201.5,495732,14.16117983,6,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4830,59940,8.058058058,6,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,33467.24,1131865,2.956822589,6,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,42058.5,555915,7.565635034,7,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,23786,82858,28.70694441,7,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,71817.48,1145901,6.267337231,7,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,114366.3,3466301,3.299375905,7,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,58581,497968,11.76400893,7,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,50363.8,695065,7.245912253,7,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6730.25,158664,4.241825493,7,2020
+Kepong,Kepong,70110100,Chemical Consumed,2368.5,50548,4.685645327,7,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8115.5,187108,4.337334588,7,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,79328.15,1518334,5.224683765,7,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,539916.84,13124297,4.113872461,7,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,38334.29,359025,10.67733166,7,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,42812.85,739629,5.788422304,7,2020
+Rasa,Rasa,70110100,Chemical Consumed,315.91,6678779,0.004730056,7,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,6611.25,118321,5.587554196,7,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,193204.25,2844933,6.791170477,7,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,104856.8,3568449,2.938441883,7,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,184,NULL,NULL,7,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5204.5,46304,11.23984969,7,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,43118.25,918469,4.694578696,7,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,82001.46,2419190,3.389624626,7,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,323076.07,7625212,4.236945412,7,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,4930.5,163547,3.014729711,7,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4593,114116,4.024851905,7,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,11371.5,203109,5.59871793,7,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,2118.5,23895,8.865871521,7,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,462810.4,29350740,1.576827024,7,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1704917.2,32149151,5.303148441,7,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25389900,0,3,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5940,60216,9.864487844,7,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,666217.7,18816456,3.540612005,7,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4680,42458,11.02265769,7,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,99467,534120,18.62259417,7,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4580,58795,7.789778042,7,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,36802.2,1245376,2.955107534,7,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,36744,546195,6.727267734,8,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,25521,133578,19.10569106,8,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,68678.01,1117552,6.145397261,8,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,113295.3,3600519,3.146638026,8,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,58492.3,514250,11.37429266,8,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,53546.85,708396,7.558886555,8,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6632.75,160316,4.137297587,8,2020
+Kepong,Kepong,70110100,Chemical Consumed,2368.5,52872,4.479686791,8,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8220,185818,4.423683389,8,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,82839.4,1573590,5.264357298,8,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,502235,12611661,3.982306534,8,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,48238.88,403869,11.94418982,8,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,47953.03,724360,6.620054945,8,2020
+Rasa,Rasa,70110100,Chemical Consumed,301.72,6771414,0.00445579,8,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,5621.4,120607,4.660923495,8,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,175220.05,2779102,6.30491612,8,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,101443.5,3473926,2.920139922,8,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,229,NULL,NULL,8,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4953.5,46878,10.56679039,8,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,37797.5,913216,4.138944127,8,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,65166.46,2489527.5,2.617623625,8,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,305916.55,8014141,3.81720948,8,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6567.5,146092,4.495454919,8,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,128023,3.411886927,8,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,11908.75,210162,5.666462063,8,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,655,13957,4.692985599,8,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,447007.4,29028231,1.539905756,8,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1682871.35,31523310,5.338498241,8,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,26088144,,3,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,7513,63109,11.90479963,8,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,656171.75,18663888,3.515729145,8,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4815,42647,11.2903604,8,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,153971,555273,27.72888291,8,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4306,59175,7.276721589,8,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34690.86,1185824,2.925464487,8,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,44396.5,514334,8.631842344,9,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,27996,184035,15.21232374,9,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,77763.6,1074918,7.234375087,9,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,117831,3313750,3.555820445,9,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,109177.33,495956,22.01351128,9,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,47920.25,684459,7.001186338,9,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7887.5,151899,5.19259508,9,2020
+Kepong,Kepong,70110100,Chemical Consumed,2866,51983,5.5133409,9,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8064.38,186752,4.318229524,9,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,98273.45,1620640,6.063866744,9,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,581897.7,12858855,4.525268385,9,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,49406.84,446079,11.07580496,9,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,48960.85,826719,5.922308547,9,2020
+Rasa,Rasa,70110100,Chemical Consumed,302.9,6409492,0.004725804,9,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,10738.75,101943,10.53407296,9,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,172584.15,2649548,6.513720453,9,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,114327.6,3962335,2.885359264,9,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,184,NULL,NULL,9,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5083,42142,12.06160125,9,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,40243.75,880470,4.570712233,9,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,65061.24,2329526,2.792896066,9,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,291504.86,7292079,3.997554881,9,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6770,166244,4.072327422,9,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,111254,3.92615097,9,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,12421.15,230257,5.394472264,9,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1408,9558,14.7311153,9,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,421465.1,26927554,1.565181524,9,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1466596.4,28236096,5.194048072,9,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6645,59442,11.17896437,9,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,673392.7,18447275,3.650364078,9,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4251,39046,10.88715874,9,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,97620,499666,19.53705075,9,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4764,55712,8.551120046,9,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,35121.91,1265212,2.775970351,9,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,38693,530384,7.295280401,10,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,29147,206170,14.13736237,10,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,68049.49,1102873,6.170201827,10,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,107179.9,3278213,3.269461136,10,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,79057.03,400129,19.75788558,10,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,50601.65,712230,7.104678264,10,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7786.25,154590,5.036710007,10,2020
+Kepong,Kepong,70110100,Chemical Consumed,2231,52913,4.216355149,10,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,9275,192492,4.818382063,10,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,95039.8,1706492,5.569308265,10,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,548468.5,13351417,4.107942251,10,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,45194.41,464418,9.731407913,10,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,52356.94,814838,6.425441622,10,2020
+Rasa,Rasa,70110100,Chemical Consumed,289.88,6734939,0.004304122,10,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,10802.5,114404,9.442414601,10,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,158908.86,2766243,5.744573416,10,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,172942.1,4053279,4.266720845,10,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,409,NULL,NULL,10,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,3769,43872,8.590900802,10,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,37765,931988,4.052090799,10,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,65652.47,2426613.5,2.705518205,10,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,280010.95,7438459,3.764367727,10,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8218.5,174298,4.715200404,10,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,5524,117257,4.711019385,10,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,8171.75,219853,3.716915393,10,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1165.5,8792,13.25636943,10,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,429120.2,28693903,1.495510039,10,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1509301.7,30231353,4.992504636,10,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24223604,0,4,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5090,59324,8.580001349,10,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,815725.9,18067842,4.514794296,10,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4050,37598,10.77184957,10,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,125471.5,509406,24.63094271,10,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5040,56626,8.900505068,10,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,37087.46,1291505,2.871646645,10,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,42835.5,448817,9.544090353,11,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,24111,194305,12.40884177,11,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,76974.34,1032862,7.452528992,11,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,102914.9,3068312,3.354121093,11,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,65369.99,383748,17.03461386,11,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,44045.25,671832,6.555991676,11,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7609,145313,5.236283058,11,2020
+Kepong,Kepong,70110100,Chemical Consumed,2508,49080,5.11002445,11,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,10305,177855,5.794045711,11,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,96870.4,1601078,6.050323594,11,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,519857.5,12833310,4.050845028,11,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,45336.98,391753,11.5728482,11,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,40247.43,630899,6.379377682,11,2020
+Rasa,Rasa,70110100,Chemical Consumed,283.97,6526559,0.004350991,11,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,6279.75,100784,6.230899746,11,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,138805.75,2587433,5.36461234,11,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,202662.03,3797553,5.336647836,11,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,241,NULL,NULL,11,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4231,41759,10.1319476,11,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,39143.75,896350,4.367016232,11,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,62896.87,2179308.5,2.886092997,11,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,286814.32,7165596,4.002658258,11,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8556,165106,5.182125422,11,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,2987,113567,2.630165453,11,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,11775.75,215854,5.455423573,11,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,610,9244,6.598874946,11,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,445755.85,27837093,1.601301724,11,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1478276.05,28706561,5.149610397,11,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25657888,,4,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6761.5,59206,11.42029524,11,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,590570.3,17983795,3.283902536,11,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4455,36883,12.07873546,11,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,97829.5,506588,19.3114523,11,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5019.5,56928,8.817277965,11,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,33002.14,1174122,2.810793086,11,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,34107,457432,7.45619021,12,2020
+Batang Kali,Batang Kali,70110100,Chemical Consumed,30233,195011,15.50322802,12,2020
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,58350.94,1085701,5.374494451,12,2020
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,76830.4,2885490,2.662646552,12,2020
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,34208.5,386431,8.85242126,12,2020
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,53595.75,697733,7.681412517,12,2020
+Kalumpang,Kalumpang,70110100,Chemical Consumed,8765,150542,5.822295439,12,2020
+Kepong,Kepong,70110100,Chemical Consumed,2698.5,50741,5.318184506,12,2020
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,10782,187721,5.743630175,12,2020
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,91966.2,1630816,5.639275062,12,2020
+Langat 2,Langat 2,70110100,Chemical Consumed,524707.6,13185663,3.979379725,12,2020
+North Hummock,North Hummock,70110100,Chemical Consumed,46083.21,416003,11.07761482,12,2020
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,40685.41,684892,5.940412503,12,2020
+Rasa,Rasa,70110100,Chemical Consumed,320.65,6843620,0.004685386,12,2020
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,10438.25,109853,9.502016331,12,2020
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,127487.2,2615465,4.874360773,12,2020
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,198297.97,3968825,4.996389863,12,2020
+Sungai Buaya,NA,70110100,Chemical Consumed,135,NULL,NULL,12,2020
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4142,45386,9.126162253,12,2020
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,36903.75,923249,3.997161113,12,2020
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,56993.67,2194386,2.597249071,12,2020
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,272292.83,7074746,3.848800084,12,2020
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6927.5,172216,4.022564686,12,2020
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4946,117656,4.203780513,12,2020
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9847.25,220076,4.474476999,12,2020
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1545.5,11788,13.11079063,12,2020
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,471329.2,29917353,1.575437506,12,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1437721.9,29972569,4.79679236,12,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6923,58478,11.83864017,12,2020
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,646907.2,18481387,3.500317373,12,2020
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,5805,35935,16.15416725,12,2020
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,157956.5,514195,30.71918241,12,2020
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5231,62460,8.374959974,12,2020
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,31288.51,1207433,2.591324736,12,2020
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,40271.5,477102,8.440857511,1,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,21255,168771,12.5939883,1,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,63970.9,1088377,5.877641663,1,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,93433.7,2753879,3.392803388,1,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,37008.01,380680,9.721553536,1,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,42438.95,705484,6.015579375,1,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7609,143927,5.286707845,1,2021
+Kepong,Kepong,70110100,Chemical Consumed,3504,48399,7.239819005,1,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8402,180732,4.648872364,1,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,102000,1681142,6.067304249,1,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,582515.2,13980476,4.166633525,1,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,45914.61,462656,9.924135859,1,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,43979.89,699871,6.28399948,1,2021
+Rasa,Rasa,70110100,Chemical Consumed,414,6882858,0.006014943,1,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9182.5,109149,8.412811844,1,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,120358.9,2692057,4.470889732,1,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,107626.22,4011845,2.682711321,1,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,233,NULL,NULL,1,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5396,42430,12.71741692,1,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,36605,942081,3.885546996,1,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,59690.18,2183060.5,2.73424305,1,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,254983.8,5596165,4.556402465,1,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8038.5,171614,4.68405841,1,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3918,117614,3.331236077,1,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,10003.75,211280,4.734830557,1,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,875,7976,10.97041123,1,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,394120.85,30788252,1.280101417,1,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1364411.45,29904794,4.562517468,1,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25587818,0,5,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5341.5,59002,9.053082946,1,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,596504.1,18725232,3.185563202,1,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,3982.5,35526,11.21009965,1,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,147447.5,503535,29.28247292,1,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5387,60611,8.887825642,1,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,32682.42,1213096,2.694133028,1,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,32227,422764,7.622929105,2,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,23876,134818,17.70980136,2,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,58328.72,1009391,5.778605119,2,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,61797,2462063,2.509968266,2,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,44939.05,429898,10.45342151,2,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,48426.3,682400,7.096468347,2,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7143,137345,5.200771779,2,2021
+Kepong,Kepong,70110100,Chemical Consumed,1620.5,44715,3.624063513,2,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,7958,172086,4.62443197,2,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,106331,1520608,6.992663461,2,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,423652.4,12677368,3.341800916,2,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,53131.78,416985,12.74189239,2,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,40581.85,671314,6.045136851,2,2021
+Rasa,Rasa,70110100,Chemical Consumed,354,6399964,0.005531281,2,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,11346.5,101547,11.17364373,2,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,131928.9,2490826,5.296592375,2,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,90155.26,3718525,2.424489818,2,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,282,NULL,NULL,2,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,3639,39848,9.132202369,2,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,31771.88,854823,3.716778795,2,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,56119.21,1985596,2.826315625,2,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,249169.37,5864216,4.248980085,2,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,7723.5,155787,4.957730748,2,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3212,105375,3.048161329,2,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,7903.25,179841,4.39457632,2,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1463,6585,22.21716021,2,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,339525.5,27546853,1.23253825,2,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1268785.93,27709543,4.57887714,2,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,26349429,,5,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,4523,53748,8.415196845,2,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,555721.4,17231178,3.22509233,2,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4005,35187,11.38204451,2,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,95031,461367,20.59770205,2,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4257,55502,7.669993874,2,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,27268.96,1074358,2.538163257,2,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,32246,452932,7.11939099,3,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,25993,154227,16.85372859,3,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,75411.16,1170520,6.442534942,3,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,101836.8,2985659,3.410865072,3,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,79321.83,464971,17.05952199,3,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,66374.85,760068,8.732751543,3,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6814,145375,4.687188306,3,2021
+Kepong,Kepong,70110100,Chemical Consumed,2856,52542,5.435651479,3,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8045,193792,4.151358157,3,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,96526.8,1685361,5.727366422,3,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,352805.3,11025813,3.199812114,3,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,49761.41,439316,11.32701973,3,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,49193.49,1118446,4.398378643,3,2021
+Rasa,Rasa,70110100,Chemical Consumed,483,6969577,0.006930119,3,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,13632.25,117320,11.61971531,3,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,133009.07,2698396,4.929190156,3,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,97565.49,3937737,2.47770458,3,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,90,NULL,NULL,3,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,5378,44075,12.20192853,3,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,35710.63,917743,3.89113619,3,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,66905.39,2209336,3.028303074,3,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,416511.65,9388550,4.436378887,3,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8083.5,171083,4.72489961,3,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,115348,3.786801678,3,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9996.75,221578,4.511616677,3,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,595,6611,9.000151263,3,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,421841.7,30357885,1.389562218,3,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1419705.75,31061426,4.57063932,3,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5229,59768,8.748828805,3,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,648736.9,19351507,3.352384391,3,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,3105,40222,7.71965591,3,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,37927.5,499336,7.595586939,3,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4997,61076,8.181609798,3,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,30087.49,1306370,2.303136937,3,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,37438,388200,9.643997939,4,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,29316,148405,19.75405141,4,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,64775.5,1127589,5.744601978,4,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,96793.45,3049288,3.174296754,4,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,52346.31,376522,13.90259002,4,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,65470.83,736438,8.89020257,4,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7480,139128,5.376344086,4,2021
+Kepong,Kepong,70110100,Chemical Consumed,2981.5,49631,6.007334126,4,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8686,189160,4.59187989,4,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,112933.4,1664386,6.785288989,4,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,397985.9,10178021,3.910248368,4,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,49169.72,425212,11.5635777,4,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,61162.77,1057261,5.785020917,4,2021
+Rasa,Rasa,70110100,Chemical Consumed,465,6733245,0.006906031,4,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,13905,119489,11.63705446,4,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,149005.62,2663631,5.59407891,4,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,96290.66,3808380,2.528388974,4,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,188,NULL,NULL,4,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4504,42223,10.66717192,4,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,36989.38,892278,4.145499497,4,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,64637.46,2126001.5,3.040329934,4,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,413591.6,8736303,4.73417188,4,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6725,166190,4.046573199,4,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4593,112329,4.088881767,4,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,8863.25,206563,4.290821686,4,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1673,8167,20.48487817,4,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,446026.55,28765985,1.550534598,4,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1571129.55,30442417,5.160988203,4,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24204155,0,6,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5376,59758,8.996285016,4,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,633422.7,18542197,3.416114606,4,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,5197.5,39131,13.28230814,4,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,44643,479066,9.318757749,4,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,6305.5,57880,10.89409122,4,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34002.54,1151754,2.952239801,4,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,32018,389916,8.211512223,5,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,30581,153606,19.90872752,5,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,85435.92,1127325,7.578641474,5,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,98787,3026342,3.264237816,5,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,46561.97,392500,11.86292229,5,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,50176.23,754793,6.647680887,5,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6554,145369,4.508526577,5,2021
+Kepong,Kepong,70110100,Chemical Consumed,3946,53301,7.403238213,5,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8290,188233,4.404116175,5,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,99715.6,1690835,5.897417548,5,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,438308.7,9782152,4.480698112,5,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,44782.54,444558,10.07349772,5,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,63565.05,1094555,5.807387477,5,2021
+Rasa,Rasa,70110100,Chemical Consumed,447,6944848,0.006436426,5,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,6338.5,115810,5.473188844,5,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,150107.31,2771821,5.415476324,5,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,95680.82,3956918,2.418064261,5,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,90,NULL,NULL,5,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,3880,43995,8.819183998,5,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,40202.5,914981,4.393807085,5,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,66826.52,2250073,2.969971196,5,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,416335.68,9531145,4.368160174,5,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8061,171370,4.703857151,5,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4593,118748,3.867854616,5,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,10944.5,212472,5.151031665,5,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1223,8678,14.09310901,5,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,522081.25,29391223,1.776316862,5,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1685743.6,31707823,5.316491138,5,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25372289,,6,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,8960.5,62487,14.33978267,5,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,644356.2,19077290,3.377608665,5,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4972.5,42141,11.79967253,5,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,69169.5,540564,12.79580216,5,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4662.5,59527,7.832580174,5,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34777.55,1183923,2.93748411,5,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,33064.5,392587,8.422209599,6,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,30721,146414,20.98228312,6,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,70122.74,1103604,6.353976608,6,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,85273.8,2774322,3.073680705,6,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,51334.41,387426,13.25012002,6,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,53406.6,709146,7.53111489,6,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6769,140639,4.813031947,6,2021
+Kepong,Kepong,70110100,Chemical Consumed,2603.5,54174,4.805810906,6,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,7522,185927,4.04567384,6,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,120756.2,1616963,7.468086777,6,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,361516,9277428,3.89672655,6,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,48104,429419,11.20211262,6,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,58135.02,1002289,5.800225284,6,2021
+Rasa,Rasa,70110100,Chemical Consumed,508.5,6593181,0.007712514,6,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,7778.5,106783,7.284399202,6,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,161603.2,2678929,6.032380851,6,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,95203.73,3749290,2.539246897,6,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,965,NULL,NULL,6,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4610,40733,11.31760489,6,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,35033.75,884550,3.960629699,6,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,61747.32,2141904,2.88282388,6,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,383254.88,9515632,4.027634528,6,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,7723.5,163383,4.727236004,6,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,112320,3.888888889,6,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,8219.5,199569,4.118625638,6,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1027.5,5951,17.26600571,6,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,462296.5,27941015,1.654544404,6,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1502770.25,30356954,4.950332797,6,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6892,57790,11.92593874,6,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,595958.7,18383078,3.241887458,6,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4005,40895,9.793373273,6,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,60318,506463,11.90965579,6,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4635.5,58647,7.904070114,6,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,30113.58,1145132,2.629703825,6,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,32120.5,401862,7.992917967,7,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,26546,151466,17.52604545,7,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,73757.22,1157443,6.372427843,7,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,94432.3,2921899,3.231881047,7,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,72310.8,425632,16.98904218,7,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,52956.25,717180,7.383955213,7,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,5838,151525,3.852829566,7,2021
+Kepong,Kepong,70110100,Chemical Consumed,2441,47085,5.184241266,7,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8204,190741,4.301120367,7,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,112030.2,1793060,6.247989471,7,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,383595.5,9880334,3.882414299,7,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,44928.46,452206,9.9353967,7,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,56586.72,1065426,5.311182569,7,2021
+Rasa,Rasa,70110100,Chemical Consumed,462,6703571,0.006891849,7,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9915.5,112393,8.82216864,7,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,160856.83,2683929,5.993334026,7,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,100410.58,3874550,2.591541727,7,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,192,NULL,NULL,7,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,3919,43670,8.974124113,7,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,34385,895015,3.841835053,7,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,64088.33,2185019,2.933078843,7,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,359566.04,9710129,3.70299962,7,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8331,167890,4.962177616,7,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3212,114254,2.81128013,7,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9966,208020,4.790885492,7,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1290.5,6417,20.1106436,7,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,385879.3,29064963,1.327644215,7,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1376119,30292093,4.542832349,7,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24147690,0,7,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,7031,59432,11.8303271,7,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,604537.65,19025231,3.177557476,7,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,3825,39604,9.658115342,7,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,47531.5,509726,9.324911815,7,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,4249,61874,6.867181692,7,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,33691.11,1185019,2.84308606,7,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,28364.5,353268,8.029173319,8,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,28187,149264,18.88399078,8,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,71214.36,1166398,6.105494008,8,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,88705.3,2876894,3.083370468,8,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,79667.63,409529,19.45347704,8,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,48854.08,661919,7.380673466,8,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7664,150696,5.085735521,8,2021
+Kepong,Kepong,70110100,Chemical Consumed,3173.5,43499,7.295570013,8,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8104,192892,4.201314725,8,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,145526.2,2614191,5.566777638,8,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,376569,10224097,3.683151676,8,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,42768.24,402672,10.62111098,8,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,65642.97,1102508,5.953967681,8,2021
+Rasa,Rasa,70110100,Chemical Consumed,577.5,6767720,0.008533154,8,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9446,111538,8.46886263,8,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,178229.58,2699366,6.602645955,8,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,104182.3,3950978,2.636873706,8,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,94,NULL,NULL,8,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4963,41745,11.88884896,8,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,40942.5,896057,4.569184773,8,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,60813.93,2176364,2.794290385,8,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,394127.79,9657649,4.080991036,8,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6612.5,166786,3.964661303,8,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4593,113406,4.050050262,8,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,9520.5,210616,4.520311847,8,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1015,7979,12.72089234,8,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,460438.2,28874021,1.594645235,8,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1523534.5,31019137,4.911595381,8,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25841795,,7,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,7342.5,57967,12.66668967,8,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,626571.85,18613158,3.366284485,8,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4015,38840,10.33728115,8,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,63580,510633,12.45121251,8,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5522.5,57784,9.557143846,8,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,37304.79,1187024,3.142715733,8,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,30575,336511,9.085884265,9,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,28038,145699,19.24378342,9,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,73735.35,1116251,6.605624541,9,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,85816,2717017,3.158463859,9,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,54374.9,357696,15.20142803,9,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,42080.28,602862,6.980084995,9,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7296,144854,5.03679567,9,2021
+Kepong,Kepong,70110100,Chemical Consumed,1783,27431,6.499945317,9,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8856,183315,4.831028557,9,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,253910.8,3762448,6.74855307,9,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,400947,10052201,3.988648854,9,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,45139.29,395508,11.41299038,9,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,49336.26,1060612,4.651678465,9,2021
+Rasa,Rasa,70110100,Chemical Consumed,484.5,6554335,0.007392054,9,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,10061.5,134902,7.458377192,9,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,165958.81,2619644,6.335166534,9,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,113098.14,3731586,3.030833002,9,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,184,NULL,NULL,9,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4534,43196,10.49634225,9,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,34865,869241,4.01097049,9,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,59557.25,2088077.5,2.85225285,9,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,355663.86,9310283,3.82011868,9,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8173.5,159917,5.111088877,9,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4593,110333,4.162852456,9,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,11737.75,201086,5.837179117,9,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1313,6634,19.79198071,9,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,435517.75,28174800,1.545770511,9,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1435673.6,29866405,4.806984972,9,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25301521,0,8,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6628,54174,12.23465131,9,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,564173.5,16570796,3.404625221,9,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4770,39640,12.0332997,9,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,63580,506016,12.56482008,9,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5182,54252,9.551721596,9,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34076.15,1143652,2.97959082,9,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,28820.5,295916,9.739419295,10,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,29718,149048,19.93854329,10,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,72445.9,1157559,6.258506046,10,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,95013.8,2918975,3.255039868,10,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,54215.66,365974,14.81407422,10,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,38863.48,616249,6.306457292,10,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7331,150114,4.883621781,10,2021
+Kepong,Kepong,70110100,Chemical Consumed,1548,34182,4.528699315,10,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8684,197297,4.401486084,10,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,241955.4,3946421,6.131008324,10,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,398561.2,10652790,3.74137855,10,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,48541.2,423990,11.44866624,10,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,53822.91,1072766,5.017208786,10,2021
+Rasa,Rasa,70110100,Chemical Consumed,487.5,6938401,0.007026115,10,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,8693,119461,7.27685186,10,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,171251.17,2720867,6.293992687,10,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,105230.88,3845490,2.736475196,10,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,180,NULL,NULL,10,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4060,43929,9.242186255,10,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,34583.13,920450,3.75719811,10,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,47634.9,1691655.5,2.815874745,10,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,351913.18,9468537,3.716658445,10,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6545,168695,3.87978304,10,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,4368,110270,3.961186179,10,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,6670.25,180183,3.701930815,10,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1027.5,6424,15.99470735,10,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,425035,28311243,1.501294027,10,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1442563.6,29956983,4.815450207,10,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,26510111,,8,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,5815,53973,10.77390547,10,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,584109.1,18124960,3.222678009,10,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,3105,40951,7.582232424,10,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,171525,517957,33.11568335,10,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5195.5,57372,9.055811197,10,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34480.39,1216443,2.834525744,10,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,29098.5,268263,10.84700462,11,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,27194,144433,18.82810715,11,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,72747.83,1143889,6.359693117,11,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,71376.5,2638395,2.705300002,11,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,49250.7,374968,13.13464082,11,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,45644.78,582183,7.840280462,11,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,6939,144974,4.786375488,11,2021
+Kepong,Kepong,70110100,Chemical Consumed,3099,34332,9.026564138,11,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,9716,192302,5.052469553,11,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,261905,3741651,6.999717504,11,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,438223.85,10155027,4.315339093,11,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,43357.01,370874,11.69049596,11,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,56375.04,1033762,5.453386756,11,2021
+Rasa,Rasa,70110100,Chemical Consumed,499.5,6659216,0.007500883,11,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,9109.5,136797,6.659137262,11,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,151159.36,2638449,5.729099179,11,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,110025.12,3652359,3.012439905,11,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,94,NULL,NULL,11,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4364,40503,10.77451053,11,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,35195,897331,3.922187019,11,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,55626.67,2050307.5,2.713089134,11,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,376298.82,8987062,4.187117214,11,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,6680,165284,4.041528521,11,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3437,107639,3.193080575,11,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,8023.75,136244,5.889250169,11,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,1258,6023,20.88660136,11,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,456808.3,30041615,1.520585028,11,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1418528.95,29360649,4.831395076,11,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24227859,0,9,2020
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6772,51196,13.22759591,11,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,590169.25,17124761,3.446291893,11,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,4230,40031,10.56681072,11,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,284348,501852,56.65973235,11,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5761.5,57360,10.04445607,11,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,29041.38,1139696,2.548168985,11,2021
+Ampang Intake,Ampang Intake,70110100,Chemical Consumed,22769.5,274042,8.30876289,12,2021
+Batang Kali,Batang Kali,70110100,Chemical Consumed,29948,145495,20.58352521,12,2021
+Bernam River Headworks (Old),Bernam River Headworks (Old),70110100,Chemical Consumed,70290.47,1174421,5.985116921,12,2021
+Bukit Nanas,Bukit Nanas,70110100,Chemical Consumed,97094.5,2985189,3.252541129,12,2021
+Bukit Tampoi,Bukit Tampoi New,70110100,Chemical Consumed,45269.53,342622,13.21267461,12,2021
+Cheras Batu 11,Cheras Batu 11,70110100,Chemical Consumed,37428.05,510177,7.33628721,12,2021
+Kalumpang,Kalumpang,70110100,Chemical Consumed,7029,147938,4.75131474,12,2021
+Kepong,Kepong,70110100,Chemical Consumed,3173.5,30563,10.38347021,12,2021
+Kuala Kubu Bharu,Kuala Kubu Bharu,70110100,Chemical Consumed,8272,203194,4.070986348,12,2021
+Labohan Dagang,Labohan Dagang,70110100,Chemical Consumed,258877.2,3821746,6.773793967,12,2021
+Langat 2,Langat 2,70110100,Chemical Consumed,405880.8,10539823,3.850926149,12,2021
+North Hummock,North Hummock,70110100,Chemical Consumed,44313.2,397152,11.15774313,12,2021
+Rantau Panjang,Rantau Panjang New,70110100,Chemical Consumed,49193.49,1052220,4.675209557,12,2021
+Rasa,Rasa,70110100,Chemical Consumed,441,6842773,0.006444756,12,2021
+Salak Tinggi,Salak Tinggi,70110100,Chemical Consumed,8570.5,98905,8.665385976,12,2021
+Semenyih 2 ,Semenyih 2,70110100,Chemical Consumed,119628.7,2680230,4.463374412,12,2021
+Sungai Batu,Sungai Batu,70110100,Chemical Consumed,141766.71,3683787,3.848395958,12,2021
+Sungai Buaya,NA,70110100,Chemical Consumed,184,NULL,NULL,12,2021
+Sungai Dusun,Sungai Dusun,70110100,Chemical Consumed,4683,42508,11.01674979,12,2021
+Sungai Gombak,Sungai Gombak,70110100,Chemical Consumed,37715.5,941512,4.005843792,12,2021
+Sungai Labu,Sungai Labu,70110100,Chemical Consumed,56064.89,2132744,2.628767916,12,2021
+Sungai Langat,Sungai Langat,70110100,Chemical Consumed,372514.14,8936366,4.168519284,12,2021
+Sungai Lolo - Baru,Sungai Lolo - Baru,70110100,Chemical Consumed,8061,171375,4.703719912,12,2021
+Sungai Pangsoon,Sungai Pangsoon,70110100,Chemical Consumed,3212,108731,2.954079333,12,2021
+Sungai Rangkap,Sungai Rangkap,70110100,Chemical Consumed,6780.25,139257,4.868875532,12,2021
+Sungai Rumput,Sungai Rumput,70110100,Chemical Consumed,815,6137,13.28010429,12,2021
+Sungai Selangor Fasa 1,Sungai Selangor Fasa 1,70110100,Chemical Consumed,468177,30881772,1.516030233,12,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream C,70110100,Chemical Consumed,1423004.75,30078466,4.730975143,12,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25456352,,9,2021
+Sungai Selisek,Sungai Selisek,70110100,Chemical Consumed,6028,52085,11.57338965,12,2021
+Sungai Semenyih,Sungai Semenyih,70110100,Chemical Consumed,583343.3,17454992,3.34198549,12,2021
+Sungai Serai,Sungai Serai,70110100,Chemical Consumed,5242.5,47616,11.00995464,12,2021
+Sungai Sireh,Sungai Sireh,70110100,Chemical Consumed,224885.5,526411,42.72051686,12,2021
+Sungai Tengi,Sungai Tengi,70110100,Chemical Consumed,5486.5,54648,10.03970868,12,2021
+Wangsa Maju,Wangsa Maju,70110100,Chemical Consumed,34209.96,1150901,2.97245028,12,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25750671,0,10,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,26062642,,10,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24867309,0,11,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,24873591,,11,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,26008909,0,12,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 1,70110100,Chemical Consumed,0,25778660,,12,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1315802.2,30957989,4.250283182,3,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1747907.7,29696001,5.886003641,4,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1659599.15,32221471,5.150600201,5,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1629731.76,31116226,5.237562422,6,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1704917.2,32149151,5.303148441,7,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1682871.35,31523310,5.338498241,8,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1466596.4,28236096,5.194048072,9,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1509301.7,30231353,4.992504636,10,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1478276.05,28706561,5.149610397,11,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1437721.9,29972569,4.79679236,12,2020
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1364411.45,29904794,4.562517468,1,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1268785.93,27709543,4.57887714,2,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1419705.75,31061426,4.57063932,3,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1571129.55,30442417,5.160988203,4,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1685743.6,31707823,5.316491138,5,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1502770.25,30356954,4.950332797,6,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1376119,30292093,4.542832349,7,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1523534.5,31019137,4.911595381,8,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1435673.6,29866405,4.806984972,9,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1442563.6,29956983,4.815450207,10,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1418528.95,29360649,4.831395076,11,2021
+Sungai Selangor Fasa 2,Sungai Selangor Fasa 2 Stream D,70110100,Chemical Consumed,1423004.75,30078466,4.730975143,12,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25794876,,1,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,23638496,,2,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25389900,0,3,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,26088144,,3,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24223604,0,4,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25657888,,4,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25587818,0,5,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,26349429,,5,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24204155,0,6,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25372289,,6,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24147690,0,7,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25841795,,7,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25301521,0,8,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,26510111,,8,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24227859,0,9,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25456352,,9,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25750671,0,10,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,26062642,,10,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24867309,0,11,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,24873591,,11,2021
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,26008909,0,12,2020
+Sungai Selangor Fasa 3,Sungai Selangor Fasa 3 Stage 2,70110100,Chemical Consumed,0,25778660,,12,2021

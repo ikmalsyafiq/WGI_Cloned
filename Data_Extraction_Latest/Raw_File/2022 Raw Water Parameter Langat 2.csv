@@ -1,0 +1,2191 @@
+WTP,TestDate,RawWaterTotalViolation,wqc_raw_total_min,wqc_raw_total_avg,wqc_raw_total_max
+Langat 2,1/1/2022,Color,10,17.83,35
+Langat 2,1/1/2022,pH,6.76,6.86,6.94
+Langat 2,1/1/2022,Ammonia (NH4),0.05,0.44,0.82
+Langat 2,1/1/2022,Ferum/Iron (Fe),1.32,3.63,5.93
+Langat 2,1/1/2022,Turbidity,94,528.17,1558
+Langat 2,1/1/2022,Manganese (Mn),0.19,1.01,1.82
+Langat 2,2/1/2022,Color,16,23.67,36
+Langat 2,2/1/2022,pH,6.65,6.77,6.86
+Langat 2,2/1/2022,Ammonia (NH4),0.45,0.69,0.92
+Langat 2,2/1/2022,Ferum/Iron (Fe),5.11,5.62,6.12
+Langat 2,2/1/2022,Turbidity,317,777.17,1702
+Langat 2,2/1/2022,Manganese (Mn),0.88,1.53,2.17
+Langat 2,3/1/2022,Color,15,20.17,28
+Langat 2,3/1/2022,pH,6.8,6.87,6.94
+Langat 2,3/1/2022,Ammonia (NH4),0.31,0.32,0.33
+Langat 2,3/1/2022,Ferum/Iron (Fe),2.33,2.37,2.41
+Langat 2,3/1/2022,Turbidity,197,294,388
+Langat 2,3/1/2022,Manganese (Mn),0.41,0.46,0.5
+Langat 2,4/1/2022,Color,12,18.5,34
+Langat 2,4/1/2022,pH,6.87,6.91,6.93
+Langat 2,4/1/2022,Ammonia (NH4),0.07,0.08,0.09
+Langat 2,4/1/2022,Ferum/Iron (Fe),1.31,1.6,1.88
+Langat 2,4/1/2022,Turbidity,90,287.33,633
+Langat 2,4/1/2022,Manganese (Mn),0.18,0.19,0.19
+Langat 2,5/1/2022,Color,13,21.17,27
+Langat 2,5/1/2022,pH,6.73,6.85,6.94
+Langat 2,5/1/2022,Ammonia (NH4),0.15,0.17,0.18
+Langat 2,5/1/2022,Ferum/Iron (Fe),1.57,2.22,2.86
+Langat 2,5/1/2022,Turbidity,73,289.5,551
+Langat 2,5/1/2022,Manganese (Mn),0.14,0.41,0.67
+Langat 2,6/1/2022,Color,9,17,23
+Langat 2,6/1/2022,pH,6.81,6.89,6.98
+Langat 2,6/1/2022,Ammonia (NH4),0.1,0.12,0.14
+Langat 2,6/1/2022,Ferum/Iron (Fe),1.32,1.41,1.5
+Langat 2,6/1/2022,Turbidity,88,182.67,329
+Langat 2,6/1/2022,Manganese (Mn),0.14,0.2,0.25
+Langat 2,7/1/2022,Color,6,7.5,9
+Langat 2,7/1/2022,pH,7.07,7.11,7.16
+Langat 2,7/1/2022,Ammonia (NH4),0.04,0.07,0.1
+Langat 2,7/1/2022,Ferum/Iron (Fe),1.1,1.17,1.24
+Langat 2,7/1/2022,Turbidity,72,78.67,88
+Langat 2,7/1/2022,Manganese (Mn),0.14,0.17,0.2
+Langat 2,8/1/2022,Color,6,6.33,8
+Langat 2,8/1/2022,pH,7.1,7.15,7.18
+Langat 2,8/1/2022,Ammonia (NH4),0.02,0.05,0.07
+Langat 2,8/1/2022,Ferum/Iron (Fe),1.13,1.14,1.15
+Langat 2,8/1/2022,Turbidity,50,55.33,64
+Langat 2,8/1/2022,Manganese (Mn),0.12,0.14,0.15
+Langat 2,9/1/2022,Color,7,11.5,16
+Langat 2,9/1/2022,pH,7.04,7.12,7.3
+Langat 2,9/1/2022,Ammonia (NH4),0.05,0.12,0.18
+Langat 2,9/1/2022,Ferum/Iron (Fe),1.12,1.37,1.62
+Langat 2,9/1/2022,Turbidity,48,99.17,152
+Langat 2,9/1/2022,Manganese (Mn),0.13,0.17,0.21
+Langat 2,10/1/2022,Color,6,7.5,9
+Langat 2,10/1/2022,pH,7.16,7.21,7.28
+Langat 2,10/1/2022,Ammonia (NH4),0.06,0.07,0.08
+Langat 2,10/1/2022,Ferum/Iron (Fe),1.13,1.27,1.4
+Langat 2,10/1/2022,Turbidity,52,56.67,62
+Langat 2,10/1/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,11/1/2022,Color,7,8,9
+Langat 2,11/1/2022,pH,7.14,7.19,7.25
+Langat 2,11/1/2022,Ammonia (NH4),0.03,0.05,0.07
+Langat 2,11/1/2022,Ferum/Iron (Fe),1.18,1.3,1.41
+Langat 2,11/1/2022,Turbidity,43,48.87,57
+Langat 2,11/1/2022,Manganese (Mn),0.1,0.12,0.13
+Langat 2,12/1/2022,Color,5,6.83,9
+Langat 2,12/1/2022,pH,7.19,7.22,7.26
+Langat 2,12/1/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,12/1/2022,Ferum/Iron (Fe),1.09,1.14,1.18
+Langat 2,12/1/2022,Turbidity,33,40.17,44
+Langat 2,12/1/2022,Manganese (Mn),0.08,0.1,0.11
+Langat 2,13/1/2022,Color,6,6.67,7
+Langat 2,13/1/2022,pH,7.13,7.18,7.28
+Langat 2,13/1/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,13/1/2022,Ferum/Iron (Fe),1.14,1.18,1.21
+Langat 2,13/1/2022,Turbidity,36,46.5,59
+Langat 2,13/1/2022,Manganese (Mn),0.08,0.11,0.13
+Langat 2,14/1/2022,Color,5,7.33,9
+Langat 2,14/1/2022,pH,7.22,7.26,7.32
+Langat 2,14/1/2022,Ammonia (NH4),0.04,0.06,0.08
+Langat 2,14/1/2022,Ferum/Iron (Fe),0.92,1.06,1.19
+Langat 2,14/1/2022,Turbidity,30,35.17,42
+Langat 2,14/1/2022,Manganese (Mn),0.1,0.12,0.13
+Langat 2,15/1/2022,Color,5,5.17,6
+Langat 2,15/1/2022,pH,7.2,7.24,7.26
+Langat 2,15/1/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,15/1/2022,Ferum/Iron (Fe),0.74,0.78,0.82
+Langat 2,15/1/2022,Turbidity,24,32,42
+Langat 2,15/1/2022,Manganese (Mn),0.06,0.07,0.08
+Langat 2,16/1/2022,Color,4,6,8
+Langat 2,16/1/2022,pH,7.13,7.22,7.27
+Langat 2,16/1/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,16/1/2022,Ferum/Iron (Fe),0.74,0.96,1.18
+Langat 2,16/1/2022,Turbidity,23,26.33,31
+Langat 2,16/1/2022,Manganese (Mn),0.06,0.09,0.12
+Langat 2,17/1/2022,Color,4,5,7
+Langat 2,17/1/2022,pH,7.12,7.18,7.25
+Langat 2,17/1/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,17/1/2022,Ferum/Iron (Fe),0.77,0.91,1.05
+Langat 2,17/1/2022,Turbidity,24,25.33,29
+Langat 2,17/1/2022,Manganese (Mn),0.06,0.09,0.11
+Langat 2,18/1/2022,Color,5,7.5,16
+Langat 2,18/1/2022,pH,7.13,7.2,7.22
+Langat 2,18/1/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,18/1/2022,Ferum/Iron (Fe),0.71,0.84,0.96
+Langat 2,18/1/2022,Turbidity,22,132.83,650
+Langat 2,18/1/2022,Manganese (Mn),0.05,0.07,0.08
+Langat 2,19/1/2022,Color,12,20.5,26
+Langat 2,19/1/2022,pH,6.87,6.96,7.14
+Langat 2,19/1/2022,Ammonia (NH4),0.32,0.5,0.68
+Langat 2,19/1/2022,Ferum/Iron (Fe),2.86,5.18,7.5
+Langat 2,19/1/2022,Turbidity,116,414.17,779
+Langat 2,19/1/2022,Manganese (Mn),0.48,1.06,1.63
+Langat 2,20/1/2022,Color,7,10,19
+Langat 2,20/1/2022,pH,7.1,7.16,7.23
+Langat 2,20/1/2022,Ammonia (NH4),0.11,0.18,0.24
+Langat 2,20/1/2022,Ferum/Iron (Fe),1.25,2.1,2.95
+Langat 2,20/1/2022,Turbidity,60,114.67,293
+Langat 2,20/1/2022,Manganese (Mn),0.19,0.37,0.54
+Langat 2,21/1/2022,Color,6,7.83,10
+Langat 2,21/1/2022,pH,7.1,7.14,7.18
+Langat 2,21/1/2022,Ammonia (NH4),0.06,0.07,0.08
+Langat 2,21/1/2022,Ferum/Iron (Fe),1.17,1.23,1.29
+Langat 2,21/1/2022,Turbidity,49,58.17,66
+Langat 2,21/1/2022,Manganese (Mn),0.16,0.16,0.16
+Langat 2,22/1/2022,Color,5,6,7
+Langat 2,22/1/2022,pH,7.13,7.17,7.21
+Langat 2,22/1/2022,Ammonia (NH4),0.02,0.04,0.05
+Langat 2,22/1/2022,Ferum/Iron (Fe),0.9,0.98,1.05
+Langat 2,22/1/2022,Turbidity,31,41,48
+Langat 2,22/1/2022,Manganese (Mn),0.09,0.1,0.1
+Langat 2,23/1/2022,Color,5,7.5,10
+Langat 2,23/1/2022,pH,7.02,7.11,7.17
+Langat 2,23/1/2022,Ammonia (NH4),0.02,0.05,0.07
+Langat 2,23/1/2022,Ferum/Iron (Fe),0.91,0.95,0.98
+Langat 2,23/1/2022,Turbidity,30,36.17,54
+Langat 2,23/1/2022,Manganese (Mn),0.07,0.7,1.32
+Langat 2,24/1/2022,Color,6,6.5,7
+Langat 2,24/1/2022,pH,7.1,7.19,7.26
+Langat 2,24/1/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,24/1/2022,Ferum/Iron (Fe),0.89,0.91,0.92
+Langat 2,24/1/2022,Turbidity,27,28.67,30
+Langat 2,24/1/2022,Manganese (Mn),0.07,0.08,0.09
+Langat 2,25/1/2022,Color,7,8.17,9
+Langat 2,25/1/2022,pH,7.1,7.18,7.22
+Langat 2,25/1/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,25/1/2022,Ferum/Iron (Fe),0.91,0.95,0.98
+Langat 2,25/1/2022,Turbidity,26,34.67,40
+Langat 2,25/1/2022,Manganese (Mn),0.09,0.1,0.1
+Langat 2,26/1/2022,Color,6,7.33,9
+Langat 2,26/1/2022,pH,7.03,7.14,7.19
+Langat 2,26/1/2022,Ammonia (NH4),0.2,0.45,0.7
+Langat 2,26/1/2022,Ferum/Iron (Fe),1.21,1.22,1.22
+Langat 2,26/1/2022,Turbidity,44,49.5,55
+Langat 2,26/1/2022,Manganese (Mn),0.11,0.2,0.29
+Langat 2,27/1/2022,Color,6,6.33,7
+Langat 2,27/1/2022,pH,7.17,7.21,7.29
+Langat 2,27/1/2022,Ammonia (NH4),0.07,0.09,0.11
+Langat 2,27/1/2022,Ferum/Iron (Fe),0.98,1.09,1.2
+Langat 2,27/1/2022,Turbidity,40,51.5,68
+Langat 2,27/1/2022,Manganese (Mn),0.11,0.13,0.14
+Langat 2,28/1/2022,Color,5,5.5,6
+Langat 2,28/1/2022,pH,7.02,7.17,7.22
+Langat 2,28/1/2022,Ammonia (NH4),0.03,0.03,0.03
+Langat 2,28/1/2022,Ferum/Iron (Fe),0.72,0.79,0.86
+Langat 2,28/1/2022,Turbidity,29,31,34
+Langat 2,28/1/2022,Manganese (Mn),0.09,0.09,0.09
+Langat 2,29/1/2022,Color,7,7.67,8
+Langat 2,29/1/2022,pH,7.2,7.25,7.28
+Langat 2,29/1/2022,Ammonia (NH4),0.02,0.02,0.02
+Langat 2,29/1/2022,Ferum/Iron (Fe),0.81,0.87,0.93
+Langat 2,29/1/2022,Turbidity,22,26.5,32
+Langat 2,29/1/2022,Manganese (Mn),0.09,0.11,0.12
+Langat 2,30/1/2022,Color,7,7.5,8
+Langat 2,30/1/2022,pH,7.11,7.26,7.32
+Langat 2,30/1/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,30/1/2022,Ferum/Iron (Fe),0.8,0.86,0.92
+Langat 2,30/1/2022,Turbidity,22,38,65
+Langat 2,30/1/2022,Manganese (Mn),0.08,0.09,0.09
+Langat 2,31/1/2022,Color,8,12.17,16
+Langat 2,31/1/2022,pH,7.11,7.13,7.16
+Langat 2,31/1/2022,Ammonia (NH4),0.05,0.05,0.05
+Langat 2,31/1/2022,Ferum/Iron (Fe),1.11,1.32,1.53
+Langat 2,31/1/2022,Turbidity,76,103.17,125
+Langat 2,31/1/2022,Manganese (Mn),0.14,0.2,0.25
+Langat 2,1/2/2022,Color,5,6,7
+Langat 2,1/2/2022,pH,7.14,7.19,7.29
+Langat 2,1/2/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,1/2/2022,Ferum/Iron (Fe),0.82,0.86,0.9
+Langat 2,1/2/2022,Turbidity,30,36.5,45
+Langat 2,1/2/2022,Manganese (Mn),0.08,0.09,0.1
+Langat 2,2/2/2022,Color,5,6.5,8
+Langat 2,2/2/2022,pH,7.17,7.22,7.3
+Langat 2,2/2/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,2/2/2022,Ferum/Iron (Fe),0.76,0.79,0.82
+Langat 2,2/2/2022,Turbidity,25,29.67,36
+Langat 2,2/2/2022,Manganese (Mn),0.06,0.07,0.08
+Langat 2,3/2/2022,Color,5,5,5
+Langat 2,3/2/2022,pH,7.21,7.23,7.25
+Langat 2,3/2/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,3/2/2022,Ferum/Iron (Fe),0.7,0.71,0.71
+Langat 2,3/2/2022,Turbidity,18,20.17,22
+Langat 2,3/2/2022,Manganese (Mn),0.04,0.06,0.07
+Langat 2,4/2/2022,Color,6,6.83,8
+Langat 2,4/2/2022,pH,7.28,7.3,7.33
+Langat 2,4/2/2022,Ammonia (NH4),0.03,0.03,0.03
+Langat 2,4/2/2022,Ferum/Iron (Fe),0.6,0.65,0.69
+Langat 2,4/2/2022,Turbidity,20,22.83,26
+Langat 2,4/2/2022,Manganese (Mn),0.05,0.06,0.06
+Langat 2,5/2/2022,Color,5,6,7
+Langat 2,5/2/2022,pH,7.2,7.26,7.32
+Langat 2,5/2/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,5/2/2022,Ferum/Iron (Fe),0.73,0.77,0.8
+Langat 2,5/2/2022,Turbidity,18,37.67,50
+Langat 2,5/2/2022,Manganese (Mn),0.04,0.08,0.12
+Langat 2,6/2/2022,Color,10,12.17,15
+Langat 2,6/2/2022,pH,7.18,7.22,7.27
+Langat 2,6/2/2022,Ammonia (NH4),0.05,0.05,0.05
+Langat 2,6/2/2022,Ferum/Iron (Fe),1.13,1.26,1.39
+Langat 2,6/2/2022,Turbidity,70,84.5,109
+Langat 2,6/2/2022,Manganese (Mn),0.16,0.19,0.22
+Langat 2,7/2/2022,Color,8,9.33,10
+Langat 2,7/2/2022,pH,7.18,7.21,7.23
+Langat 2,7/2/2022,Ammonia (NH4),0.02,0.06,0.1
+Langat 2,7/2/2022,Ferum/Iron (Fe),1.01,1.07,1.12
+Langat 2,7/2/2022,Turbidity,65,82.67,117
+Langat 2,7/2/2022,Manganese (Mn),0.14,0.15,0.15
+Langat 2,8/2/2022,Color,7,8.33,12
+Langat 2,8/2/2022,pH,7.03,7.18,7.27
+Langat 2,8/2/2022,Ammonia (NH4),0.03,0.05,0.06
+Langat 2,8/2/2022,Ferum/Iron (Fe),0.92,0.95,0.98
+Langat 2,8/2/2022,Turbidity,39,46.67,54
+Langat 2,8/2/2022,Manganese (Mn),0.11,0.11,0.11
+Langat 2,9/2/2022,Color,5,10.83,20
+Langat 2,9/2/2022,pH,7.17,7.26,7.36
+Langat 2,9/2/2022,Ammonia (NH4),0.06,0.07,0.07
+Langat 2,9/2/2022,Ferum/Iron (Fe),1.41,1.52,1.63
+Langat 2,9/2/2022,Turbidity,28,66,141
+Langat 2,9/2/2022,Manganese (Mn),0.11,0.2,0.28
+Langat 2,10/2/2022,Color,5,6,8
+Langat 2,10/2/2022,pH,7.21,7.3,7.33
+Langat 2,10/2/2022,Ammonia (NH4),0.02,0.03,0.04
+Langat 2,10/2/2022,Ferum/Iron (Fe),0.7,0.71,0.71
+Langat 2,10/2/2022,Turbidity,27,32.83,43
+Langat 2,10/2/2022,Manganese (Mn),0.06,0.06,0.06
+Langat 2,11/2/2022,Color,7,9.5,14
+Langat 2,11/2/2022,pH,7.21,7.26,7.29
+Langat 2,11/2/2022,Ammonia (NH4),0.02,0.04,0.05
+Langat 2,11/2/2022,Ferum/Iron (Fe),0.82,0.89,0.96
+Langat 2,11/2/2022,Turbidity,32,46.33,101
+Langat 2,11/2/2022,Manganese (Mn),0.07,0.08,0.09
+Langat 2,12/2/2022,Color,6,9.5,15
+Langat 2,12/2/2022,pH,7.17,7.21,7.27
+Langat 2,12/2/2022,Ammonia (NH4),0.02,0.03,0.04
+Langat 2,12/2/2022,Ferum/Iron (Fe),0.88,0.89,0.9
+Langat 2,12/2/2022,Turbidity,19,25,30
+Langat 2,12/2/2022,Manganese (Mn),0.07,0.08,0.09
+Langat 2,13/2/2022,Color,4,7.17,11
+Langat 2,13/2/2022,pH,7.2,7.28,7.36
+Langat 2,13/2/2022,Ammonia (NH4),0.02,0.03,0.04
+Langat 2,13/2/2022,Ferum/Iron (Fe),0.91,0.91,0.91
+Langat 2,13/2/2022,Turbidity,20,24.17,31
+Langat 2,13/2/2022,Manganese (Mn),0.04,0.06,0.08
+Langat 2,14/2/2022,Color,9,13.67,22
+Langat 2,14/2/2022,pH,7.18,7.25,7.33
+Langat 2,14/2/2022,Ammonia (NH4),0.04,0.06,0.07
+Langat 2,14/2/2022,Ferum/Iron (Fe),1.05,1.39,1.72
+Langat 2,14/2/2022,Turbidity,50,116.5,250
+Langat 2,14/2/2022,Manganese (Mn),0.12,0.14,0.16
+Langat 2,15/2/2022,Color,12,25.33,32
+Langat 2,15/2/2022,pH,7.21,7.27,7.32
+Langat 2,15/2/2022,Ammonia (NH4),0.23,0.28,0.33
+Langat 2,15/2/2022,Ferum/Iron (Fe),1.95,2.91,3.86
+Langat 2,15/2/2022,Turbidity,47,327,553
+Langat 2,15/2/2022,Manganese (Mn),0.41,0.6,0.79
+Langat 2,16/2/2022,Color,20,26.17,33
+Langat 2,16/2/2022,pH,7.04,7.11,7.21
+Langat 2,16/2/2022,Ammonia (NH4),0.34,0.35,0.35
+Langat 2,16/2/2022,Ferum/Iron (Fe),3.28,3.31,3.34
+Langat 2,16/2/2022,Turbidity,278,435,767
+Langat 2,16/2/2022,Manganese (Mn),0.31,0.55,0.79
+Langat 2,17/2/2022,Color,16,18,24
+Langat 2,17/2/2022,pH,7.06,7.09,7.12
+Langat 2,17/2/2022,Ammonia (NH4),0.08,0.1,0.12
+Langat 2,17/2/2022,Ferum/Iron (Fe),1.64,1.73,1.82
+Langat 2,17/2/2022,Turbidity,123,214.67,411
+Langat 2,17/2/2022,Manganese (Mn),0.14,0.23,0.32
+Langat 2,18/2/2022,Color,17,25.17,29
+Langat 2,18/2/2022,pH,7.03,7.09,7.16
+Langat 2,18/2/2022,Ammonia (NH4),0.21,0.66,1.1
+Langat 2,18/2/2022,Ferum/Iron (Fe),1.99,2.55,3.1
+Langat 2,18/2/2022,Turbidity,163,506.5,902
+Langat 2,18/2/2022,Manganese (Mn),0.34,0.39,0.43
+Langat 2,19/2/2022,Color,8,10.33,14
+Langat 2,19/2/2022,pH,7.11,7.16,7.22
+Langat 2,19/2/2022,Ammonia (NH4),0.06,0.09,0.11
+Langat 2,19/2/2022,Ferum/Iron (Fe),1.04,1.08,1.12
+Langat 2,19/2/2022,Turbidity,58,75.5,100
+Langat 2,19/2/2022,Manganese (Mn),0.15,0.18,0.2
+Langat 2,20/2/2022,Color,9,11,15
+Langat 2,20/2/2022,pH,7.1,7.17,7.28
+Langat 2,20/2/2022,Ammonia (NH4),0.08,0.12,0.16
+Langat 2,20/2/2022,Ferum/Iron (Fe),1.1,1.21,1.32
+Langat 2,20/2/2022,Turbidity,95,118.17,156
+Langat 2,20/2/2022,Manganese (Mn),0.13,0.18,0.23
+Langat 2,21/2/2022,Color,7,8.33,12
+Langat 2,21/2/2022,pH,7.03,7.09,7.15
+Langat 2,21/2/2022,Ammonia (NH4),0.07,0.07,0.07
+Langat 2,21/2/2022,Ferum/Iron (Fe),0.74,0.8,0.86
+Langat 2,21/2/2022,Turbidity,50,66.33,88
+Langat 2,21/2/2022,Manganese (Mn),0.1,0.11,0.11
+Langat 2,22/2/2022,Color,12,16.33,24
+Langat 2,22/2/2022,pH,7.09,7.15,7.19
+Langat 2,22/2/2022,Ammonia (NH4),0.08,0.17,0.26
+Langat 2,22/2/2022,Ferum/Iron (Fe),1.42,1.67,1.91
+Langat 2,22/2/2022,Turbidity,77,119.17,236
+Langat 2,22/2/2022,Manganese (Mn),0.13,0.32,0.51
+Langat 2,23/2/2022,Color,20,25.83,31
+Langat 2,23/2/2022,pH,6.99,7.08,7.21
+Langat 2,23/2/2022,Ammonia (NH4),0.52,0.65,0.77
+Langat 2,23/2/2022,Ferum/Iron (Fe),4.32,5.02,5.72
+Langat 2,23/2/2022,Turbidity,196,912.67,1668
+Langat 2,23/2/2022,Manganese (Mn),0.63,0.7,0.77
+Langat 2,24/2/2022,Color,17,20.67,25
+Langat 2,24/2/2022,pH,6.75,6.98,7.12
+Langat 2,24/2/2022,Ammonia (NH4),0.2,0.36,0.51
+Langat 2,24/2/2022,Ferum/Iron (Fe),2.29,3.2,4.11
+Langat 2,24/2/2022,Turbidity,173,345,535
+Langat 2,24/2/2022,Manganese (Mn),0.45,0.49,0.52
+Langat 2,25/2/2022,Color,16,22,32
+Langat 2,25/2/2022,pH,6.83,6.98,7.07
+Langat 2,25/2/2022,Ammonia (NH4),0.23,0.71,1.18
+Langat 2,25/2/2022,Ferum/Iron (Fe),2.33,4.46,6.59
+Langat 2,25/2/2022,Turbidity,179,1071.33,3109
+Langat 2,25/2/2022,Manganese (Mn),0.5,1.04,1.58
+Langat 2,26/2/2022,Color,10,13.17,22
+Langat 2,26/2/2022,pH,7.08,7.12,7.17
+Langat 2,26/2/2022,Ammonia (NH4),0.11,0.12,0.12
+Langat 2,26/2/2022,Ferum/Iron (Fe),1.21,1.38,1.55
+Langat 2,26/2/2022,Turbidity,63,134.83,273
+Langat 2,26/2/2022,Manganese (Mn),0.21,0.23,0.25
+Langat 2,27/2/2022,Color,16,19.67,28
+Langat 2,27/2/2022,pH,7,7.12,7.28
+Langat 2,27/2/2022,Ammonia (NH4),0.26,0.37,0.48
+Langat 2,27/2/2022,Ferum/Iron (Fe),2.19,3.25,4.3
+Langat 2,27/2/2022,Turbidity,175,542.83,1546
+Langat 2,27/2/2022,Manganese (Mn),0.58,0.8,1.01
+Langat 2,28/2/2022,Color,20,30,41
+Langat 2,28/2/2022,pH,6.87,6.96,7.05
+Langat 2,28/2/2022,Ammonia (NH4),0.74,0.86,0.98
+Langat 2,28/2/2022,Ferum/Iron (Fe),6.53,7.17,7.8
+Langat 2,28/2/2022,Turbidity,470,914.67,1400
+Langat 2,28/2/2022,Manganese (Mn),1.26,1.51,1.75
+Langat 2,1/3/2022,Color,18,19.67,23
+Langat 2,1/3/2022,pH,7.05,7.11,7.15
+Langat 2,1/3/2022,Ammonia (NH4),0.25,0.25,0.25
+Langat 2,1/3/2022,Ferum/Iron (Fe),2.42,2.78,3.14
+Langat 2,1/3/2022,Turbidity,277,328.5,411
+Langat 2,1/3/2022,Manganese (Mn),0.32,0.51,0.69
+Langat 2,2/3/2022,Color,17,24.5,33
+Langat 2,2/3/2022,pH,6.82,7.02,7.25
+Langat 2,2/3/2022,Ammonia (NH4),0.15,0.48,0.8
+Langat 2,2/3/2022,Ferum/Iron (Fe),2.08,4.6,7.11
+Langat 2,2/3/2022,Turbidity,164,846.83,1820
+Langat 2,2/3/2022,Manganese (Mn),0.4,1.06,1.71
+Langat 2,3/3/2022,Color,17,22.17,31
+Langat 2,3/3/2022,pH,6.98,7.03,7.07
+Langat 2,3/3/2022,Ammonia (NH4),0.08,0.14,0.19
+Langat 2,3/3/2022,Ferum/Iron (Fe),2.02,2.62,3.22
+Langat 2,3/3/2022,Turbidity,211,328.83,489
+Langat 2,3/3/2022,Manganese (Mn),0.37,0.61,0.85
+Langat 2,4/3/2022,Color,14,21.17,28
+Langat 2,4/3/2022,pH,6.77,6.98,7.76
+Langat 2,4/3/2022,Ammonia (NH4),0.14,0.34,0.53
+Langat 2,4/3/2022,Ferum/Iron (Fe),2.14,4.9,7.65
+Langat 2,4/3/2022,Turbidity,468,919.67,1559
+Langat 2,4/3/2022,Manganese (Mn),0.71,1.41,2.1
+Langat 2,5/3/2022,Color,19,20.83,23
+Langat 2,5/3/2022,pH,6.7,6.93,7.07
+Langat 2,5/3/2022,Ammonia (NH4),0.18,0.25,0.31
+Langat 2,5/3/2022,Ferum/Iron (Fe),3.8,4.46,5.12
+Langat 2,5/3/2022,Turbidity,337,484,602
+Langat 2,5/3/2022,Manganese (Mn),0.78,0.8,0.82
+Langat 2,6/3/2022,Color,11,17.5,21
+Langat 2,6/3/2022,pH,6.8,6.99,7.14
+Langat 2,6/3/2022,Ammonia (NH4),0.15,0.17,0.19
+Langat 2,6/3/2022,Ferum/Iron (Fe),1.81,2.17,2.52
+Langat 2,6/3/2022,Turbidity,133,270.83,377
+Langat 2,6/3/2022,Manganese (Mn),0.42,0.51,0.59
+Langat 2,7/3/2022,Color,13,17.33,24
+Langat 2,7/3/2022,pH,6.74,6.91,7
+Langat 2,7/3/2022,Ammonia (NH4),0.12,0.13,0.13
+Langat 2,7/3/2022,Ferum/Iron (Fe),1.42,1.57,1.72
+Langat 2,7/3/2022,Turbidity,145,280.67,492
+Langat 2,7/3/2022,Manganese (Mn),0.22,0.28,0.33
+Langat 2,8/3/2022,Color,10,14.5,21
+Langat 2,8/3/2022,pH,6.8,6.95,7.02
+Langat 2,8/3/2022,Ammonia (NH4),0.16,0.18,0.19
+Langat 2,8/3/2022,Ferum/Iron (Fe),1.22,1.56,1.89
+Langat 2,8/3/2022,Turbidity,2.77,191.46,352
+Langat 2,8/3/2022,Manganese (Mn),0.24,0.33,0.41
+Langat 2,9/3/2022,Color,13,23.17,41
+Langat 2,9/3/2022,pH,6.82,7.02,7.22
+Langat 2,9/3/2022,Ammonia (NH4),0.11,0.43,0.74
+Langat 2,9/3/2022,Ferum/Iron (Fe),1.2,6.7,12.2
+Langat 2,9/3/2022,Turbidity,178,723.5,2229
+Langat 2,9/3/2022,Manganese (Mn),0.14,1.79,3.43
+Langat 2,10/3/2022,Color,15,27.33,51
+Langat 2,10/3/2022,pH,6.63,6.85,7.06
+Langat 2,10/3/2022,Ammonia (NH4),0.11,0.76,1.41
+Langat 2,10/3/2022,Ferum/Iron (Fe),1.71,14.26,26.8
+Langat 2,10/3/2022,Turbidity,221,1618.83,4374
+Langat 2,10/3/2022,Manganese (Mn),0.21,4.12,8.02
+Langat 2,11/3/2022,Color,17,19.67,26
+Langat 2,11/3/2022,pH,6.89,6.98,7.08
+Langat 2,11/3/2022,Ammonia (NH4),0.74,2.01,3.28
+Langat 2,11/3/2022,Ferum/Iron (Fe),1.1,4.45,7.8
+Langat 2,11/3/2022,Turbidity,411,791.5,1384
+Langat 2,11/3/2022,Manganese (Mn),0.73,1.5,2.26
+Langat 2,12/3/2022,Color,11,12.5,14
+Langat 2,12/3/2022,pH,6.97,7.03,7.1
+Langat 2,12/3/2022,Ammonia (NH4),0.09,0.21,0.32
+Langat 2,12/3/2022,Ferum/Iron (Fe),1.79,1.94,2.09
+Langat 2,12/3/2022,Turbidity,141,336.83,555
+Langat 2,12/3/2022,Manganese (Mn),0.35,0.46,0.56
+Langat 2,13/3/2022,Color,10,12.17,13
+Langat 2,13/3/2022,pH,7.04,7.08,7.1
+Langat 2,13/3/2022,Ammonia (NH4),0.1,0.12,0.14
+Langat 2,13/3/2022,Ferum/Iron (Fe),1.1,1.17,1.23
+Langat 2,13/3/2022,Turbidity,90,99.33,122
+Langat 2,13/3/2022,Manganese (Mn),0.22,0.23,0.24
+Langat 2,14/3/2022,Color,8,10,12
+Langat 2,14/3/2022,pH,7.13,7.2,7.26
+Langat 2,14/3/2022,Ammonia (NH4),0.09,0.11,0.12
+Langat 2,14/3/2022,Ferum/Iron (Fe),1.11,1.11,1.11
+Langat 2,14/3/2022,Turbidity,70,80.33,92
+Langat 2,14/3/2022,Manganese (Mn),0.14,0.15,0.16
+Langat 2,15/3/2022,Color,9,13,20
+Langat 2,15/3/2022,pH,7.06,7.17,7.23
+Langat 2,15/3/2022,Ammonia (NH4),0.16,0.16,0.16
+Langat 2,15/3/2022,Ferum/Iron (Fe),1.88,1.93,1.98
+Langat 2,15/3/2022,Turbidity,123,215.67,459
+Langat 2,15/3/2022,Manganese (Mn),0.37,0.41,0.45
+Langat 2,16/3/2022,Color,23,26.17,31
+Langat 2,16/3/2022,pH,7.1,7.15,7.2
+Langat 2,16/3/2022,Ammonia (NH4),0.24,0.52,0.79
+Langat 2,16/3/2022,Ferum/Iron (Fe),2.64,3.86,5.08
+Langat 2,16/3/2022,Turbidity,187,684.67,1898
+Langat 2,16/3/2022,Manganese (Mn),0.5,0.69,0.88
+Langat 2,17/3/2022,Color,22,28.5,34
+Langat 2,17/3/2022,pH,6.95,7.01,7.04
+Langat 2,17/3/2022,Ammonia (NH4),0.58,0.65,0.72
+Langat 2,17/3/2022,Ferum/Iron (Fe),4.99,5.43,5.86
+Langat 2,17/3/2022,Turbidity,459,814.83,1208
+Langat 2,17/3/2022,Manganese (Mn),1.13,1.17,1.21
+Langat 2,18/3/2022,Color,20,26.83,39
+Langat 2,18/3/2022,pH,6.7,7.02,7.16
+Langat 2,18/3/2022,Ammonia (NH4),0.38,0.4,0.41
+Langat 2,18/3/2022,Ferum/Iron (Fe),5.21,5.61,6.01
+Langat 2,18/3/2022,Turbidity,360,855.17,2024
+Langat 2,18/3/2022,Manganese (Mn),0.99,0.99,0.99
+Langat 2,19/3/2022,Color,30,32.33,36
+Langat 2,19/3/2022,pH,6.83,6.91,6.96
+Langat 2,19/3/2022,Ammonia (NH4),0.24,0.32,0.39
+Langat 2,19/3/2022,Ferum/Iron (Fe),5.04,5.22,5.4
+Langat 2,19/3/2022,Turbidity,510,769.33,1208
+Langat 2,19/3/2022,Manganese (Mn),1.22,1.36,1.5
+Langat 2,20/3/2022,Color,20,24.5,32
+Langat 2,20/3/2022,pH,6.95,7.15,7.95
+Langat 2,20/3/2022,Ammonia (NH4),0.15,0.19,0.23
+Langat 2,20/3/2022,Ferum/Iron (Fe),2.46,2.72,2.97
+Langat 2,20/3/2022,Turbidity,226,309.67,428
+Langat 2,20/3/2022,Manganese (Mn),0.49,0.55,0.6
+Langat 2,21/3/2022,Color,12,18.33,28
+Langat 2,21/3/2022,pH,7.08,7.14,7.3
+Langat 2,21/3/2022,Ammonia (NH4),0.12,0.15,0.18
+Langat 2,21/3/2022,Ferum/Iron (Fe),1.56,1.82,2.08
+Langat 2,21/3/2022,Turbidity,140,219.33,508
+Langat 2,21/3/2022,Manganese (Mn),0.29,0.35,0.4
+Langat 2,22/3/2022,Color,12,17.17,32
+Langat 2,22/3/2022,pH,7.09,7.17,7.34
+Langat 2,22/3/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,22/3/2022,Ferum/Iron (Fe),1.09,1.23,1.37
+Langat 2,22/3/2022,Turbidity,94,205.67,666
+Langat 2,22/3/2022,Manganese (Mn),0.18,0.21,0.23
+Langat 2,23/3/2022,Color,11,15.33,21
+Langat 2,23/3/2022,pH,7.2,7.23,7.27
+Langat 2,23/3/2022,Ammonia (NH4),0.07,0.09,0.11
+Langat 2,23/3/2022,Ferum/Iron (Fe),1.08,1.23,1.37
+Langat 2,23/3/2022,Turbidity,57,105.83,206
+Langat 2,23/3/2022,Manganese (Mn),0.13,0.17,0.21
+Langat 2,24/3/2022,Color,14,16.67,19
+Langat 2,24/3/2022,pH,7.11,7.15,7.2
+Langat 2,24/3/2022,Ammonia (NH4),0.08,0.11,0.13
+Langat 2,24/3/2022,Ferum/Iron (Fe),1.4,1.46,1.52
+Langat 2,24/3/2022,Turbidity,78,138,220
+Langat 2,24/3/2022,Manganese (Mn),0.2,0.23,0.26
+Langat 2,25/3/2022,Color,12,13.17,14
+Langat 2,25/3/2022,pH,7.21,7.27,7.36
+Langat 2,25/3/2022,Ammonia (NH4),0.05,0.06,0.07
+Langat 2,25/3/2022,Ferum/Iron (Fe),1.08,1.15,1.22
+Langat 2,25/3/2022,Turbidity,58,65.83,73
+Langat 2,25/3/2022,Manganese (Mn),0.16,0.18,0.19
+Langat 2,26/3/2022,Color,10,14.67,17
+Langat 2,26/3/2022,pH,7.11,7.28,7.34
+Langat 2,26/3/2022,Ammonia (NH4),0.07,0.08,0.08
+Langat 2,26/3/2022,Ferum/Iron (Fe),1.19,1.32,1.44
+Langat 2,26/3/2022,Turbidity,71,128.17,212
+Langat 2,26/3/2022,Manganese (Mn),0.14,0.14,0.14
+Langat 2,27/3/2022,Color,18,19.17,22
+Langat 2,27/3/2022,pH,7.09,7.14,7.2
+Langat 2,27/3/2022,Ammonia (NH4),0.16,0.17,0.18
+Langat 2,27/3/2022,Ferum/Iron (Fe),1.84,1.97,2.1
+Langat 2,27/3/2022,Turbidity,121,221.5,340
+Langat 2,27/3/2022,Manganese (Mn),0.18,0.2,0.21
+Langat 2,28/3/2022,Color,9,15.67,22
+Langat 2,28/3/2022,pH,7.17,7.23,7.31
+Langat 2,28/3/2022,Ammonia (NH4),0.09,0.11,0.13
+Langat 2,28/3/2022,Ferum/Iron (Fe),1.18,2.41,3.63
+Langat 2,28/3/2022,Turbidity,66,168.02,346
+Langat 2,28/3/2022,Manganese (Mn),0.17,0.45,0.73
+Langat 2,29/3/2022,Color,10,13.67,18
+Langat 2,29/3/2022,pH,7.14,7.25,7.43
+Langat 2,29/3/2022,Ammonia (NH4),0.11,0.11,0.11
+Langat 2,29/3/2022,Ferum/Iron (Fe),1.42,1.49,1.56
+Langat 2,29/3/2022,Turbidity,103,118.17,146
+Langat 2,29/3/2022,Manganese (Mn),0.24,0.25,0.25
+Langat 2,30/3/2022,Color,12,18,28
+Langat 2,30/3/2022,pH,7.21,7.31,7.4
+Langat 2,30/3/2022,Ammonia (NH4),0.02,0.57,1.11
+Langat 2,30/3/2022,Ferum/Iron (Fe),1.43,2.66,3.88
+Langat 2,30/3/2022,Turbidity,88,174.33,365
+Langat 2,30/3/2022,Manganese (Mn),0.22,0.32,0.41
+Langat 2,31/3/2022,Color,6,16.17,26
+Langat 2,31/3/2022,pH,7.2,7.27,7.39
+Langat 2,31/3/2022,Ammonia (NH4),0.14,0.19,0.24
+Langat 2,31/3/2022,Ferum/Iron (Fe),2.11,2.25,2.38
+Langat 2,31/3/2022,Turbidity,133,281.5,591
+Langat 2,31/3/2022,Manganese (Mn),0.31,0.38,0.44
+Langat 2,1/4/2022,Color,21,22.67,24
+Langat 2,1/4/2022,pH,7.13,7.17,7.23
+Langat 2,1/4/2022,Ammonia (NH4),0.33,0.37,0.41
+Langat 2,1/4/2022,Ferum/Iron (Fe),3.72,4.55,5.38
+Langat 2,1/4/2022,Turbidity,424,542.17,608
+Langat 2,1/4/2022,Manganese (Mn),1.08,1.14,1.2
+Langat 2,2/4/2022,Color,7,15.5,24
+Langat 2,2/4/2022,pH,7.15,7.21,7.26
+Langat 2,2/4/2022,Ammonia (NH4),0.2,0.24,0.28
+Langat 2,2/4/2022,Ferum/Iron (Fe),2.51,2.85,3.19
+Langat 2,2/4/2022,Turbidity,181,318.5,549
+Langat 2,2/4/2022,Manganese (Mn),0.47,0.56,0.65
+Langat 2,3/4/2022,Color,16,17,18
+Langat 2,3/4/2022,pH,7.19,7.21,7.24
+Langat 2,3/4/2022,Ammonia (NH4),0.28,0.33,0.37
+Langat 2,3/4/2022,Ferum/Iron (Fe),2.8,3.08,3.36
+Langat 2,3/4/2022,Turbidity,286,337.67,368
+Langat 2,3/4/2022,Manganese (Mn),0.64,0.68,0.71
+Langat 2,4/4/2022,Color,8,19.17,26
+Langat 2,4/4/2022,pH,7.13,7.24,7.4
+Langat 2,4/4/2022,Ammonia (NH4),0.1,0.22,0.34
+Langat 2,4/4/2022,Ferum/Iron (Fe),1.25,2.49,3.72
+Langat 2,4/4/2022,Turbidity,120,421.83,620
+Langat 2,4/4/2022,Manganese (Mn),0.2,0.54,0.88
+Langat 2,5/4/2022,Color,18,20.83,27
+Langat 2,5/4/2022,pH,7.13,7.21,7.27
+Langat 2,5/4/2022,Ammonia (NH4),0.29,0.33,0.36
+Langat 2,5/4/2022,Ferum/Iron (Fe),3.29,3.7,4.1
+Langat 2,5/4/2022,Turbidity,273,410.33,657
+Langat 2,5/4/2022,Manganese (Mn),0.66,0.89,1.11
+Langat 2,6/4/2022,Color,16,24.5,30
+Langat 2,6/4/2022,pH,7.11,7.22,7.28
+Langat 2,6/4/2022,Ammonia (NH4),0.26,0.27,0.28
+Langat 2,6/4/2022,Ferum/Iron (Fe),2.86,3.53,4.2
+Langat 2,6/4/2022,Turbidity,201,616.17,966
+Langat 2,6/4/2022,Manganese (Mn),0.53,0.68,0.82
+Langat 2,7/4/2022,Color,12,15.5,23
+Langat 2,7/4/2022,pH,7.2,7.26,7.29
+Langat 2,7/4/2022,Ammonia (NH4),0.13,0.17,0.2
+Langat 2,7/4/2022,Ferum/Iron (Fe),1.04,1.8,2.55
+Langat 2,7/4/2022,Turbidity,203,246.67,366
+Langat 2,7/4/2022,Manganese (Mn),0.46,0.49,0.51
+Langat 2,8/4/2022,Color,10,15,20
+Langat 2,8/4/2022,pH,7.24,7.29,7.32
+Langat 2,8/4/2022,Ammonia (NH4),0.14,0.17,0.2
+Langat 2,8/4/2022,Ferum/Iron (Fe),1.77,2.29,2.8
+Langat 2,8/4/2022,Turbidity,147,252.67,491
+Langat 2,8/4/2022,Manganese (Mn),0.32,0.42,0.51
+Langat 2,9/4/2022,Color,16,19.67,27
+Langat 2,9/4/2022,pH,7.22,7.31,7.36
+Langat 2,9/4/2022,Ammonia (NH4),0.19,0.3,0.41
+Langat 2,9/4/2022,Ferum/Iron (Fe),2.68,3.28,3.88
+Langat 2,9/4/2022,Turbidity,249,461.83,812
+Langat 2,9/4/2022,Manganese (Mn),0.54,0.84,1.13
+Langat 2,10/4/2022,Color,15,18.17,23
+Langat 2,10/4/2022,pH,7.21,7.28,7.32
+Langat 2,10/4/2022,Ammonia (NH4),0.17,0.37,0.56
+Langat 2,10/4/2022,Ferum/Iron (Fe),2.79,4.02,5.25
+Langat 2,10/4/2022,Turbidity,223,544.17,1120
+Langat 2,10/4/2022,Manganese (Mn),0.52,0.74,0.96
+Langat 2,11/4/2022,Color,13,17.33,25
+Langat 2,11/4/2022,pH,7.15,7.19,7.22
+Langat 2,11/4/2022,Ammonia (NH4),0.13,0.24,0.35
+Langat 2,11/4/2022,Ferum/Iron (Fe),2.93,3.31,3.69
+Langat 2,11/4/2022,Turbidity,286,401,512
+Langat 2,11/4/2022,Manganese (Mn),0.6,0.65,0.7
+Langat 2,12/4/2022,Color,13,20.33,29
+Langat 2,12/4/2022,pH,7.16,7.2,7.24
+Langat 2,12/4/2022,Ammonia (NH4),0.14,0.26,0.38
+Langat 2,12/4/2022,Ferum/Iron (Fe),1.67,2.58,3.49
+Langat 2,12/4/2022,Turbidity,133,325.67,620
+Langat 2,12/4/2022,Manganese (Mn),0.3,0.56,0.82
+Langat 2,13/4/2022,Color,20,28.67,34
+Langat 2,13/4/2022,pH,7.1,7.13,7.21
+Langat 2,13/4/2022,Ammonia (NH4),0.27,0.34,0.41
+Langat 2,13/4/2022,Ferum/Iron (Fe),2.52,3.84,5.16
+Langat 2,13/4/2022,Turbidity,270,489.67,714
+Langat 2,13/4/2022,Manganese (Mn),0.56,0.84,1.11
+Langat 2,14/4/2022,Color,13,15.17,18
+Langat 2,14/4/2022,pH,7.03,7.16,7.26
+Langat 2,14/4/2022,Ammonia (NH4),0.12,0.16,0.2
+Langat 2,14/4/2022,Ferum/Iron (Fe),1.93,2.38,2.83
+Langat 2,14/4/2022,Turbidity,147,210.67,302
+Langat 2,14/4/2022,Manganese (Mn),0.33,0.41,0.49
+Langat 2,15/4/2022,Color,14,21.83,28
+Langat 2,15/4/2022,pH,7.02,7.13,7.22
+Langat 2,15/4/2022,Ammonia (NH4),0.12,0.27,0.41
+Langat 2,15/4/2022,Ferum/Iron (Fe),1.98,3.59,5.2
+Langat 2,15/4/2022,Turbidity,112,307.5,755
+Langat 2,15/4/2022,Manganese (Mn),0.31,0.6,0.89
+Langat 2,16/4/2022,Color,10,13.67,19
+Langat 2,16/4/2022,pH,7.06,7.12,7.21
+Langat 2,16/4/2022,Ammonia (NH4),0.1,0.18,0.26
+Langat 2,16/4/2022,Ferum/Iron (Fe),0.8,1.73,2.66
+Langat 2,16/4/2022,Turbidity,142,214.67,369
+Langat 2,16/4/2022,Manganese (Mn),0.2,0.39,0.58
+Langat 2,17/4/2022,Color,10,18.67,36
+Langat 2,17/4/2022,pH,7.13,7.18,7.25
+Langat 2,17/4/2022,Ammonia (NH4),0.12,0.24,0.35
+Langat 2,17/4/2022,Ferum/Iron (Fe),1.3,2.61,3.92
+Langat 2,17/4/2022,Turbidity,144,303.17,829
+Langat 2,17/4/2022,Manganese (Mn),0.14,0.45,0.76
+Langat 2,18/4/2022,Color,11,19.67,38
+Langat 2,18/4/2022,pH,7.06,7.25,7.44
+Langat 2,18/4/2022,Ammonia (NH4),0.12,0.13,0.13
+Langat 2,18/4/2022,Ferum/Iron (Fe),1.3,2.24,3.17
+Langat 2,18/4/2022,Turbidity,170,238.17,359
+Langat 2,18/4/2022,Manganese (Mn),0.13,0.35,0.56
+Langat 2,19/4/2022,Color,12,15.5,19
+Langat 2,19/4/2022,pH,7.13,7.19,7.24
+Langat 2,19/4/2022,Ammonia (NH4),0.04,0.09,0.13
+Langat 2,19/4/2022,Ferum/Iron (Fe),0.78,1.06,1.33
+Langat 2,19/4/2022,Turbidity,80,163.67,302
+Langat 2,19/4/2022,Manganese (Mn),0.2,0.38,0.56
+Langat 2,20/4/2022,Color,6,15.67,42
+Langat 2,20/4/2022,pH,6.92,7.11,7.22
+Langat 2,20/4/2022,Ammonia (NH4),0.1,0.11,0.12
+Langat 2,20/4/2022,Ferum/Iron (Fe),1.2,1.34,1.48
+Langat 2,20/4/2022,Turbidity,48,252.9,1073
+Langat 2,20/4/2022,Manganese (Mn),0.18,0.19,0.19
+Langat 2,21/4/2022,Color,12,19.17,29
+Langat 2,21/4/2022,pH,6.9,7.08,7.21
+Langat 2,21/4/2022,Ammonia (NH4),0.19,0.45,0.7
+Langat 2,21/4/2022,Ferum/Iron (Fe),2.4,2.59,2.78
+Langat 2,21/4/2022,Turbidity,242,455.67,921
+Langat 2,21/4/2022,Manganese (Mn),0.57,0.68,0.78
+Langat 2,22/4/2022,Color,10,12.5,19
+Langat 2,22/4/2022,pH,7.07,7.12,7.18
+Langat 2,22/4/2022,Ammonia (NH4),0.09,0.41,0.72
+Langat 2,22/4/2022,Ferum/Iron (Fe),1.44,2.12,2.8
+Langat 2,22/4/2022,Turbidity,97,205.17,280
+Langat 2,22/4/2022,Manganese (Mn),0.18,0.45,0.71
+Langat 2,23/4/2022,Color,8,10.5,13
+Langat 2,23/4/2022,pH,7.1,7.15,7.2
+Langat 2,23/4/2022,Ammonia (NH4),0.08,0.09,0.1
+Langat 2,23/4/2022,Ferum/Iron (Fe),1.4,1.58,1.76
+Langat 2,23/4/2022,Turbidity,74,102.5,212
+Langat 2,23/4/2022,Manganese (Mn),0.19,0.19,0.19
+Langat 2,24/4/2022,Color,16,20.67,25
+Langat 2,24/4/2022,pH,6.98,7.06,7.12
+Langat 2,24/4/2022,Ammonia (NH4),0.4,0.43,0.45
+Langat 2,24/4/2022,Ferum/Iron (Fe),5.32,5.56,5.8
+Langat 2,24/4/2022,Turbidity,378,559.67,750
+Langat 2,24/4/2022,Manganese (Mn),4.02,5.44,6.86
+Langat 2,25/4/2022,Color,10,12.17,16
+Langat 2,25/4/2022,pH,7.01,7.06,7.11
+Langat 2,25/4/2022,Ammonia (NH4),0.1,0.15,0.19
+Langat 2,25/4/2022,Ferum/Iron (Fe),1.81,2.3,2.79
+Langat 2,25/4/2022,Turbidity,90,204.17,295
+Langat 2,25/4/2022,Manganese (Mn),0.19,0.36,0.52
+Langat 2,26/4/2022,Color,10,13,16
+Langat 2,26/4/2022,pH,7.02,7.1,7.18
+Langat 2,26/4/2022,Ammonia (NH4),0.14,0.15,0.15
+Langat 2,26/4/2022,Ferum/Iron (Fe),1.65,1.7,1.75
+Langat 2,26/4/2022,Turbidity,117,148.83,171
+Langat 2,26/4/2022,Manganese (Mn),0.32,0.34,0.35
+Langat 2,27/4/2022,Color,10,11.5,13
+Langat 2,27/4/2022,pH,7.1,7.13,7.15
+Langat 2,27/4/2022,Ammonia (NH4),0.1,0.11,0.11
+Langat 2,27/4/2022,Ferum/Iron (Fe),1.32,1.6,1.88
+Langat 2,27/4/2022,Turbidity,97,115.83,129
+Langat 2,27/4/2022,Manganese (Mn),0.2,0.21,0.22
+Langat 2,28/4/2022,Color,8,9.5,11
+Langat 2,28/4/2022,pH,7.14,7.18,7.23
+Langat 2,28/4/2022,Ammonia (NH4),0.05,0.06,0.07
+Langat 2,28/4/2022,Ferum/Iron (Fe),0.97,1.11,1.24
+Langat 2,28/4/2022,Turbidity,54,74,104
+Langat 2,28/4/2022,Manganese (Mn),0.15,0.17,0.18
+Langat 2,29/4/2022,Color,12,14.17,17
+Langat 2,29/4/2022,pH,7.07,7.12,7.19
+Langat 2,29/4/2022,Ammonia (NH4),0.12,0.14,0.15
+Langat 2,29/4/2022,Ferum/Iron (Fe),1.14,1.17,1.2
+Langat 2,29/4/2022,Turbidity,57,133,178
+Langat 2,29/4/2022,Manganese (Mn),0.23,0.26,0.28
+Langat 2,30/4/2022,Color,10,15.67,22
+Langat 2,30/4/2022,pH,7.13,7.17,7.22
+Langat 2,30/4/2022,Ammonia (NH4),0.16,0.17,0.17
+Langat 2,30/4/2022,Ferum/Iron (Fe),1.76,2.98,4.2
+Langat 2,30/4/2022,Turbidity,185,327,578
+Langat 2,30/4/2022,Manganese (Mn),0.4,0.5,0.59
+Langat 2,1/5/2022,Color,8,14.67,18
+Langat 2,1/5/2022,pH,7.14,7.18,7.22
+Langat 2,1/5/2022,Ammonia (NH4),0.16,0.22,0.27
+Langat 2,1/5/2022,Ferum/Iron (Fe),1.11,3.12,5.12
+Langat 2,1/5/2022,Turbidity,100,211,291
+Langat 2,1/5/2022,Manganese (Mn),0.24,0.43,0.61
+Langat 2,2/5/2022,Color,12,16.33,19
+Langat 2,2/5/2022,pH,7.13,7.17,7.2
+Langat 2,2/5/2022,Ammonia (NH4),0.19,0.24,0.29
+Langat 2,2/5/2022,Ferum/Iron (Fe),0.24,1.17,2.09
+Langat 2,2/5/2022,Turbidity,132,180.5,232
+Langat 2,2/5/2022,Manganese (Mn),0.25,0.34,0.42
+Langat 2,3/5/2022,Color,8,13.5,18
+Langat 2,3/5/2022,pH,7.15,7.2,7.25
+Langat 2,3/5/2022,Ammonia (NH4),0.13,0.22,0.3
+Langat 2,3/5/2022,Ferum/Iron (Fe),1.4,2.26,3.12
+Langat 2,3/5/2022,Turbidity,108,222.67,330
+Langat 2,3/5/2022,Manganese (Mn),0.21,0.27,0.32
+Langat 2,4/5/2022,Color,8,10.83,15
+Langat 2,4/5/2022,pH,7.19,7.25,7.33
+Langat 2,4/5/2022,Ammonia (NH4),0.11,0.12,0.12
+Langat 2,4/5/2022,Ferum/Iron (Fe),1.4,1.45,1.49
+Langat 2,4/5/2022,Turbidity,72,105.5,200
+Langat 2,4/5/2022,Manganese (Mn),0.17,0.21,0.24
+Langat 2,5/5/2022,Color,3,7.67,11
+Langat 2,5/5/2022,pH,7.18,7.23,7.31
+Langat 2,5/5/2022,Ammonia (NH4),0.05,0.07,0.08
+Langat 2,5/5/2022,Ferum/Iron (Fe),1.02,1.14,1.26
+Langat 2,5/5/2022,Turbidity,35,63.83,88
+Langat 2,5/5/2022,Manganese (Mn),0.12,0.16,0.19
+Langat 2,6/5/2022,Color,6,7.33,9
+Langat 2,6/5/2022,pH,7.11,7.18,7.24
+Langat 2,6/5/2022,Ammonia (NH4),0.04,0.05,0.06
+Langat 2,6/5/2022,Ferum/Iron (Fe),0.95,1.12,1.28
+Langat 2,6/5/2022,Turbidity,35,50.83,68
+Langat 2,6/5/2022,Manganese (Mn),0.11,0.13,0.14
+Langat 2,7/5/2022,Color,5,7.67,11
+Langat 2,7/5/2022,pH,7.1,7.18,7.28
+Langat 2,7/5/2022,Ammonia (NH4),0.05,0.07,0.08
+Langat 2,7/5/2022,Ferum/Iron (Fe),0.69,1.07,1.45
+Langat 2,7/5/2022,Turbidity,32,56.17,89
+Langat 2,7/5/2022,Manganese (Mn),0.08,0.14,0.2
+Langat 2,8/5/2022,Color,5,6.17,7
+Langat 2,8/5/2022,pH,7.18,7.23,7.26
+Langat 2,8/5/2022,Ammonia (NH4),0.02,0.05,0.08
+Langat 2,8/5/2022,Ferum/Iron (Fe),0.88,0.9,0.92
+Langat 2,8/5/2022,Turbidity,35,40.33,48
+Langat 2,8/5/2022,Manganese (Mn),0.08,0.09,0.09
+Langat 2,9/5/2022,Color,7,10.67,14
+Langat 2,9/5/2022,pH,7.18,7.27,7.48
+Langat 2,9/5/2022,Ammonia (NH4),0.14,0.18,0.22
+Langat 2,9/5/2022,Ferum/Iron (Fe),1.29,1.48,1.67
+Langat 2,9/5/2022,Turbidity,46,135.5,196
+Langat 2,9/5/2022,Manganese (Mn),0.24,0.25,0.26
+Langat 2,10/5/2022,Color,9,12.5,17
+Langat 2,10/5/2022,pH,7.21,7.24,7.28
+Langat 2,10/5/2022,Ammonia (NH4),0.14,0.19,0.24
+Langat 2,10/5/2022,Ferum/Iron (Fe),1.78,2.21,2.64
+Langat 2,10/5/2022,Turbidity,74,179.17,395
+Langat 2,10/5/2022,Manganese (Mn),0.24,0.28,0.32
+Langat 2,11/5/2022,Color,6,9.83,14
+Langat 2,11/5/2022,pH,7.19,7.25,7.3
+Langat 2,11/5/2022,Ammonia (NH4),0.06,0.08,0.1
+Langat 2,11/5/2022,Ferum/Iron (Fe),1.27,1.49,1.71
+Langat 2,11/5/2022,Turbidity,68,146,272
+Langat 2,11/5/2022,Manganese (Mn),0.18,0.18,0.18
+Langat 2,12/5/2022,Color,12,24.5,42
+Langat 2,12/5/2022,pH,7,7.08,7.22
+Langat 2,12/5/2022,Ammonia (NH4),0.12,1.11,2.1
+Langat 2,12/5/2022,Ferum/Iron (Fe),2.18,4.2,6.22
+Langat 2,12/5/2022,Turbidity,120,632.5,1811
+Langat 2,12/5/2022,Manganese (Mn),0.22,0.7,1.18
+Langat 2,13/5/2022,Color,10,13.83,18
+Langat 2,13/5/2022,pH,7.02,7.14,7.24
+Langat 2,13/5/2022,Ammonia (NH4),0.1,0.12,0.13
+Langat 2,13/5/2022,Ferum/Iron (Fe),1.82,2.03,2.23
+Langat 2,13/5/2022,Turbidity,120,183.33,269
+Langat 2,13/5/2022,Manganese (Mn),0.12,0.18,0.24
+Langat 2,14/5/2022,Color,7,9.17,12
+Langat 2,14/5/2022,pH,7.3,7.33,7.36
+Langat 2,14/5/2022,Ammonia (NH4),0.1,0.14,0.18
+Langat 2,14/5/2022,Ferum/Iron (Fe),1.83,1.96,2.08
+Langat 2,14/5/2022,Turbidity,104,132.33,163
+Langat 2,14/5/2022,Manganese (Mn),0.19,0.27,0.34
+Langat 2,15/5/2022,Color,6,9.83,12
+Langat 2,15/5/2022,pH,7.32,7.34,7.41
+Langat 2,15/5/2022,Ammonia (NH4),0.08,0.09,0.09
+Langat 2,15/5/2022,Ferum/Iron (Fe),0.96,1.05,1.14
+Langat 2,15/5/2022,Turbidity,55,89.33,128
+Langat 2,15/5/2022,Manganese (Mn),0.11,0.12,0.12
+Langat 2,16/5/2022,Color,11,19.17,36
+Langat 2,16/5/2022,pH,7.1,7.19,7.24
+Langat 2,16/5/2022,Ammonia (NH4),0.14,0.35,0.56
+Langat 2,16/5/2022,Ferum/Iron (Fe),1.97,3.68,5.38
+Langat 2,16/5/2022,Turbidity,135,514,1550
+Langat 2,16/5/2022,Manganese (Mn),0.22,0.7,1.17
+Langat 2,17/5/2022,Color,12,18.33,26
+Langat 2,17/5/2022,pH,7.1,7.18,7.27
+Langat 2,17/5/2022,Ammonia (NH4),0.14,0.31,0.47
+Langat 2,17/5/2022,Ferum/Iron (Fe),2.05,2.62,3.19
+Langat 2,17/5/2022,Turbidity,124,311.67,674
+Langat 2,17/5/2022,Manganese (Mn),0.3,1,1.7
+Langat 2,18/5/2022,Color,11,13.17,19
+Langat 2,18/5/2022,pH,7.14,7.25,7.31
+Langat 2,18/5/2022,Ammonia (NH4),0.19,0.22,0.25
+Langat 2,18/5/2022,Ferum/Iron (Fe),1.5,2.13,2.75
+Langat 2,18/5/2022,Turbidity,110,148.5,254
+Langat 2,18/5/2022,Manganese (Mn),0.41,0.48,0.54
+Langat 2,19/5/2022,Color,11,13.67,17
+Langat 2,19/5/2022,pH,7.32,7.4,7.54
+Langat 2,19/5/2022,Ammonia (NH4),0.12,0.16,0.2
+Langat 2,19/5/2022,Ferum/Iron (Fe),2.01,2.31,2.6
+Langat 2,19/5/2022,Turbidity,123,212.67,320
+Langat 2,19/5/2022,Manganese (Mn),0.3,0.37,0.43
+Langat 2,20/5/2022,Color,10,15,19
+Langat 2,20/5/2022,pH,7.13,7.17,7.25
+Langat 2,20/5/2022,Ammonia (NH4),0.15,0.19,0.23
+Langat 2,20/5/2022,Ferum/Iron (Fe),1.98,2.38,2.77
+Langat 2,20/5/2022,Turbidity,136,289,384
+Langat 2,20/5/2022,Manganese (Mn),0.43,0.48,0.53
+Langat 2,21/5/2022,Color,12,14.67,21
+Langat 2,21/5/2022,pH,7.3,7.33,7.37
+Langat 2,21/5/2022,Ammonia (NH4),0.12,0.13,0.14
+Langat 2,21/5/2022,Ferum/Iron (Fe),1.68,1.74,1.8
+Langat 2,21/5/2022,Turbidity,108,159.5,229
+Langat 2,21/5/2022,Manganese (Mn),0.16,0.23,0.3
+Langat 2,22/5/2022,Color,8,9.83,11
+Langat 2,22/5/2022,pH,7.19,7.32,7.37
+Langat 2,22/5/2022,Ammonia (NH4),0.06,0.07,0.07
+Langat 2,22/5/2022,Ferum/Iron (Fe),0.89,1.06,1.23
+Langat 2,22/5/2022,Turbidity,56,66.33,93
+Langat 2,22/5/2022,Manganese (Mn),0.13,0.15,0.16
+Langat 2,23/5/2022,Color,8,9.67,13
+Langat 2,23/5/2022,pH,7.25,7.3,7.36
+Langat 2,23/5/2022,Ammonia (NH4),0.06,0.1,0.14
+Langat 2,23/5/2022,Ferum/Iron (Fe),0.88,1.31,1.73
+Langat 2,23/5/2022,Turbidity,47,72.17,121
+Langat 2,23/5/2022,Manganese (Mn),0.15,0.2,0.24
+Langat 2,24/5/2022,Color,7,13.17,22
+Langat 2,24/5/2022,pH,7.32,7.41,7.52
+Langat 2,24/5/2022,Ammonia (NH4),0.08,0.39,0.7
+Langat 2,24/5/2022,Ferum/Iron (Fe),0.8,3.03,5.25
+Langat 2,24/5/2022,Turbidity,68,253.5,655
+Langat 2,24/5/2022,Manganese (Mn),0.13,0.62,1.11
+Langat 2,25/5/2022,Color,15,19.83,30
+Langat 2,25/5/2022,pH,7.26,7.31,7.35
+Langat 2,25/5/2022,Ammonia (NH4),0.14,0.44,0.74
+Langat 2,25/5/2022,Ferum/Iron (Fe),1.82,3.74,5.65
+Langat 2,25/5/2022,Turbidity,130,700.17,2118
+Langat 2,25/5/2022,Manganese (Mn),0.24,0.97,1.7
+Langat 2,26/5/2022,Color,10,19,30
+Langat 2,26/5/2022,pH,7.02,7.06,7.1
+Langat 2,26/5/2022,Ammonia (NH4),0.17,0.36,0.54
+Langat 2,26/5/2022,Ferum/Iron (Fe),2.54,3.49,4.43
+Langat 2,26/5/2022,Turbidity,121,806.83,2608
+Langat 2,26/5/2022,Manganese (Mn),0.39,0.86,1.33
+Langat 2,27/5/2022,Color,10,14,17
+Langat 2,27/5/2022,pH,7.11,7.29,7.53
+Langat 2,27/5/2022,Ammonia (NH4),0.08,0.14,0.19
+Langat 2,27/5/2022,Ferum/Iron (Fe),1.63,2.21,2.78
+Langat 2,27/5/2022,Turbidity,117,168,245
+Langat 2,27/5/2022,Manganese (Mn),0.26,0.41,0.55
+Langat 2,28/5/2022,Color,8,9.33,10
+Langat 2,28/5/2022,pH,7.21,7.35,7.53
+Langat 2,28/5/2022,Ammonia (NH4),0.07,0.08,0.08
+Langat 2,28/5/2022,Ferum/Iron (Fe),0.78,1.17,1.56
+Langat 2,28/5/2022,Turbidity,68,93.83,115
+Langat 2,28/5/2022,Manganese (Mn),0.2,0.21,0.22
+Langat 2,29/5/2022,Color,7,7.83,8
+Langat 2,29/5/2022,pH,7.3,7.32,7.36
+Langat 2,29/5/2022,Ammonia (NH4),0.07,0.08,0.08
+Langat 2,29/5/2022,Ferum/Iron (Fe),0.88,0.93,0.97
+Langat 2,29/5/2022,Turbidity,50,76.17,87
+Langat 2,29/5/2022,Manganese (Mn),0.14,0.16,0.17
+Langat 2,30/5/2022,Color,6,12.17,19
+Langat 2,30/5/2022,pH,7.22,7.29,7.39
+Langat 2,30/5/2022,Ammonia (NH4),0.06,0.1,0.14
+Langat 2,30/5/2022,Ferum/Iron (Fe),0.97,1.2,1.43
+Langat 2,30/5/2022,Turbidity,40,86,186
+Langat 2,30/5/2022,Manganese (Mn),0.11,0.14,0.17
+Langat 2,31/5/2022,Color,8,8.67,12
+Langat 2,31/5/2022,pH,7.3,7.34,7.38
+Langat 2,31/5/2022,Ammonia (NH4),0.05,0.09,0.13
+Langat 2,31/5/2022,Ferum/Iron (Fe),0.99,1.62,2.25
+Langat 2,31/5/2022,Turbidity,50,68.17,127
+Langat 2,31/5/2022,Manganese (Mn),0.12,0.26,0.39
+Langat 2,1/6/2022,Color,6,7.17,8
+Langat 2,1/6/2022,pH,7.26,7.32,7.38
+Langat 2,1/6/2022,Ammonia (NH4),0.04,0.07,0.1
+Langat 2,1/6/2022,Ferum/Iron (Fe),0.7,0.75,0.8
+Langat 2,1/6/2022,Turbidity,25,34,41
+Langat 2,1/6/2022,Manganese (Mn),0.07,0.09,0.1
+Langat 2,2/6/2022,Color,6,7.33,9
+Langat 2,2/6/2022,pH,7.28,7.36,7.44
+Langat 2,2/6/2022,Ammonia (NH4),0.04,0.07,0.1
+Langat 2,2/6/2022,Ferum/Iron (Fe),0.77,0.89,1.01
+Langat 2,2/6/2022,Turbidity,21,37.5,83
+Langat 2,2/6/2022,Manganese (Mn),0.07,0.09,0.1
+Langat 2,3/6/2022,Color,2,12.5,19
+Langat 2,3/6/2022,pH,7.1,7.27,7.41
+Langat 2,3/6/2022,Ammonia (NH4),0.08,0.13,0.17
+Langat 2,3/6/2022,Ferum/Iron (Fe),0.7,1.17,1.63
+Langat 2,3/6/2022,Turbidity,2.11,102.02,179
+Langat 2,3/6/2022,Manganese (Mn),0.12,0.16,0.2
+Langat 2,4/6/2022,Color,7,19.5,32
+Langat 2,4/6/2022,pH,7.11,7.23,7.32
+Langat 2,4/6/2022,Ammonia (NH4),0.1,0.19,0.27
+Langat 2,4/6/2022,Ferum/Iron (Fe),1.59,2.04,2.48
+Langat 2,4/6/2022,Turbidity,85,276.83,497
+Langat 2,4/6/2022,Manganese (Mn),0.25,0.41,0.57
+Langat 2,5/6/2022,Color,10,12.17,16
+Langat 2,5/6/2022,pH,7.22,7.29,7.32
+Langat 2,5/6/2022,Ammonia (NH4),0.08,0.1,0.11
+Langat 2,5/6/2022,Ferum/Iron (Fe),1.72,1.76,1.8
+Langat 2,5/6/2022,Turbidity,103,171.67,224
+Langat 2,5/6/2022,Manganese (Mn),0.2,0.23,0.25
+Langat 2,6/6/2022,Color,20,21.33,22
+Langat 2,6/6/2022,pH,7.06,7.27,7.37
+Langat 2,6/6/2022,Ammonia (NH4),0.16,0.24,0.31
+Langat 2,6/6/2022,Ferum/Iron (Fe),2.02,2.47,2.91
+Langat 2,6/6/2022,Turbidity,160,315.83,400
+Langat 2,6/6/2022,Manganese (Mn),0.19,0.44,0.69
+Langat 2,7/6/2022,Color,9,10.17,13
+Langat 2,7/6/2022,pH,7.26,7.38,7.49
+Langat 2,7/6/2022,Ammonia (NH4),0.08,0.09,0.09
+Langat 2,7/6/2022,Ferum/Iron (Fe),0.8,0.97,1.13
+Langat 2,7/6/2022,Turbidity,79,103.67,165
+Langat 2,7/6/2022,Manganese (Mn),0.14,0.18,0.21
+Langat 2,8/6/2022,Color,9,14.67,25
+Langat 2,8/6/2022,pH,7.28,7.37,7.45
+Langat 2,8/6/2022,Ammonia (NH4),0.12,0.13,0.14
+Langat 2,8/6/2022,Ferum/Iron (Fe),1.69,1.84,1.99
+Langat 2,8/6/2022,Turbidity,90,168.5,312
+Langat 2,8/6/2022,Manganese (Mn),0.17,0.26,0.34
+Langat 2,9/6/2022,Color,10,20.83,26
+Langat 2,9/6/2022,pH,7.19,7.28,7.37
+Langat 2,9/6/2022,Ammonia (NH4),0.13,0.15,0.16
+Langat 2,9/6/2022,Ferum/Iron (Fe),1.79,2.35,2.91
+Langat 2,9/6/2022,Turbidity,131,378.5,871
+Langat 2,9/6/2022,Manganese (Mn),0.24,0.29,0.33
+Langat 2,10/6/2022,Color,11,17.33,21
+Langat 2,10/6/2022,pH,7.17,7.27,7.31
+Langat 2,10/6/2022,Ammonia (NH4),0.3,0.34,0.38
+Langat 2,10/6/2022,Ferum/Iron (Fe),3.64,3.72,3.8
+Langat 2,10/6/2022,Turbidity,129,268.33,353
+Langat 2,10/6/2022,Manganese (Mn),0.49,0.58,0.66
+Langat 2,11/6/2022,Color,10,11,12
+Langat 2,11/6/2022,pH,7.19,7.23,7.27
+Langat 2,11/6/2022,Ammonia (NH4),0.12,0.13,0.14
+Langat 2,11/6/2022,Ferum/Iron (Fe),1.7,1.85,1.99
+Langat 2,11/6/2022,Turbidity,117,165,200
+Langat 2,11/6/2022,Manganese (Mn),0.11,0.14,0.17
+Langat 2,12/6/2022,Color,10,16.67,30
+Langat 2,12/6/2022,pH,7.18,7.23,7.29
+Langat 2,12/6/2022,Ammonia (NH4),0.08,0.21,0.34
+Langat 2,12/6/2022,Ferum/Iron (Fe),1.29,2.5,3.71
+Langat 2,12/6/2022,Turbidity,106,230.83,530
+Langat 2,12/6/2022,Manganese (Mn),0.14,0.4,0.65
+Langat 2,13/6/2022,Color,10,14.33,18
+Langat 2,13/6/2022,pH,7.14,7.22,7.31
+Langat 2,13/6/2022,Ammonia (NH4),0.07,0.09,0.1
+Langat 2,13/6/2022,Ferum/Iron (Fe),1.7,1.72,1.73
+Langat 2,13/6/2022,Turbidity,122,147.5,198
+Langat 2,13/6/2022,Manganese (Mn),0.16,0.23,0.3
+Langat 2,14/6/2022,Color,12,14,18
+Langat 2,14/6/2022,pH,7.29,7.34,7.45
+Langat 2,14/6/2022,Ammonia (NH4),0.08,0.14,0.2
+Langat 2,14/6/2022,Ferum/Iron (Fe),0.92,1.54,2.16
+Langat 2,14/6/2022,Turbidity,87,146.17,230
+Langat 2,14/6/2022,Manganese (Mn),0.14,0.28,0.42
+Langat 2,15/6/2022,Color,7,12.67,17
+Langat 2,15/6/2022,pH,7.21,7.32,7.46
+Langat 2,15/6/2022,Ammonia (NH4),0.1,0.11,0.12
+Langat 2,15/6/2022,Ferum/Iron (Fe),1.71,1.72,1.72
+Langat 2,15/6/2022,Turbidity,79,119.5,166
+Langat 2,15/6/2022,Manganese (Mn),0.13,0.17,0.21
+Langat 2,16/6/2022,Color,10,15.5,21
+Langat 2,16/6/2022,pH,7.26,7.36,7.44
+Langat 2,16/6/2022,Ammonia (NH4),0.11,0.14,0.16
+Langat 2,16/6/2022,Ferum/Iron (Fe),1.23,1.46,1.68
+Langat 2,16/6/2022,Turbidity,122,179.5,315
+Langat 2,16/6/2022,Manganese (Mn),0.15,0.23,0.3
+Langat 2,17/6/2022,Color,9,12.67,20
+Langat 2,17/6/2022,pH,7.35,7.39,7.43
+Langat 2,17/6/2022,Ammonia (NH4),0.1,0.15,0.19
+Langat 2,17/6/2022,Ferum/Iron (Fe),0.97,1.47,1.96
+Langat 2,17/6/2022,Turbidity,63,110.5,223
+Langat 2,17/6/2022,Manganese (Mn),0.12,0.28,0.43
+Langat 2,18/6/2022,Color,10,21,41
+Langat 2,18/6/2022,pH,7.17,7.31,7.47
+Langat 2,18/6/2022,Ammonia (NH4),0.12,0.3,0.48
+Langat 2,18/6/2022,Ferum/Iron (Fe),0.88,5.84,10.8
+Langat 2,18/6/2022,Turbidity,97,616,2096
+Langat 2,18/6/2022,Manganese (Mn),0.17,0.3,0.42
+Langat 2,19/6/2022,Color,16,22.5,32
+Langat 2,19/6/2022,pH,7.11,7.17,7.23
+Langat 2,19/6/2022,Ammonia (NH4),0.29,0.39,0.48
+Langat 2,19/6/2022,Ferum/Iron (Fe),3.2,3.72,4.24
+Langat 2,19/6/2022,Turbidity,452,643.67,917
+Langat 2,19/6/2022,Manganese (Mn),1.03,1.05,1.07
+Langat 2,20/6/2022,Color,15,21.33,28
+Langat 2,20/6/2022,pH,6.75,6.96,7.22
+Langat 2,20/6/2022,Ammonia (NH4),0.21,0.38,0.54
+Langat 2,20/6/2022,Ferum/Iron (Fe),1,1.49,1.98
+Langat 2,20/6/2022,Turbidity,265,521.67,789
+Langat 2,20/6/2022,Manganese (Mn),0.45,0.64,0.82
+Langat 2,21/6/2022,Color,9,12.5,15
+Langat 2,21/6/2022,pH,6.72,6.84,6.93
+Langat 2,21/6/2022,Ammonia (NH4),0.12,0.19,0.25
+Langat 2,21/6/2022,Ferum/Iron (Fe),0.7,1.09,1.47
+Langat 2,21/6/2022,Turbidity,140,192.33,258
+Langat 2,21/6/2022,Manganese (Mn),0.26,0.52,0.78
+Langat 2,22/6/2022,Color,8,10.5,12
+Langat 2,22/6/2022,pH,6.88,6.97,7.08
+Langat 2,22/6/2022,Ammonia (NH4),0.11,0.15,0.19
+Langat 2,22/6/2022,Ferum/Iron (Fe),1.02,1.23,1.43
+Langat 2,22/6/2022,Turbidity,111,155.83,182
+Langat 2,22/6/2022,Manganese (Mn),0.3,0.45,0.6
+Langat 2,23/6/2022,Color,9,11.5,19
+Langat 2,23/6/2022,pH,6.96,7.13,7.33
+Langat 2,23/6/2022,Ammonia (NH4),0.05,0.18,0.3
+Langat 2,23/6/2022,Ferum/Iron (Fe),0.97,1.11,1.24
+Langat 2,23/6/2022,Turbidity,55,145,306
+Langat 2,23/6/2022,Manganese (Mn),0.13,0.18,0.22
+Langat 2,24/6/2022,Color,3,6,7
+Langat 2,24/6/2022,pH,6.94,7.01,7.12
+Langat 2,24/6/2022,Ammonia (NH4),0.05,0.19,0.33
+Langat 2,24/6/2022,Ferum/Iron (Fe),0.56,0.64,0.71
+Langat 2,24/6/2022,Turbidity,45,55.67,75
+Langat 2,24/6/2022,Manganese (Mn),0.02,0.07,0.12
+Langat 2,25/6/2022,Color,7,8.33,9
+Langat 2,25/6/2022,pH,6.91,6.96,7.01
+Langat 2,25/6/2022,Ammonia (NH4),0.04,0.07,0.09
+Langat 2,25/6/2022,Ferum/Iron (Fe),1.06,1.15,1.24
+Langat 2,25/6/2022,Turbidity,50,65.5,87
+Langat 2,25/6/2022,Manganese (Mn),0.13,0.14,0.14
+Langat 2,26/6/2022,Color,5,7.33,8
+Langat 2,26/6/2022,pH,6.93,7.01,7.1
+Langat 2,26/6/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,26/6/2022,Ferum/Iron (Fe),1.28,1.3,1.32
+Langat 2,26/6/2022,Turbidity,45,62.83,81
+Langat 2,26/6/2022,Manganese (Mn),0.15,0.16,0.16
+Langat 2,27/6/2022,Color,5,6.5,8
+Langat 2,27/6/2022,pH,6.83,6.9,7
+Langat 2,27/6/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,27/6/2022,Ferum/Iron (Fe),1.1,1.16,1.21
+Langat 2,27/6/2022,Turbidity,30,46,69
+Langat 2,27/6/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,28/6/2022,Color,15,17,20
+Langat 2,28/6/2022,pH,6.77,6.84,6.98
+Langat 2,28/6/2022,Ammonia (NH4),0.11,0.12,0.12
+Langat 2,28/6/2022,Ferum/Iron (Fe),1.32,1.37,1.42
+Langat 2,28/6/2022,Turbidity,153,199.5,222
+Langat 2,28/6/2022,Manganese (Mn),0.17,0.18,0.19
+Langat 2,29/6/2022,Color,9,9.5,10
+Langat 2,29/6/2022,pH,6.81,6.87,6.92
+Langat 2,29/6/2022,Ammonia (NH4),0.07,0.08,0.08
+Langat 2,29/6/2022,Ferum/Iron (Fe),1.16,1.18,1.2
+Langat 2,29/6/2022,Turbidity,75,102.17,137
+Langat 2,29/6/2022,Manganese (Mn),0.23,0.23,0.23
+Langat 2,30/6/2022,Color,6,7,8
+Langat 2,30/6/2022,pH,6.94,6.97,7
+Langat 2,30/6/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,30/6/2022,Ferum/Iron (Fe),0.79,0.84,0.88
+Langat 2,30/6/2022,Turbidity,53,64.17,76
+Langat 2,30/6/2022,Manganese (Mn),0.13,0.14,0.14
+Langat 2,1/7/2022,Color,6,7.33,9
+Langat 2,1/7/2022,pH,6.94,6.96,6.99
+Langat 2,1/7/2022,Ammonia (NH4),0.03,0.05,0.06
+Langat 2,1/7/2022,Ferum/Iron (Fe),0.81,0.82,0.82
+Langat 2,1/7/2022,Turbidity,45,56.5,78
+Langat 2,1/7/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,2/7/2022,Color,6,6.17,7
+Langat 2,2/7/2022,pH,6.92,6.94,6.99
+Langat 2,2/7/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,2/7/2022,Ferum/Iron (Fe),0.82,0.83,0.84
+Langat 2,2/7/2022,Turbidity,26,32.17,48
+Langat 2,2/7/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,3/7/2022,Color,6,6.33,7
+Langat 2,3/7/2022,pH,6.94,6.98,7.09
+Langat 2,3/7/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,3/7/2022,Ferum/Iron (Fe),0.68,0.73,0.77
+Langat 2,3/7/2022,Turbidity,27,32.83,45
+Langat 2,3/7/2022,Manganese (Mn),0.13,0.14,0.14
+Langat 2,4/7/2022,Color,6,8.5,11
+Langat 2,4/7/2022,pH,6.9,6.93,7.03
+Langat 2,4/7/2022,Ammonia (NH4),0.03,0.08,0.13
+Langat 2,4/7/2022,Ferum/Iron (Fe),0.86,1.25,1.63
+Langat 2,4/7/2022,Turbidity,43,87.33,147
+Langat 2,4/7/2022,Manganese (Mn),0.16,0.17,0.18
+Langat 2,5/7/2022,Color,6,6.33,7
+Langat 2,5/7/2022,pH,6.88,6.93,6.98
+Langat 2,5/7/2022,Ammonia (NH4),0.05,0.06,0.06
+Langat 2,5/7/2022,Ferum/Iron (Fe),0.88,1.07,1.26
+Langat 2,5/7/2022,Turbidity,32,56.17,76
+Langat 2,5/7/2022,Manganese (Mn),0.14,0.15,0.15
+Langat 2,6/7/2022,Color,6,6.83,7
+Langat 2,6/7/2022,pH,6.91,6.97,7.01
+Langat 2,6/7/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,6/7/2022,Ferum/Iron (Fe),0.97,0.98,0.99
+Langat 2,6/7/2022,Turbidity,38,52,59
+Langat 2,6/7/2022,Manganese (Mn),0.05,0.1,0.15
+Langat 2,7/7/2022,Color,6,6.17,7
+Langat 2,7/7/2022,pH,6.81,6.87,6.89
+Langat 2,7/7/2022,Ammonia (NH4),0.04,0.04,0.04
+Langat 2,7/7/2022,Ferum/Iron (Fe),0.73,0.85,0.96
+Langat 2,7/7/2022,Turbidity,24,41.33,63
+Langat 2,7/7/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,8/7/2022,Color,7,8.83,12
+Langat 2,8/7/2022,pH,6.8,6.9,7
+Langat 2,8/7/2022,Ammonia (NH4),0.05,0.1,0.14
+Langat 2,8/7/2022,Ferum/Iron (Fe),1.07,1.64,2.21
+Langat 2,8/7/2022,Turbidity,42,78.5,138
+Langat 2,8/7/2022,Manganese (Mn),0.19,0.27,0.35
+Langat 2,9/7/2022,Color,5,8,12
+Langat 2,9/7/2022,pH,6.9,7,7.07
+Langat 2,9/7/2022,Ammonia (NH4),0.02,0.05,0.08
+Langat 2,9/7/2022,Ferum/Iron (Fe),0.78,1.35,1.92
+Langat 2,9/7/2022,Turbidity,25,68.5,126
+Langat 2,9/7/2022,Manganese (Mn),0.05,0.15,0.24
+Langat 2,10/7/2022,Color,5,5.5,6
+Langat 2,10/7/2022,pH,6.91,6.96,6.99
+Langat 2,10/7/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,10/7/2022,Ferum/Iron (Fe),0.68,0.75,0.81
+Langat 2,10/7/2022,Turbidity,17,23.17,32
+Langat 2,10/7/2022,Manganese (Mn),0.04,0.07,0.1
+Langat 2,11/7/2022,Color,6,7.83,11
+Langat 2,11/7/2022,pH,6.9,6.94,6.98
+Langat 2,11/7/2022,Ammonia (NH4),0.04,0.05,0.06
+Langat 2,11/7/2022,Ferum/Iron (Fe),1.48,1.6,1.72
+Langat 2,11/7/2022,Turbidity,19,36.17,59
+Langat 2,11/7/2022,Manganese (Mn),0.1,0.13,0.15
+Langat 2,12/7/2022,Color,6,7,9
+Langat 2,12/7/2022,pH,6.96,6.99,7.02
+Langat 2,12/7/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,12/7/2022,Ferum/Iron (Fe),0.69,0.94,1.19
+Langat 2,12/7/2022,Turbidity,16,32.83,48
+Langat 2,12/7/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,13/7/2022,Color,5,5.5,6
+Langat 2,13/7/2022,pH,6.94,7.12,7.4
+Langat 2,13/7/2022,Ammonia (NH4),0.03,0.05,0.07
+Langat 2,13/7/2022,Ferum/Iron (Fe),0.71,0.84,0.96
+Langat 2,13/7/2022,Turbidity,23,27.33,36
+Langat 2,13/7/2022,Manganese (Mn),0.01,0.06,0.11
+Langat 2,14/7/2022,Color,5,7.33,10
+Langat 2,14/7/2022,pH,7.12,7.22,7.28
+Langat 2,14/7/2022,Ammonia (NH4),0.05,0.05,0.05
+Langat 2,14/7/2022,Ferum/Iron (Fe),0.7,1.01,1.32
+Langat 2,14/7/2022,Turbidity,16,36.17,57
+Langat 2,14/7/2022,Manganese (Mn),0.06,0.09,0.12
+Langat 2,15/7/2022,Color,6,7.17,9
+Langat 2,15/7/2022,pH,7.1,7.23,7.33
+Langat 2,15/7/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,15/7/2022,Ferum/Iron (Fe),1.1,1.18,1.26
+Langat 2,15/7/2022,Turbidity,32,42.67,54
+Langat 2,15/7/2022,Manganese (Mn),0.09,0.1,0.11
+Langat 2,16/7/2022,Color,6,6.5,8
+Langat 2,16/7/2022,pH,7.12,7.21,7.29
+Langat 2,16/7/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,16/7/2022,Ferum/Iron (Fe),1.02,1.12,1.22
+Langat 2,16/7/2022,Turbidity,40,42.67,47
+Langat 2,16/7/2022,Manganese (Mn),0.12,0.13,0.14
+Langat 2,17/7/2022,Color,6,6.67,7
+Langat 2,17/7/2022,pH,7.12,7.18,7.2
+Langat 2,17/7/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,17/7/2022,Ferum/Iron (Fe),1.21,1.31,1.4
+Langat 2,17/7/2022,Turbidity,32,38,43
+Langat 2,17/7/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,18/7/2022,Color,6,6.33,7
+Langat 2,18/7/2022,pH,7.18,7.24,7.27
+Langat 2,18/7/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,18/7/2022,Ferum/Iron (Fe),1.19,1.2,1.2
+Langat 2,18/7/2022,Turbidity,36,36.83,38
+Langat 2,18/7/2022,Manganese (Mn),0.12,0.13,0.14
+Langat 2,19/7/2022,Color,6,6.5,7
+Langat 2,19/7/2022,pH,7.08,7.15,7.23
+Langat 2,19/7/2022,Ammonia (NH4),0.04,0.04,0.04
+Langat 2,19/7/2022,Ferum/Iron (Fe),1.21,1.3,1.38
+Langat 2,19/7/2022,Turbidity,32,38.33,46
+Langat 2,19/7/2022,Manganese (Mn),0.14,0.14,0.14
+Langat 2,20/7/2022,Color,6,7.17,8
+Langat 2,20/7/2022,pH,7.07,7.11,7.19
+Langat 2,20/7/2022,Ammonia (NH4),0.04,0.04,0.04
+Langat 2,20/7/2022,Ferum/Iron (Fe),1.24,1.3,1.35
+Langat 2,20/7/2022,Turbidity,38,43,57
+Langat 2,20/7/2022,Manganese (Mn),0.18,0.18,0.18
+Langat 2,21/7/2022,Color,6,9,12
+Langat 2,21/7/2022,pH,7.01,7.06,7.11
+Langat 2,21/7/2022,Ammonia (NH4),0.05,0.06,0.07
+Langat 2,21/7/2022,Ferum/Iron (Fe),1.39,1.6,1.8
+Langat 2,21/7/2022,Turbidity,40,80,137
+Langat 2,21/7/2022,Manganese (Mn),0.13,0.16,0.18
+Langat 2,22/7/2022,Color,6,7.5,10
+Langat 2,22/7/2022,pH,7.05,7.11,7.16
+Langat 2,22/7/2022,Ammonia (NH4),0.08,0.09,0.09
+Langat 2,22/7/2022,Ferum/Iron (Fe),1.51,1.64,1.77
+Langat 2,22/7/2022,Turbidity,47,69.33,96
+Langat 2,22/7/2022,Manganese (Mn),0.18,0.23,0.27
+Langat 2,23/7/2022,Color,9,11.5,18
+Langat 2,23/7/2022,pH,7.01,7.03,7.06
+Langat 2,23/7/2022,Ammonia (NH4),0.06,0.07,0.07
+Langat 2,23/7/2022,Ferum/Iron (Fe),0.3,0.75,1.2
+Langat 2,23/7/2022,Turbidity,85,139.33,316
+Langat 2,23/7/2022,Manganese (Mn),0.19,0.21,0.22
+Langat 2,24/7/2022,Color,13,19.83,24
+Langat 2,24/7/2022,pH,6.81,6.85,6.9
+Langat 2,24/7/2022,Ammonia (NH4),0.08,0.12,0.15
+Langat 2,24/7/2022,Ferum/Iron (Fe),2.12,2.67,3.22
+Langat 2,24/7/2022,Turbidity,125,271,396
+Langat 2,24/7/2022,Manganese (Mn),0.22,0.32,0.42
+Langat 2,25/7/2022,Color,7,10,15
+Langat 2,25/7/2022,pH,6.82,6.89,7.07
+Langat 2,25/7/2022,Ammonia (NH4),0.04,0.09,0.13
+Langat 2,25/7/2022,Ferum/Iron (Fe),1.27,1.52,1.76
+Langat 2,25/7/2022,Turbidity,69,94.5,145
+Langat 2,25/7/2022,Manganese (Mn),0.16,0.26,0.35
+Langat 2,26/7/2022,Color,9,12.17,17
+Langat 2,26/7/2022,pH,6.74,6.77,6.8
+Langat 2,26/7/2022,Ammonia (NH4),0.11,0.12,0.13
+Langat 2,26/7/2022,Ferum/Iron (Fe),1.62,1.71,1.8
+Langat 2,26/7/2022,Turbidity,110,141.5,190
+Langat 2,26/7/2022,Manganese (Mn),0.19,0.24,0.28
+Langat 2,27/7/2022,Color,9,14.33,28
+Langat 2,27/7/2022,pH,6.8,6.82,6.86
+Langat 2,27/7/2022,Ammonia (NH4),0.04,0.14,0.23
+Langat 2,27/7/2022,Ferum/Iron (Fe),1.21,2.09,2.96
+Langat 2,27/7/2022,Turbidity,79,302.83,1163
+Langat 2,27/7/2022,Manganese (Mn),0.17,0.36,0.54
+Langat 2,28/7/2022,Color,14,21.17,28
+Langat 2,28/7/2022,pH,6.7,6.8,6.87
+Langat 2,28/7/2022,Ammonia (NH4),0.33,0.36,0.38
+Langat 2,28/7/2022,Ferum/Iron (Fe),3.17,4.08,4.98
+Langat 2,28/7/2022,Turbidity,335,470.67,618
+Langat 2,28/7/2022,Manganese (Mn),0.61,0.66,0.71
+Langat 2,29/7/2022,Color,10,16,22
+Langat 2,29/7/2022,pH,6.83,6.94,7.01
+Langat 2,29/7/2022,Ammonia (NH4),0.06,0.24,0.42
+Langat 2,29/7/2022,Ferum/Iron (Fe),2.19,3.7,5.21
+Langat 2,29/7/2022,Turbidity,106,223.83,467
+Langat 2,29/7/2022,Manganese (Mn),0.19,0.53,0.87
+Langat 2,30/7/2022,Color,7,10.17,14
+Langat 2,30/7/2022,pH,6.83,6.92,6.97
+Langat 2,30/7/2022,Ammonia (NH4),0.06,0.08,0.1
+Langat 2,30/7/2022,Ferum/Iron (Fe),1.1,1.18,1.25
+Langat 2,30/7/2022,Turbidity,95,138.17,172
+Langat 2,30/7/2022,Manganese (Mn),0.12,0.2,0.27
+Langat 2,31/7/2022,Color,7,7.5,8
+Langat 2,31/7/2022,pH,6.89,6.94,6.97
+Langat 2,31/7/2022,Ammonia (NH4),0.04,0.05,0.06
+Langat 2,31/7/2022,Ferum/Iron (Fe),1.1,1.14,1.17
+Langat 2,31/7/2022,Turbidity,70,80.33,95
+Langat 2,31/7/2022,Manganese (Mn),0.14,0.18,0.21
+Langat 2,1/8/2022,Color,6,10.83,20
+Langat 2,1/8/2022,pH,6.73,6.95,7.05
+Langat 2,1/8/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,1/8/2022,Ferum/Iron (Fe),0.82,1.07,1.31
+Langat 2,1/8/2022,Turbidity,48,100.17,218
+Langat 2,1/8/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,2/8/2022,Color,16,21,29
+Langat 2,2/8/2022,pH,6.94,6.99,7.08
+Langat 2,2/8/2022,Ammonia (NH4),0.07,0.2,0.33
+Langat 2,2/8/2022,Ferum/Iron (Fe),1.1,3.61,6.11
+Langat 2,2/8/2022,Turbidity,202,339.33,607
+Langat 2,2/8/2022,Manganese (Mn),0.1,0.43,0.75
+Langat 2,3/8/2022,Color,20,24.83,33
+Langat 2,3/8/2022,pH,6.78,6.91,7.03
+Langat 2,3/8/2022,Ammonia (NH4),0.06,0.18,0.3
+Langat 2,3/8/2022,Ferum/Iron (Fe),1.7,3.78,5.86
+Langat 2,3/8/2022,Turbidity,320,513.83,972
+Langat 2,3/8/2022,Manganese (Mn),0.12,0.39,0.66
+Langat 2,4/8/2022,Color,10,17.33,28
+Langat 2,4/8/2022,pH,6.7,6.85,6.94
+Langat 2,4/8/2022,Ammonia (NH4),0.08,0.19,0.29
+Langat 2,4/8/2022,Ferum/Iron (Fe),1.02,3.23,5.44
+Langat 2,4/8/2022,Turbidity,78,293.83,661
+Langat 2,4/8/2022,Manganese (Mn),0.16,0.37,0.58
+Langat 2,5/8/2022,Color,16,23.33,34
+Langat 2,5/8/2022,pH,6.74,6.81,6.94
+Langat 2,5/8/2022,Ammonia (NH4),0.36,0.49,0.61
+Langat 2,5/8/2022,Ferum/Iron (Fe),1.72,3.89,6.06
+Langat 2,5/8/2022,Turbidity,321,629.83,1548
+Langat 2,5/8/2022,Manganese (Mn),0.65,0.69,0.73
+Langat 2,6/8/2022,Color,15,21.67,34
+Langat 2,6/8/2022,pH,6.8,6.86,6.91
+Langat 2,6/8/2022,Ammonia (NH4),0.21,0.41,0.6
+Langat 2,6/8/2022,Ferum/Iron (Fe),3.12,4.58,6.03
+Langat 2,6/8/2022,Turbidity,200,503.33,1220
+Langat 2,6/8/2022,Manganese (Mn),0.45,1.08,1.71
+Langat 2,7/8/2022,Color,11,13.17,17
+Langat 2,7/8/2022,pH,6.86,6.89,6.98
+Langat 2,7/8/2022,Ammonia (NH4),0.1,0.11,0.12
+Langat 2,7/8/2022,Ferum/Iron (Fe),1.82,1.99,2.16
+Langat 2,7/8/2022,Turbidity,138,155.67,200
+Langat 2,7/8/2022,Manganese (Mn),0.24,0.28,0.31
+Langat 2,8/8/2022,Color,8,8.83,10
+Langat 2,8/8/2022,pH,6.89,7,7.12
+Langat 2,8/8/2022,Ammonia (NH4),0.05,0.06,0.06
+Langat 2,8/8/2022,Ferum/Iron (Fe),1.01,1.02,1.03
+Langat 2,8/8/2022,Turbidity,41,47.5,54
+Langat 2,8/8/2022,Manganese (Mn),0.08,0.09,0.1
+Langat 2,9/8/2022,Color,8,13,17
+Langat 2,9/8/2022,pH,7,7.07,7.19
+Langat 2,9/8/2022,Ammonia (NH4),0.04,0.09,0.13
+Langat 2,9/8/2022,Ferum/Iron (Fe),0.91,1.58,2.25
+Langat 2,9/8/2022,Turbidity,78,106.67,140
+Langat 2,9/8/2022,Manganese (Mn),0.11,0.23,0.35
+Langat 2,10/8/2022,Color,9,9.5,10
+Langat 2,10/8/2022,pH,6.76,7.01,7.09
+Langat 2,10/8/2022,Ammonia (NH4),0.05,0.06,0.06
+Langat 2,10/8/2022,Ferum/Iron (Fe),1.2,1.29,1.37
+Langat 2,10/8/2022,Turbidity,40,46.5,52
+Langat 2,10/8/2022,Manganese (Mn),0.13,0.14,0.14
+Langat 2,11/8/2022,Color,9,10,11
+Langat 2,11/8/2022,pH,7.05,7.08,7.1
+Langat 2,11/8/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,11/8/2022,Ferum/Iron (Fe),2.1,2.1,2.1
+Langat 2,11/8/2022,Turbidity,40,57.25,64
+Langat 2,11/8/2022,Manganese (Mn),0.21,0.21,0.21
+Langat 2,12/8/2022,Color,8,9.33,10
+Langat 2,12/8/2022,pH,6.93,7,7.08
+Langat 2,12/8/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,12/8/2022,Ferum/Iron (Fe),1.22,1.37,1.51
+Langat 2,12/8/2022,Turbidity,37,51.83,60
+Langat 2,12/8/2022,Manganese (Mn),0.05,0.08,0.11
+Langat 2,13/8/2022,Color,8,26.33,32
+Langat 2,13/8/2022,pH,6.92,7,7.08
+Langat 2,13/8/2022,Ammonia (NH4),0.27,0.45,0.62
+Langat 2,13/8/2022,Ferum/Iron (Fe),3.84,4.98,6.11
+Langat 2,13/8/2022,Turbidity,25,618.5,878
+Langat 2,13/8/2022,Manganese (Mn),0.66,1.04,1.41
+Langat 2,14/8/2022,Color,10,16.5,23
+Langat 2,14/8/2022,pH,6.94,7,7.06
+Langat 2,14/8/2022,Ammonia (NH4),0.13,0.14,0.14
+Langat 2,14/8/2022,Ferum/Iron (Fe),1.68,1.81,1.94
+Langat 2,14/8/2022,Turbidity,93,256.5,410
+Langat 2,14/8/2022,Manganese (Mn),0.29,0.35,0.41
+Langat 2,15/8/2022,Color,9,10,14
+Langat 2,15/8/2022,pH,6.95,7.04,7.11
+Langat 2,15/8/2022,Ammonia (NH4),0.08,0.11,0.13
+Langat 2,15/8/2022,Ferum/Iron (Fe),0.98,1.63,2.27
+Langat 2,15/8/2022,Turbidity,69,94.5,146
+Langat 2,15/8/2022,Manganese (Mn),0.15,0.26,0.36
+Langat 2,16/8/2022,Color,8,11.33,17
+Langat 2,16/8/2022,pH,6.95,6.98,7.03
+Langat 2,16/8/2022,Ammonia (NH4),0.08,0.13,0.18
+Langat 2,16/8/2022,Ferum/Iron (Fe),1,1.96,2.92
+Langat 2,16/8/2022,Turbidity,82,122.17,201
+Langat 2,16/8/2022,Manganese (Mn),0.13,0.28,0.43
+Langat 2,17/8/2022,Color,7,9.33,12
+Langat 2,17/8/2022,pH,6.91,6.98,7.03
+Langat 2,17/8/2022,Ammonia (NH4),0.07,0.09,0.1
+Langat 2,17/8/2022,Ferum/Iron (Fe),0.95,1.49,2.03
+Langat 2,17/8/2022,Turbidity,48,71,99
+Langat 2,17/8/2022,Manganese (Mn),0.12,0.15,0.17
+Langat 2,18/8/2022,Color,8,17,34
+Langat 2,18/8/2022,pH,6.8,6.94,7.03
+Langat 2,18/8/2022,Ammonia (NH4),0.08,0.29,0.49
+Langat 2,18/8/2022,Ferum/Iron (Fe),1.21,2.78,4.35
+Langat 2,18/8/2022,Turbidity,45,712.33,1622
+Langat 2,18/8/2022,Manganese (Mn),0.15,0.59,1.02
+Langat 2,19/8/2022,Color,15,17.17,21
+Langat 2,19/8/2022,pH,6.73,6.84,6.92
+Langat 2,19/8/2022,Ammonia (NH4),0.12,0.14,0.15
+Langat 2,19/8/2022,Ferum/Iron (Fe),1.61,1.62,1.63
+Langat 2,19/8/2022,Turbidity,131,179.83,286
+Langat 2,19/8/2022,Manganese (Mn),0.33,0.34,0.34
+Langat 2,20/8/2022,Color,10,12.33,14
+Langat 2,20/8/2022,pH,6.89,6.92,6.93
+Langat 2,20/8/2022,Ammonia (NH4),0.09,0.12,0.14
+Langat 2,20/8/2022,Ferum/Iron (Fe),1.31,1.95,2.58
+Langat 2,20/8/2022,Turbidity,60,103,142
+Langat 2,20/8/2022,Manganese (Mn),0.17,0.19,0.21
+Langat 2,21/8/2022,Color,9,12.17,15
+Langat 2,21/8/2022,pH,6.87,6.91,6.99
+Langat 2,21/8/2022,Ammonia (NH4),0.11,0.12,0.12
+Langat 2,21/8/2022,Ferum/Iron (Fe),1.1,1.42,1.73
+Langat 2,21/8/2022,Turbidity,80,137.33,193
+Langat 2,21/8/2022,Manganese (Mn),0.12,0.18,0.24
+Langat 2,22/8/2022,Color,10,15.17,19
+Langat 2,22/8/2022,pH,6.69,6.83,6.9
+Langat 2,22/8/2022,Ammonia (NH4),0.1,0.19,0.27
+Langat 2,22/8/2022,Ferum/Iron (Fe),1.2,2.04,2.88
+Langat 2,22/8/2022,Turbidity,130,197.83,274
+Langat 2,22/8/2022,Manganese (Mn),0.17,0.37,0.57
+Langat 2,23/8/2022,Color,9,18.5,38
+Langat 2,23/8/2022,pH,6.68,6.91,7.09
+Langat 2,23/8/2022,Ammonia (NH4),0.07,0.17,0.26
+Langat 2,23/8/2022,Ferum/Iron (Fe),1.2,3.07,4.93
+Langat 2,23/8/2022,Turbidity,67,320.33,1150
+Langat 2,23/8/2022,Manganese (Mn),0.18,0.34,0.49
+Langat 2,24/8/2022,Color,15,16.83,18
+Langat 2,24/8/2022,pH,6.8,6.98,7.68
+Langat 2,24/8/2022,Ammonia (NH4),0.11,0.13,0.14
+Langat 2,24/8/2022,Ferum/Iron (Fe),1.44,1.58,1.71
+Langat 2,24/8/2022,Turbidity,126,192.5,238
+Langat 2,24/8/2022,Manganese (Mn),0.19,0.21,0.23
+Langat 2,25/8/2022,Color,9,10.5,12
+Langat 2,25/8/2022,pH,6.94,6.97,7.03
+Langat 2,25/8/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,25/8/2022,Ferum/Iron (Fe),1.1,1.16,1.22
+Langat 2,25/8/2022,Turbidity,72,104,135
+Langat 2,25/8/2022,Manganese (Mn),0.13,0.14,0.14
+Langat 2,26/8/2022,Color,7,7.83,9
+Langat 2,26/8/2022,pH,7.03,7.08,7.13
+Langat 2,26/8/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,26/8/2022,Ferum/Iron (Fe),1.03,1.16,1.28
+Langat 2,26/8/2022,Turbidity,49,69,98
+Langat 2,26/8/2022,Manganese (Mn),0.1,0.12,0.14
+Langat 2,27/8/2022,Color,10,11.67,16
+Langat 2,27/8/2022,pH,7,7.04,7.12
+Langat 2,27/8/2022,Ammonia (NH4),0.09,0.1,0.11
+Langat 2,27/8/2022,Ferum/Iron (Fe),1.53,1.56,1.59
+Langat 2,27/8/2022,Turbidity,88,103.33,120
+Langat 2,27/8/2022,Manganese (Mn),0.23,0.24,0.25
+Langat 2,28/8/2022,Color,9,13,17
+Langat 2,28/8/2022,pH,6.88,6.98,7.09
+Langat 2,28/8/2022,Ammonia (NH4),0.06,0.09,0.11
+Langat 2,28/8/2022,Ferum/Iron (Fe),1.31,1.76,2.2
+Langat 2,28/8/2022,Turbidity,72,195.33,395
+Langat 2,28/8/2022,Manganese (Mn),0.19,0.21,0.22
+Langat 2,29/8/2022,Color,15,23.33,36
+Langat 2,29/8/2022,pH,6.77,6.85,6.98
+Langat 2,29/8/2022,Ammonia (NH4),0.22,0.23,0.23
+Langat 2,29/8/2022,Ferum/Iron (Fe),2.31,2.36,2.4
+Langat 2,29/8/2022,Turbidity,177,673.33,1582
+Langat 2,29/8/2022,Manganese (Mn),0.42,0.47,0.51
+Langat 2,30/8/2022,Color,20,22.5,28
+Langat 2,30/8/2022,pH,6.74,6.85,6.95
+Langat 2,30/8/2022,Ammonia (NH4),0.19,0.23,0.27
+Langat 2,30/8/2022,Ferum/Iron (Fe),2.51,2.86,3.2
+Langat 2,30/8/2022,Turbidity,284,379.67,445
+Langat 2,30/8/2022,Manganese (Mn),0.31,0.45,0.58
+Langat 2,31/8/2022,Color,18,23.33,29
+Langat 2,31/8/2022,pH,6.83,6.89,6.97
+Langat 2,31/8/2022,Ammonia (NH4),0.21,0.28,0.35
+Langat 2,31/8/2022,Ferum/Iron (Fe),2.16,2.99,3.81
+Langat 2,31/8/2022,Turbidity,137,295.5,407
+Langat 2,31/8/2022,Manganese (Mn),0.27,0.55,0.82
+Langat 2,1/9/2022,Color,18,21,25
+Langat 2,1/9/2022,pH,6.96,7.02,7.06
+Langat 2,1/9/2022,Ammonia (NH4),0.18,0.22,0.26
+Langat 2,1/9/2022,Ferum/Iron (Fe),1.7,2.58,3.45
+Langat 2,1/9/2022,Turbidity,208,232,287
+Langat 2,1/9/2022,Manganese (Mn),0.42,0.56,0.69
+Langat 2,2/9/2022,Color,12,14.67,17
+Langat 2,2/9/2022,pH,6.91,7.01,7.13
+Langat 2,2/9/2022,Ammonia (NH4),0.1,0.12,0.13
+Langat 2,2/9/2022,Ferum/Iron (Fe),1.37,1.53,1.68
+Langat 2,2/9/2022,Turbidity,126,209.83,311
+Langat 2,2/9/2022,Manganese (Mn),0.22,0.26,0.3
+Langat 2,3/9/2022,Color,12,13.5,16
+Langat 2,3/9/2022,pH,7.12,7.13,7.16
+Langat 2,3/9/2022,Ammonia (NH4),0.08,0.09,0.1
+Langat 2,3/9/2022,Ferum/Iron (Fe),1.4,1.46,1.51
+Langat 2,3/9/2022,Turbidity,74,100.67,128
+Langat 2,3/9/2022,Manganese (Mn),0.24,0.28,0.31
+Langat 2,4/9/2022,Color,13,14.5,18
+Langat 2,4/9/2022,pH,7.12,7.15,7.16
+Langat 2,4/9/2022,Ammonia (NH4),0.08,0.09,0.09
+Langat 2,4/9/2022,Ferum/Iron (Fe),1.38,1.4,1.42
+Langat 2,4/9/2022,Turbidity,68,100.33,139
+Langat 2,4/9/2022,Manganese (Mn),0.2,0.21,0.21
+Langat 2,5/9/2022,Color,11,12.17,13
+Langat 2,5/9/2022,pH,7.06,7.1,7.13
+Langat 2,5/9/2022,Ammonia (NH4),0.05,0.06,0.07
+Langat 2,5/9/2022,Ferum/Iron (Fe),1.17,1.6,2.03
+Langat 2,5/9/2022,Turbidity,42,49.5,54
+Langat 2,5/9/2022,Manganese (Mn),0.13,0.16,0.19
+Langat 2,6/9/2022,Color,9,15.67,25
+Langat 2,6/9/2022,pH,7.13,7.18,7.25
+Langat 2,6/9/2022,Ammonia (NH4),0.07,0.12,0.17
+Langat 2,6/9/2022,Ferum/Iron (Fe),2.09,2.31,2.52
+Langat 2,6/9/2022,Turbidity,34,103.33,238
+Langat 2,6/9/2022,Manganese (Mn),0.15,0.27,0.38
+Langat 2,7/9/2022,Color,16,17.33,18
+Langat 2,7/9/2022,pH,7.15,7.17,7.19
+Langat 2,7/9/2022,Ammonia (NH4),0.09,0.1,0.11
+Langat 2,7/9/2022,Ferum/Iron (Fe),1.64,1.69,1.73
+Langat 2,7/9/2022,Turbidity,114,141,172
+Langat 2,7/9/2022,Manganese (Mn),0.21,0.24,0.26
+Langat 2,8/9/2022,Color,16,17.83,21
+Langat 2,8/9/2022,pH,7.09,7.17,7.22
+Langat 2,8/9/2022,Ammonia (NH4),0.15,0.18,0.21
+Langat 2,8/9/2022,Ferum/Iron (Fe),1.94,2.15,2.36
+Langat 2,8/9/2022,Turbidity,156,221.67,311
+Langat 2,8/9/2022,Manganese (Mn),0.35,0.43,0.5
+Langat 2,9/9/2022,Color,13,15,19
+Langat 2,9/9/2022,pH,7.16,7.22,7.26
+Langat 2,9/9/2022,Ammonia (NH4),0.11,0.11,0.11
+Langat 2,9/9/2022,Ferum/Iron (Fe),1.74,1.77,1.79
+Langat 2,9/9/2022,Turbidity,123,148.67,189
+Langat 2,9/9/2022,Manganese (Mn),0.29,0.3,0.3
+Langat 2,10/9/2022,Color,18,21.33,27
+Langat 2,10/9/2022,pH,7.1,7.16,7.19
+Langat 2,10/9/2022,Ammonia (NH4),0.14,0.33,0.51
+Langat 2,10/9/2022,Ferum/Iron (Fe),1.78,3.05,4.32
+Langat 2,10/9/2022,Turbidity,226,315.33,502
+Langat 2,10/9/2022,Manganese (Mn),0.3,0.65,1
+Langat 2,11/9/2022,Color,12,14.17,17
+Langat 2,11/9/2022,pH,7.13,7.2,7.25
+Langat 2,11/9/2022,Ammonia (NH4),0.13,0.15,0.16
+Langat 2,11/9/2022,Ferum/Iron (Fe),1.48,1.64,1.79
+Langat 2,11/9/2022,Turbidity,88,165.33,242
+Langat 2,11/9/2022,Manganese (Mn),0.24,0.28,0.31
+Langat 2,12/9/2022,Color,10,11.5,12
+Langat 2,12/9/2022,pH,7.2,7.25,7.3
+Langat 2,12/9/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,12/9/2022,Ferum/Iron (Fe),1.08,1.13,1.18
+Langat 2,12/9/2022,Turbidity,52,75.83,92
+Langat 2,12/9/2022,Manganese (Mn),0.15,0.17,0.18
+Langat 2,13/9/2022,Color,9,11.33,13
+Langat 2,13/9/2022,pH,7.21,7.28,7.33
+Langat 2,13/9/2022,Ammonia (NH4),0.04,0.06,0.08
+Langat 2,13/9/2022,Ferum/Iron (Fe),1.21,1.31,1.4
+Langat 2,13/9/2022,Turbidity,39,54.67,71
+Langat 2,13/9/2022,Manganese (Mn),0.12,0.13,0.14
+Langat 2,14/9/2022,Color,8,9.67,11
+Langat 2,14/9/2022,pH,7.19,7.24,7.32
+Langat 2,14/9/2022,Ammonia (NH4),0.05,0.06,0.06
+Langat 2,14/9/2022,Ferum/Iron (Fe),1.02,1.06,1.1
+Langat 2,14/9/2022,Turbidity,25,34.17,42
+Langat 2,14/9/2022,Manganese (Mn),0.12,0.13,0.13
+Langat 2,15/9/2022,Color,7,9.33,11
+Langat 2,15/9/2022,pH,7.19,7.23,7.27
+Langat 2,15/9/2022,Ammonia (NH4),0.08,0.09,0.1
+Langat 2,15/9/2022,Ferum/Iron (Fe),1.11,1.37,1.63
+Langat 2,15/9/2022,Turbidity,33,44.33,51
+Langat 2,15/9/2022,Manganese (Mn),0.13,0.15,0.17
+Langat 2,16/9/2022,Color,11,11,11
+Langat 2,16/9/2022,pH,7.22,7.26,7.33
+Langat 2,16/9/2022,Ammonia (NH4),0.06,0.07,0.07
+Langat 2,16/9/2022,Ferum/Iron (Fe),1.14,1.22,1.29
+Langat 2,16/9/2022,Turbidity,40,66.17,90
+Langat 2,16/9/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,17/9/2022,Color,10,12.33,16
+Langat 2,17/9/2022,pH,7.19,7.27,7.34
+Langat 2,17/9/2022,Ammonia (NH4),0.05,0.08,0.1
+Langat 2,17/9/2022,Ferum/Iron (Fe),1.12,1.77,2.41
+Langat 2,17/9/2022,Turbidity,30,97.17,221
+Langat 2,17/9/2022,Manganese (Mn),0.13,0.21,0.28
+Langat 2,18/9/2022,Color,10,11.17,13
+Langat 2,18/9/2022,pH,7.24,7.27,7.31
+Langat 2,18/9/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,18/9/2022,Ferum/Iron (Fe),0.07,0.07,0.07
+Langat 2,18/9/2022,Turbidity,27,35.83,45
+Langat 2,18/9/2022,Manganese (Mn),0.07,0.07,0.07
+Langat 2,19/9/2022,Color,10,10.83,12
+Langat 2,19/9/2022,pH,7.26,7.31,7.34
+Langat 2,19/9/2022,Ammonia (NH4),0.04,0.04,0.04
+Langat 2,19/9/2022,Ferum/Iron (Fe),0.93,1.02,1.11
+Langat 2,19/9/2022,Turbidity,35,44.5,54
+Langat 2,19/9/2022,Manganese (Mn),0.09,0.11,0.12
+Langat 2,20/9/2022,Color,10,11.33,14
+Langat 2,20/9/2022,pH,7.24,7.27,7.31
+Langat 2,20/9/2022,Ammonia (NH4),0.03,0.04,0.04
+Langat 2,20/9/2022,Ferum/Iron (Fe),1.27,1.35,1.42
+Langat 2,20/9/2022,Turbidity,39,49,57
+Langat 2,20/9/2022,Manganese (Mn),0.14,0.15,0.15
+Langat 2,21/9/2022,Color,8,10,12
+Langat 2,21/9/2022,pH,7.24,7.27,7.3
+Langat 2,21/9/2022,Ammonia (NH4),0.05,0.06,0.06
+Langat 2,21/9/2022,Ferum/Iron (Fe),0.98,1.09,1.2
+Langat 2,21/9/2022,Turbidity,24,28.17,33
+Langat 2,21/9/2022,Manganese (Mn),0.07,0.08,0.09
+Langat 2,22/9/2022,Color,9,11,12
+Langat 2,22/9/2022,pH,7.29,7.31,7.33
+Langat 2,22/9/2022,Ammonia (NH4),0.01,0.02,0.03
+Langat 2,22/9/2022,Ferum/Iron (Fe),0.98,1.05,1.12
+Langat 2,22/9/2022,Turbidity,25,31.83,37
+Langat 2,22/9/2022,Manganese (Mn),0.07,0.08,0.08
+Langat 2,23/9/2022,Color,13,19.33,25
+Langat 2,23/9/2022,pH,7.25,7.29,7.35
+Langat 2,23/9/2022,Ammonia (NH4),0.05,0.07,0.08
+Langat 2,23/9/2022,Ferum/Iron (Fe),1.16,1.3,1.43
+Langat 2,23/9/2022,Turbidity,46,92.83,176
+Langat 2,23/9/2022,Manganese (Mn),0.13,0.2,0.26
+Langat 2,24/9/2022,Color,12,16,23
+Langat 2,24/9/2022,pH,7.2,7.28,7.37
+Langat 2,24/9/2022,Ammonia (NH4),0.05,0.07,0.08
+Langat 2,24/9/2022,Ferum/Iron (Fe),1.35,1.41,1.46
+Langat 2,24/9/2022,Turbidity,66,84.83,112
+Langat 2,24/9/2022,Manganese (Mn),0.18,0.19,0.19
+Langat 2,25/9/2022,Color,13,15.17,17
+Langat 2,25/9/2022,pH,7.26,7.35,7.4
+Langat 2,25/9/2022,Ammonia (NH4),0.06,0.08,0.09
+Langat 2,25/9/2022,Ferum/Iron (Fe),1.45,1.49,1.53
+Langat 2,25/9/2022,Turbidity,57,69.83,94
+Langat 2,25/9/2022,Manganese (Mn),0.17,0.18,0.19
+Langat 2,26/9/2022,Color,14,15.33,17
+Langat 2,26/9/2022,pH,7.22,7.31,7.36
+Langat 2,26/9/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,26/9/2022,Ferum/Iron (Fe),1.21,1.28,1.34
+Langat 2,26/9/2022,Turbidity,35,45.83,55
+Langat 2,26/9/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,27/9/2022,Color,13,14.5,17
+Langat 2,27/9/2022,pH,7.26,7.34,7.4
+Langat 2,27/9/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,27/9/2022,Ferum/Iron (Fe),1.32,1.43,1.54
+Langat 2,27/9/2022,Turbidity,37,44,50
+Langat 2,27/9/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,28/9/2022,Color,11,13.5,16
+Langat 2,28/9/2022,pH,7.26,7.34,7.41
+Langat 2,28/9/2022,Ammonia (NH4),0.02,0.03,0.03
+Langat 2,28/9/2022,Ferum/Iron (Fe),1.33,1.34,1.34
+Langat 2,28/9/2022,Turbidity,31,35.67,40
+Langat 2,28/9/2022,Manganese (Mn),0.09,0.09,0.09
+Langat 2,29/9/2022,Color,13,16.5,23
+Langat 2,29/9/2022,pH,7.26,7.32,7.35
+Langat 2,29/9/2022,Ammonia (NH4),0.04,0.08,0.12
+Langat 2,29/9/2022,Ferum/Iron (Fe),1.24,1.76,2.28
+Langat 2,29/9/2022,Turbidity,26,62.5,121
+Langat 2,29/9/2022,Manganese (Mn),0.07,0.21,0.35
+Langat 2,30/9/2022,Color,10,14.5,19
+Langat 2,30/9/2022,pH,7.22,7.29,7.36
+Langat 2,30/9/2022,Ammonia (NH4),0.03,0.03,0.03
+Langat 2,30/9/2022,Ferum/Iron (Fe),1.32,1.39,1.46
+Langat 2,30/9/2022,Turbidity,32,51.67,74
+Langat 2,30/9/2022,Manganese (Mn),0.1,0.11,0.12
+Langat 2,1/10/2022,Color,9,16.83,29
+Langat 2,1/10/2022,pH,7.21,7.24,7.28
+Langat 2,1/10/2022,Ammonia (NH4),0.03,0.17,0.31
+Langat 2,1/10/2022,Ferum/Iron (Fe),1.55,2.57,3.59
+Langat 2,1/10/2022,Turbidity,38,130.17,338
+Langat 2,1/10/2022,Manganese (Mn),0.11,0.41,0.71
+Langat 2,2/10/2022,Color,16,23,30
+Langat 2,2/10/2022,pH,7.09,7.17,7.22
+Langat 2,2/10/2022,Ammonia (NH4),0.1,0.26,0.42
+Langat 2,2/10/2022,Ferum/Iron (Fe),1.9,3.52,5.14
+Langat 2,2/10/2022,Turbidity,168,357.33,618
+Langat 2,2/10/2022,Manganese (Mn),0.14,0.51,0.88
+Langat 2,3/10/2022,Color,12,16.33,22
+Langat 2,3/10/2022,pH,6.97,7.08,7.13
+Langat 2,3/10/2022,Ammonia (NH4),0.04,0.08,0.12
+Langat 2,3/10/2022,Ferum/Iron (Fe),0.97,1.25,1.53
+Langat 2,3/10/2022,Turbidity,46,131.33,301
+Langat 2,3/10/2022,Manganese (Mn),0.12,0.17,0.21
+Langat 2,4/10/2022,Color,13,22,45
+Langat 2,4/10/2022,pH,6.96,7.06,7.18
+Langat 2,4/10/2022,Ammonia (NH4),0.06,0.22,0.38
+Langat 2,4/10/2022,Ferum/Iron (Fe),1.02,4.41,7.8
+Langat 2,4/10/2022,Turbidity,46,294.83,1043
+Langat 2,4/10/2022,Manganese (Mn),0.14,0.94,1.73
+Langat 2,5/10/2022,Color,10,16,28
+Langat 2,5/10/2022,pH,6.53,6.93,7.08
+Langat 2,5/10/2022,Ammonia (NH4),0.09,0.15,0.21
+Langat 2,5/10/2022,Ferum/Iron (Fe),0.98,1.3,1.61
+Langat 2,5/10/2022,Turbidity,97,203.67,526
+Langat 2,5/10/2022,Manganese (Mn),0.14,0.18,0.22
+Langat 2,6/10/2022,Color,8,13.33,19
+Langat 2,6/10/2022,pH,6.72,6.92,7.01
+Langat 2,6/10/2022,Ammonia (NH4),0.05,0.08,0.11
+Langat 2,6/10/2022,Ferum/Iron (Fe),0.82,1.03,1.23
+Langat 2,6/10/2022,Turbidity,54,128,206
+Langat 2,6/10/2022,Manganese (Mn),0.11,0.12,0.12
+Langat 2,7/10/2022,Color,12,16.33,20
+Langat 2,7/10/2022,pH,7.01,7.03,7.05
+Langat 2,7/10/2022,Ammonia (NH4),0.09,0.1,0.1
+Langat 2,7/10/2022,Ferum/Iron (Fe),1.82,2.05,2.27
+Langat 2,7/10/2022,Turbidity,122,187.67,292
+Langat 2,7/10/2022,Manganese (Mn),0.13,0.19,0.25
+Langat 2,8/10/2022,Color,12,17.33,21
+Langat 2,8/10/2022,pH,7,7.1,7.16
+Langat 2,8/10/2022,Ammonia (NH4),0.11,0.15,0.18
+Langat 2,8/10/2022,Ferum/Iron (Fe),2.31,2.42,2.52
+Langat 2,8/10/2022,Turbidity,125,223.67,309
+Langat 2,8/10/2022,Manganese (Mn),0.26,0.34,0.42
+Langat 2,9/10/2022,Color,16,18.5,22
+Langat 2,9/10/2022,pH,6.94,7.03,7.09
+Langat 2,9/10/2022,Ammonia (NH4),0.17,0.18,0.18
+Langat 2,9/10/2022,Ferum/Iron (Fe),2.02,2.11,2.2
+Langat 2,9/10/2022,Turbidity,91,190.17,297
+Langat 2,9/10/2022,Manganese (Mn),0.41,0.42,0.42
+Langat 2,10/10/2022,Color,16,25.5,33
+Langat 2,10/10/2022,pH,6.88,6.91,6.95
+Langat 2,10/10/2022,Ammonia (NH4),0.18,0.21,0.23
+Langat 2,10/10/2022,Ferum/Iron (Fe),2.92,3.03,3.14
+Langat 2,10/10/2022,Turbidity,165,338.17,577
+Langat 2,10/10/2022,Manganese (Mn),0.6,0.68,0.75
+Langat 2,11/10/2022,Color,12,13.83,17
+Langat 2,11/10/2022,pH,6.87,6.91,6.97
+Langat 2,11/10/2022,Ammonia (NH4),0.07,0.08,0.09
+Langat 2,11/10/2022,Ferum/Iron (Fe),1.42,1.59,1.76
+Langat 2,11/10/2022,Turbidity,84,99.17,116
+Langat 2,11/10/2022,Manganese (Mn),0.12,0.19,0.25
+Langat 2,12/10/2022,Color,12,22.17,36
+Langat 2,12/10/2022,pH,6.9,6.98,7.07
+Langat 2,12/10/2022,Ammonia (NH4),0.07,0.1,0.12
+Langat 2,12/10/2022,Ferum/Iron (Fe),1.59,2.2,2.81
+Langat 2,12/10/2022,Turbidity,49,201.83,421
+Langat 2,12/10/2022,Manganese (Mn),0.21,0.27,0.32
+Langat 2,13/10/2022,Color,16,22,27
+Langat 2,13/10/2022,pH,6.9,6.94,7.03
+Langat 2,13/10/2022,Ammonia (NH4),0.14,0.15,0.16
+Langat 2,13/10/2022,Ferum/Iron (Fe),2.2,2.53,2.86
+Langat 2,13/10/2022,Turbidity,161,235.5,299
+Langat 2,13/10/2022,Manganese (Mn),0.41,0.43,0.44
+Langat 2,14/10/2022,Color,12,16,19
+Langat 2,14/10/2022,pH,6.97,6.98,6.99
+Langat 2,14/10/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,14/10/2022,Ferum/Iron (Fe),2.08,2.24,2.4
+Langat 2,14/10/2022,Turbidity,100,173.83,258
+Langat 2,14/10/2022,Manganese (Mn),0.24,0.26,0.28
+Langat 2,15/10/2022,Color,14,15.17,16
+Langat 2,15/10/2022,pH,7,7.01,7.03
+Langat 2,15/10/2022,Ammonia (NH4),0.07,0.07,0.07
+Langat 2,15/10/2022,Ferum/Iron (Fe),1.23,1.33,1.42
+Langat 2,15/10/2022,Turbidity,101,112.33,127
+Langat 2,15/10/2022,Manganese (Mn),0.13,0.13,0.13
+Langat 2,16/10/2022,Color,12,13.33,16
+Langat 2,16/10/2022,pH,7,7.06,7.08
+Langat 2,16/10/2022,Ammonia (NH4),0.04,0.05,0.05
+Langat 2,16/10/2022,Ferum/Iron (Fe),1.21,1.48,1.75
+Langat 2,16/10/2022,Turbidity,59,93,143
+Langat 2,16/10/2022,Manganese (Mn),0.13,0.14,0.15
+Langat 2,17/10/2022,Color,9,10.5,15
+Langat 2,17/10/2022,pH,7,7.06,7.13
+Langat 2,17/10/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,17/10/2022,Ferum/Iron (Fe),1.08,1.39,1.69
+Langat 2,17/10/2022,Turbidity,50,73.33,108
+Langat 2,17/10/2022,Manganese (Mn),0.11,0.15,0.18
+Langat 2,18/10/2022,Color,8,9.83,11
+Langat 2,18/10/2022,pH,6.92,7.03,7.11
+Langat 2,18/10/2022,Ammonia (NH4),0.04,0.06,0.08
+Langat 2,18/10/2022,Ferum/Iron (Fe),1.32,1.81,2.3
+Langat 2,18/10/2022,Turbidity,50,58.33,77
+Langat 2,18/10/2022,Manganese (Mn),0.12,0.17,0.22
+Langat 2,19/10/2022,Color,9,13.17,22
+Langat 2,19/10/2022,pH,7,7.06,7.11
+Langat 2,19/10/2022,Ammonia (NH4),0,0.09,0.18
+Langat 2,19/10/2022,Ferum/Iron (Fe),1.47,2.07,2.67
+Langat 2,19/10/2022,Turbidity,40,142.83,397
+Langat 2,19/10/2022,Manganese (Mn),0.16,0.31,0.45
+Langat 2,20/10/2022,Color,17,20.33,27
+Langat 2,20/10/2022,pH,6.9,6.97,7.11
+Langat 2,20/10/2022,Ammonia (NH4),0.14,0.29,0.44
+Langat 2,20/10/2022,Ferum/Iron (Fe),2.43,4.16,5.89
+Langat 2,20/10/2022,Turbidity,142,287.33,498
+Langat 2,20/10/2022,Manganese (Mn),0.39,0.66,0.93
+Langat 2,21/10/2022,Color,10,13.67,17
+Langat 2,21/10/2022,pH,6.94,6.98,7.03
+Langat 2,21/10/2022,Ammonia (NH4),0.05,0.05,0.05
+Langat 2,21/10/2022,Ferum/Iron (Fe),0.98,1.43,1.88
+Langat 2,21/10/2022,Turbidity,60,108.5,177
+Langat 2,21/10/2022,Manganese (Mn),0.12,0.18,0.23
+Langat 2,22/10/2022,Color,10,11.83,15
+Langat 2,22/10/2022,pH,6.92,7.03,7.11
+Langat 2,22/10/2022,Ammonia (NH4),0.03,0.09,0.15
+Langat 2,22/10/2022,Ferum/Iron (Fe),1.08,1.77,2.46
+Langat 2,22/10/2022,Turbidity,60,127.33,225
+Langat 2,22/10/2022,Manganese (Mn),0.12,0.22,0.32
+Langat 2,23/10/2022,Color,11,15.33,19
+Langat 2,23/10/2022,pH,6.9,6.98,7.11
+Langat 2,23/10/2022,Ammonia (NH4),0.06,0.09,0.11
+Langat 2,23/10/2022,Ferum/Iron (Fe),1.82,2.5,3.18
+Langat 2,23/10/2022,Turbidity,159,233.5,313
+Langat 2,23/10/2022,Manganese (Mn),0.12,0.2,0.28
+Langat 2,24/10/2022,Color,12,15.67,18
+Langat 2,24/10/2022,pH,6.9,6.94,7.06
+Langat 2,24/10/2022,Ammonia (NH4),0.1,0.11,0.12
+Langat 2,24/10/2022,Ferum/Iron (Fe),2.67,2.79,2.91
+Langat 2,24/10/2022,Turbidity,134,182.17,271
+Langat 2,24/10/2022,Manganese (Mn),0.33,0.47,0.6
+Langat 2,25/10/2022,Color,12,17.5,20
+Langat 2,25/10/2022,pH,6.69,6.88,7.02
+Langat 2,25/10/2022,Ammonia (NH4),0.17,0.2,0.23
+Langat 2,25/10/2022,Ferum/Iron (Fe),1.82,2.03,2.24
+Langat 2,25/10/2022,Turbidity,147,238.33,294
+Langat 2,25/10/2022,Manganese (Mn),0.32,0.36,0.39
+Langat 2,26/10/2022,Color,16,25.17,38
+Langat 2,26/10/2022,pH,6.7,6.77,6.82
+Langat 2,26/10/2022,Ammonia (NH4),0.16,0.24,0.31
+Langat 2,26/10/2022,Ferum/Iron (Fe),2.11,4.07,6.02
+Langat 2,26/10/2022,Turbidity,253,337.17,520
+Langat 2,26/10/2022,Manganese (Mn),0.27,0.49,0.71
+Langat 2,27/10/2022,Color,19,22.33,28
+Langat 2,27/10/2022,pH,6.76,6.83,6.92
+Langat 2,27/10/2022,Ammonia (NH4),0.16,0.16,0.16
+Langat 2,27/10/2022,Ferum/Iron (Fe),2.63,2.72,2.8
+Langat 2,27/10/2022,Turbidity,168,291,478
+Langat 2,27/10/2022,Manganese (Mn),0.33,0.34,0.34
+Langat 2,28/10/2022,Color,23,24.83,27
+Langat 2,28/10/2022,pH,6.71,6.79,6.91
+Langat 2,28/10/2022,Ammonia (NH4),0.18,0.18,0.18
+Langat 2,28/10/2022,Ferum/Iron (Fe),1.78,2.46,3.13
+Langat 2,28/10/2022,Turbidity,298,406,543
+Langat 2,28/10/2022,Manganese (Mn),0.1,0.27,0.44
+Langat 2,29/10/2022,Color,19,22.67,26
+Langat 2,29/10/2022,pH,6.76,6.89,7
+Langat 2,29/10/2022,Ammonia (NH4),0.21,0.22,0.23
+Langat 2,29/10/2022,Ferum/Iron (Fe),3.11,3.12,3.13
+Langat 2,29/10/2022,Turbidity,212,325.67,521
+Langat 2,29/10/2022,Manganese (Mn),0.37,0.49,0.61
+Langat 2,30/10/2022,Color,15,23.5,29
+Langat 2,30/10/2022,pH,6.9,6.94,7.04
+Langat 2,30/10/2022,Ammonia (NH4),0.13,0.3,0.47
+Langat 2,30/10/2022,Ferum/Iron (Fe),1.93,3.07,4.21
+Langat 2,30/10/2022,Turbidity,156,474,662
+Langat 2,30/10/2022,Manganese (Mn),0.28,0.73,1.18
+Langat 2,31/10/2022,Color,20,22.33,25
+Langat 2,31/10/2022,pH,6.91,6.97,7.04
+Langat 2,31/10/2022,Ammonia (NH4),0.11,0.13,0.15
+Langat 2,31/10/2022,Ferum/Iron (Fe),1.86,2.34,2.81
+Langat 2,31/10/2022,Turbidity,237,315.5,440
+Langat 2,31/10/2022,Manganese (Mn),0.29,0.3,0.3
+Langat 2,1/11/2022,Color,16,20,23
+Langat 2,1/11/2022,pH,7.02,7.07,7.11
+Langat 2,1/11/2022,Ammonia (NH4),0.1,0.14,0.18
+Langat 2,1/11/2022,Ferum/Iron (Fe),2.18,2.19,2.2
+Langat 2,1/11/2022,Turbidity,108,199,289
+Langat 2,1/11/2022,Manganese (Mn),0.31,0.39,0.47
+Langat 2,2/11/2022,Color,13,16.17,20
+Langat 2,2/11/2022,pH,7.18,7.2,7.23
+Langat 2,2/11/2022,Ammonia (NH4),0.06,0.06,0.06
+Langat 2,2/11/2022,Ferum/Iron (Fe),1.4,1.69,1.97
+Langat 2,2/11/2022,Turbidity,109,124.67,170
+Langat 2,2/11/2022,Manganese (Mn),0.17,0.18,0.19
+Langat 2,3/11/2022,Color,10,15.5,20
+Langat 2,3/11/2022,pH,7.16,7.18,7.21
+Langat 2,3/11/2022,Ammonia (NH4),0.04,0.05,0.06
+Langat 2,3/11/2022,Ferum/Iron (Fe),1.47,1.59,1.7
+Langat 2,3/11/2022,Turbidity,61,109.33,163
+Langat 2,3/11/2022,Manganese (Mn),0.15,0.2,0.24
+Langat 2,4/11/2022,Color,8,9,11
+Langat 2,4/11/2022,pH,7.13,7.18,7.2
+Langat 2,4/11/2022,Ammonia (NH4),0.03,0.05,0.06
+Langat 2,4/11/2022,Ferum/Iron (Fe),1.02,1.09,1.15
+Langat 2,4/11/2022,Turbidity,42,60.5,88
+Langat 2,4/11/2022,Manganese (Mn),0.09,0.1,0.1
+Langat 2,5/11/2022,Color,8,16,21
+Langat 2,5/11/2022,pH,7.16,7.21,7.24
+Langat 2,5/11/2022,Ammonia (NH4),0.03,0.05,0.07
+Langat 2,5/11/2022,Ferum/Iron (Fe),1.17,1.81,2.45
+Langat 2,5/11/2022,Turbidity,52,134.83,190
+Langat 2,5/11/2022,Manganese (Mn),0.14,0.16,0.18
+Langat 2,6/11/2022,Color,8,9.17,10
+Langat 2,6/11/2022,pH,7.11,7.18,7.22
+Langat 2,6/11/2022,Ammonia (NH4),0.03,0.04,0.05
+Langat 2,6/11/2022,Ferum/Iron (Fe),1.34,1.49,1.64
+Langat 2,6/11/2022,Turbidity,52,68,77
+Langat 2,6/11/2022,Manganese (Mn),0.12,0.15,0.17
+Langat 2,7/11/2022,Color,9,22.67,29
+Langat 2,7/11/2022,pH,7.16,7.24,7.27
+Langat 2,7/11/2022,Ammonia (NH4),0.05,0.18,0.3
+Langat 2,7/11/2022,Ferum/Iron (Fe),1.44,2.53,3.61
+Langat 2,7/11/2022,Turbidity,22,219.83,482
+Langat 2,7/11/2022,Manganese (Mn),0.17,0.42,0.67
+Langat 2,8/11/2022,Color,13,21.5,27
+Langat 2,8/11/2022,pH,7.18,7.22,7.26
+Langat 2,8/11/2022,Ammonia (NH4),0.1,0.25,0.39
+Langat 2,8/11/2022,Ferum/Iron (Fe),1.7,2.52,3.33
+Langat 2,8/11/2022,Turbidity,139,322,503
+Langat 2,8/11/2022,Manganese (Mn),0.24,0.52,0.79
+Langat 2,9/11/2022,Color,20,23,27
+Langat 2,9/11/2022,pH,7.1,7.19,7.34
+Langat 2,9/11/2022,Ammonia (NH4),0.31,0.36,0.41
+Langat 2,9/11/2022,Ferum/Iron (Fe),3.39,3.73,4.07
+Langat 2,9/11/2022,Turbidity,213,380.17,510
+Langat 2,9/11/2022,Manganese (Mn),0.73,0.77,0.81
+Langat 2,10/11/2022,Color,9,16.17,21
+Langat 2,10/11/2022,pH,7.13,7.2,7.26
+Langat 2,10/11/2022,Ammonia (NH4),0.04,0.07,0.1
+Langat 2,10/11/2022,Ferum/Iron (Fe),1.33,1.48,1.63
+Langat 2,10/11/2022,Turbidity,48,134.83,256
+Langat 2,10/11/2022,Manganese (Mn),0.12,0.16,0.2
+Langat 2,11/11/2022,Color,9,15,20
+Langat 2,11/11/2022,pH,7.2,7.28,7.33
+Langat 2,11/11/2022,Ammonia (NH4),0.06,0.06,0.06
+Langat 2,11/11/2022,Ferum/Iron (Fe),1.55,1.67,1.78
+Langat 2,11/11/2022,Turbidity,76,105.83,129
+Langat 2,11/11/2022,Manganese (Mn),0.14,0.17,0.2
+Langat 2,12/11/2022,Color,10,16,22
+Langat 2,12/11/2022,pH,7.12,7.2,7.27
+Langat 2,12/11/2022,Ammonia (NH4),0.08,0.22,0.36
+Langat 2,12/11/2022,Ferum/Iron (Fe),1.08,2.33,3.57
+Langat 2,12/11/2022,Turbidity,86,236.67,356
+Langat 2,12/11/2022,Manganese (Mn),0.13,0.43,0.72
+Langat 2,13/11/2022,Color,12,18.83,21
+Langat 2,13/11/2022,pH,7.12,7.23,7.28
+Langat 2,13/11/2022,Ammonia (NH4),0.08,0.09,0.1
+Langat 2,13/11/2022,Ferum/Iron (Fe),1.72,2.46,3.2
+Langat 2,13/11/2022,Turbidity,98,230.17,355
+Langat 2,13/11/2022,Manganese (Mn),0.21,0.23,0.24
+Langat 2,14/11/2022,Color,8,17.5,33
+Langat 2,14/11/2022,pH,7.24,7.26,7.3
+Langat 2,14/11/2022,Ammonia (NH4),0.1,0.2,0.3
+Langat 2,14/11/2022,Ferum/Iron (Fe),0.29,2.21,4.12
+Langat 2,14/11/2022,Turbidity,79,257.33,672
+Langat 2,14/11/2022,Manganese (Mn),0.22,0.54,0.86
+Langat 2,15/11/2022,Color,29,34.5,39
+Langat 2,15/11/2022,pH,7.1,7.16,7.2
+Langat 2,15/11/2022,Ammonia (NH4),0.42,0.52,0.62
+Langat 2,15/11/2022,Ferum/Iron (Fe),3.2,3.57,3.93
+Langat 2,15/11/2022,Turbidity,482,977.33,1515
+Langat 2,15/11/2022,Manganese (Mn),1.13,1.28,1.42
+Langat 2,16/11/2022,Color,17,22,29
+Langat 2,16/11/2022,pH,7.02,7.17,7.34
+Langat 2,16/11/2022,Ammonia (NH4),0.14,0.19,0.24
+Langat 2,16/11/2022,Ferum/Iron (Fe),1.15,1.63,2.11
+Langat 2,16/11/2022,Turbidity,160,373.83,858
+Langat 2,16/11/2022,Manganese (Mn),0.42,0.5,0.58
+Langat 2,17/11/2022,Color,15,17.83,27
+Langat 2,17/11/2022,pH,7.12,7.23,7.26
+Langat 2,17/11/2022,Ammonia (NH4),0.05,0.11,0.17
+Langat 2,17/11/2022,Ferum/Iron (Fe),1.63,1.67,1.71
+Langat 2,17/11/2022,Turbidity,113,208.17,404
+Langat 2,17/11/2022,Manganese (Mn),0.23,0.36,0.48
+Langat 2,18/11/2022,Color,16,20,27
+Langat 2,18/11/2022,pH,7.11,7.2,7.3
+Langat 2,18/11/2022,Ammonia (NH4),0.19,0.21,0.22
+Langat 2,18/11/2022,Ferum/Iron (Fe),2.9,3.36,3.81
+Langat 2,18/11/2022,Turbidity,190,281.67,470
+Langat 2,18/11/2022,Manganese (Mn),0.57,0.58,0.59
+Langat 2,19/11/2022,Color,15,18.5,22
+Langat 2,19/11/2022,pH,7.19,7.24,7.3
+Langat 2,19/11/2022,Ammonia (NH4),0.21,0.29,0.37
+Langat 2,19/11/2022,Ferum/Iron (Fe),2.36,3.37,4.38
+Langat 2,19/11/2022,Turbidity,158,294.33,396
+Langat 2,19/11/2022,Manganese (Mn),0.3,0.51,0.72
+Langat 2,20/11/2022,Color,15,23.5,34
+Langat 2,20/11/2022,pH,7.09,7.14,7.23
+Langat 2,20/11/2022,Ammonia (NH4),0.15,0.33,0.5
+Langat 2,20/11/2022,Ferum/Iron (Fe),2.32,4.01,5.7
+Langat 2,20/11/2022,Turbidity,148,505.83,1020
+Langat 2,20/11/2022,Manganese (Mn),0.3,0.82,1.34
+Langat 2,21/11/2022,Color,23,27.5,32
+Langat 2,21/11/2022,pH,6.96,7.04,7.11
+Langat 2,21/11/2022,Ammonia (NH4),0.37,0.47,0.56
+Langat 2,21/11/2022,Ferum/Iron (Fe),4.11,5.34,6.56
+Langat 2,21/11/2022,Turbidity,530,662,772
+Langat 2,21/11/2022,Manganese (Mn),0.7,0.95,1.2
+Langat 2,22/11/2022,Color,13,17.17,25
+Langat 2,22/11/2022,pH,6.99,7.06,7.11
+Langat 2,22/11/2022,Ammonia (NH4),0.12,0.14,0.16
+Langat 2,22/11/2022,Ferum/Iron (Fe),2.11,2.33,2.55
+Langat 2,22/11/2022,Turbidity,119,188.17,386
+Langat 2,22/11/2022,Manganese (Mn),0.4,0.41,0.41
+Langat 2,23/11/2022,Color,9,11.5,15
+Langat 2,23/11/2022,pH,7.02,7.04,7.06
+Langat 2,23/11/2022,Ammonia (NH4),0.11,0.13,0.15
+Langat 2,23/11/2022,Ferum/Iron (Fe),1.8,2.06,2.31
+Langat 2,23/11/2022,Turbidity,80,119.5,175
+Langat 2,23/11/2022,Manganese (Mn),0.12,0.24,0.36
+Langat 2,24/11/2022,Color,12,13.67,16
+Langat 2,24/11/2022,pH,7.02,7.08,7.14
+Langat 2,24/11/2022,Ammonia (NH4),0.14,0.14,0.14
+Langat 2,24/11/2022,Ferum/Iron (Fe),1.88,2.17,2.46
+Langat 2,24/11/2022,Turbidity,102,137.33,172
+Langat 2,24/11/2022,Manganese (Mn),0.4,0.4,0.4
+Langat 2,25/11/2022,Color,8,9.67,13
+Langat 2,25/11/2022,pH,7.09,7.15,7.22
+Langat 2,25/11/2022,Ammonia (NH4),0.1,0.11,0.11
+Langat 2,25/11/2022,Ferum/Iron (Fe),1.3,1.77,2.23
+Langat 2,25/11/2022,Turbidity,68,94.67,145
+Langat 2,25/11/2022,Manganese (Mn),0.17,0.24,0.31
+Langat 2,26/11/2022,Color,12,13.33,14
+Langat 2,26/11/2022,pH,6.99,7.02,7.07
+Langat 2,26/11/2022,Ammonia (NH4),0.09,0.1,0.11
+Langat 2,26/11/2022,Ferum/Iron (Fe),1.8,1.86,1.92
+Langat 2,26/11/2022,Turbidity,108,144.17,165
+Langat 2,26/11/2022,Manganese (Mn),0.18,0.23,0.27
+Langat 2,27/11/2022,Color,10,18,28
+Langat 2,27/11/2022,pH,6.96,7.03,7.11
+Langat 2,27/11/2022,Ammonia (NH4),0.08,0.25,0.41
+Langat 2,27/11/2022,Ferum/Iron (Fe),1.55,3.56,5.56
+Langat 2,27/11/2022,Turbidity,66,264.83,608
+Langat 2,27/11/2022,Manganese (Mn),0.15,0.54,0.92
+Langat 2,28/11/2022,Color,10,13.67,21
+Langat 2,28/11/2022,pH,6.91,7,7.06
+Langat 2,28/11/2022,Ammonia (NH4),0.08,0.1,0.11
+Langat 2,28/11/2022,Ferum/Iron (Fe),1.77,1.78,1.79
+Langat 2,28/11/2022,Turbidity,130,162.67,273
+Langat 2,28/11/2022,Manganese (Mn),0.19,0.25,0.3
+Langat 2,29/11/2022,Color,16,20.5,24
+Langat 2,29/11/2022,pH,6.93,6.99,7.06
+Langat 2,29/11/2022,Ammonia (NH4),0.32,0.33,0.33
+Langat 2,29/11/2022,Ferum/Iron (Fe),3.54,3.68,3.82
+Langat 2,29/11/2022,Turbidity,183,299.5,403
+Langat 2,29/11/2022,Manganese (Mn),0.59,0.67,0.74
+Langat 2,30/11/2022,Color,16,18.83,26
+Langat 2,30/11/2022,pH,6.93,6.99,7.07
+Langat 2,30/11/2022,Ammonia (NH4),0.16,0.16,0.16
+Langat 2,30/11/2022,Ferum/Iron (Fe),1.52,1.92,2.31
+Langat 2,30/11/2022,Turbidity,189,290.17,447
+Langat 2,30/11/2022,Manganese (Mn),0.28,0.31,0.34
+Langat 2,1/12/2022,Color,19,24.83,38
+Langat 2,1/12/2022,pH,6.9,6.97,6.99
+Langat 2,1/12/2022,Ammonia (NH4),0.15,0.32,0.48
+Langat 2,1/12/2022,Ferum/Iron (Fe),2.23,3.6,4.96
+Langat 2,1/12/2022,Turbidity,202,449.5,1246
+Langat 2,1/12/2022,Manganese (Mn),0.31,0.63,0.95
+Langat 2,2/12/2022,Color,19,27.67,36
+Langat 2,2/12/2022,pH,6.7,6.78,6.86
+Langat 2,2/12/2022,Ammonia (NH4),0.24,0.29,0.34
+Langat 2,2/12/2022,Ferum/Iron (Fe),3.96,4.04,4.12
+Langat 2,2/12/2022,Turbidity,243,442.33,947
+Langat 2,2/12/2022,Manganese (Mn),0.49,0.54,0.58
+Langat 2,3/12/2022,Color,10,13.33,18
+Langat 2,3/12/2022,pH,6.71,6.84,6.94
+Langat 2,3/12/2022,Ammonia (NH4),0.1,0.14,0.18
+Langat 2,3/12/2022,Ferum/Iron (Fe),2.08,2.1,2.11
+Langat 2,3/12/2022,Turbidity,94,146.67,221
+Langat 2,3/12/2022,Manganese (Mn),0.22,0.25,0.27
+Langat 2,4/12/2022,Color,11,13.83,16
+Langat 2,4/12/2022,pH,6.91,6.95,6.98
+Langat 2,4/12/2022,Ammonia (NH4),0.11,0.16,0.21
+Langat 2,4/12/2022,Ferum/Iron (Fe),2.03,2.07,2.11
+Langat 2,4/12/2022,Turbidity,97,136.67,185
+Langat 2,4/12/2022,Manganese (Mn),0.27,0.29,0.3
+Langat 2,5/12/2022,Color,9,11.5,13
+Langat 2,5/12/2022,pH,6.87,7.02,7.1
+Langat 2,5/12/2022,Ammonia (NH4),0.07,0.09,0.11
+Langat 2,5/12/2022,Ferum/Iron (Fe),0.88,1.04,1.2
+Langat 2,5/12/2022,Turbidity,68,81.67,107
+Langat 2,5/12/2022,Manganese (Mn),0.19,0.2,0.21
+Langat 2,6/12/2022,Color,8,10.33,13
+Langat 2,6/12/2022,pH,7.01,7.04,7.08
+Langat 2,6/12/2022,Ammonia (NH4),0.06,0.08,0.1
+Langat 2,6/12/2022,Ferum/Iron (Fe),0.84,1.12,1.4
+Langat 2,6/12/2022,Turbidity,70,103.67,166
+Langat 2,6/12/2022,Manganese (Mn),0.15,0.17,0.18
+Langat 2,7/12/2022,Color,8,19.17,35
+Langat 2,7/12/2022,pH,6.75,6.93,7.08
+Langat 2,7/12/2022,Ammonia (NH4),0.1,0.32,0.53
+Langat 2,7/12/2022,Ferum/Iron (Fe),0.92,3.44,5.96
+Langat 2,7/12/2022,Turbidity,90,398.5,937
+Langat 2,7/12/2022,Manganese (Mn),0.18,0.84,1.49
+Langat 2,8/12/2022,Color,22,26,34
+Langat 2,8/12/2022,pH,6.65,6.73,6.78
+Langat 2,8/12/2022,Ammonia (NH4),0.1,0.3,0.49
+Langat 2,8/12/2022,Ferum/Iron (Fe),1.38,3.21,5.03
+Langat 2,8/12/2022,Turbidity,431,679.5,1168
+Langat 2,8/12/2022,Manganese (Mn),0.87,0.91,0.95
+Langat 2,9/12/2022,Color,22,26.5,34
+Langat 2,9/12/2022,pH,6.67,6.73,6.82
+Langat 2,9/12/2022,Ammonia (NH4),0.16,0.31,0.46
+Langat 2,9/12/2022,Ferum/Iron (Fe),1.88,3.83,5.77
+Langat 2,9/12/2022,Turbidity,518,656,848
+Langat 2,9/12/2022,Manganese (Mn),0.72,1.06,1.39
+Langat 2,10/12/2022,Color,18,20.83,27
+Langat 2,10/12/2022,pH,6.73,6.79,6.89
+Langat 2,10/12/2022,Ammonia (NH4),0.32,0.4,0.47
+Langat 2,10/12/2022,Ferum/Iron (Fe),3.4,4.96,6.52
+Langat 2,10/12/2022,Turbidity,380,441.33,531
+Langat 2,10/12/2022,Manganese (Mn),0.88,1.05,1.21
+Langat 2,11/12/2022,Color,19,21.83,25
+Langat 2,11/12/2022,pH,6.92,6.97,7.05
+Langat 2,11/12/2022,Ammonia (NH4),0.18,0.18,0.18
+Langat 2,11/12/2022,Ferum/Iron (Fe),2.1,2.89,3.68
+Langat 2,11/12/2022,Turbidity,223,350.17,412
+Langat 2,11/12/2022,Manganese (Mn),0.37,0.42,0.47
+Langat 2,12/12/2022,Color,16,20.17,24
+Langat 2,12/12/2022,pH,6.89,6.95,7.03
+Langat 2,12/12/2022,Ammonia (NH4),0.1,0.13,0.16
+Langat 2,12/12/2022,Ferum/Iron (Fe),2.53,2.61,2.68
+Langat 2,12/12/2022,Turbidity,155,244.5,389
+Langat 2,12/12/2022,Manganese (Mn),0.44,0.55,0.65
+Langat 2,13/12/2022,Color,16,17.17,19
+Langat 2,13/12/2022,pH,6.95,7.01,7.04
+Langat 2,13/12/2022,Ammonia (NH4),0.15,0.18,0.2
+Langat 2,13/12/2022,Ferum/Iron (Fe),1.88,2.47,3.06
+Langat 2,13/12/2022,Turbidity,156,218.33,281
+Langat 2,13/12/2022,Manganese (Mn),0,0.28,0.56
+Langat 2,14/12/2022,Color,11,14,16
+Langat 2,14/12/2022,pH,7,7.07,7.13
+Langat 2,14/12/2022,Ammonia (NH4),0.14,0.15,0.15
+Langat 2,14/12/2022,Ferum/Iron (Fe),1.72,1.94,2.15
+Langat 2,14/12/2022,Turbidity,102,162.83,297
+Langat 2,14/12/2022,Manganese (Mn),0.18,0.29,0.4
+Langat 2,15/12/2022,Color,13,17.33,22
+Langat 2,15/12/2022,pH,6.98,7.01,7.07
+Langat 2,15/12/2022,Ammonia (NH4),0.14,0.18,0.21
+Langat 2,15/12/2022,Ferum/Iron (Fe),1.82,2.57,3.31
+Langat 2,15/12/2022,Turbidity,172,222,309
+Langat 2,15/12/2022,Manganese (Mn),0.29,0.41,0.53
+Langat 2,16/12/2022,Color,12,13.83,15
+Langat 2,16/12/2022,pH,7.03,7.08,7.09
+Langat 2,16/12/2022,Ammonia (NH4),0.07,0.09,0.11
+Langat 2,16/12/2022,Ferum/Iron (Fe),1.49,1.74,1.99
+Langat 2,16/12/2022,Turbidity,108,124.5,152
+Langat 2,16/12/2022,Manganese (Mn),0.18,0.27,0.36
+Langat 2,17/12/2022,Color,12,12.5,14
+Langat 2,17/12/2022,pH,6.98,7.03,7.1
+Langat 2,17/12/2022,Ammonia (NH4),0.1,0.1,0.1
+Langat 2,17/12/2022,Ferum/Iron (Fe),1.2,1.27,1.33
+Langat 2,17/12/2022,Turbidity,81,97,125
+Langat 2,17/12/2022,Manganese (Mn),0.18,0.2,0.22
+Langat 2,18/12/2022,Color,20,22.67,25
+Langat 2,18/12/2022,pH,6.91,6.95,7
+Langat 2,18/12/2022,Ammonia (NH4),0.19,0.2,0.2
+Langat 2,18/12/2022,Ferum/Iron (Fe),2.71,2.85,2.98
+Langat 2,18/12/2022,Turbidity,235,271,316
+Langat 2,18/12/2022,Manganese (Mn),0.51,0.51,0.51
+Langat 2,19/12/2022,Color,20,22.83,25
+Langat 2,19/12/2022,pH,6.9,7.02,7.11
+Langat 2,19/12/2022,Ammonia (NH4),0.19,0.23,0.27
+Langat 2,19/12/2022,Ferum/Iron (Fe),2.21,2.65,3.08
+Langat 2,19/12/2022,Turbidity,205,321.67,458
+Langat 2,19/12/2022,Manganese (Mn),0.45,0.55,0.65
+Langat 2,20/12/2022,Color,10,14.67,19
+Langat 2,20/12/2022,pH,6.97,7.01,7.07
+Langat 2,20/12/2022,Ammonia (NH4),0.08,0.1,0.11
+Langat 2,20/12/2022,Ferum/Iron (Fe),1.78,1.85,1.91
+Langat 2,20/12/2022,Turbidity,113,156.33,264
+Langat 2,20/12/2022,Manganese (Mn),0.26,0.31,0.36
+Langat 2,21/12/2022,Color,7,9,12
+Langat 2,21/12/2022,pH,7.02,7.05,7.11
+Langat 2,21/12/2022,Ammonia (NH4),0.07,0.08,0.09
+Langat 2,21/12/2022,Ferum/Iron (Fe),1.22,1.23,1.24
+Langat 2,21/12/2022,Turbidity,68,90.33,117
+Langat 2,21/12/2022,Manganese (Mn),0.14,0.15,0.16
+Langat 2,22/12/2022,Color,9,17.33,23
+Langat 2,22/12/2022,pH,7,7.04,7.07
+Langat 2,22/12/2022,Ammonia (NH4),0.11,0.22,0.33
+Langat 2,22/12/2022,Ferum/Iron (Fe),2.01,2.86,3.7
+Langat 2,22/12/2022,Turbidity,86,252,398
+Langat 2,22/12/2022,Manganese (Mn),0.37,0.52,0.67
+Langat 2,23/12/2022,Color,16,20.33,23
+Langat 2,23/12/2022,pH,6.85,6.93,7
+Langat 2,23/12/2022,Ammonia (NH4),0.17,0.23,0.29
+Langat 2,23/12/2022,Ferum/Iron (Fe),2.49,3.02,3.55
+Langat 2,23/12/2022,Turbidity,162,236.83,359
+Langat 2,23/12/2022,Manganese (Mn),0.43,0.53,0.62
+Langat 2,24/12/2022,Color,9,15.33,21
+Langat 2,24/12/2022,pH,6.83,6.9,6.98
+Langat 2,24/12/2022,Ammonia (NH4),0.07,0.12,0.16
+Langat 2,24/12/2022,Ferum/Iron (Fe),1.52,2.47,3.41
+Langat 2,24/12/2022,Turbidity,96,188.17,321
+Langat 2,24/12/2022,Manganese (Mn),0.24,0.36,0.47
+Langat 2,25/12/2022,Color,8,10.83,16
+Langat 2,25/12/2022,pH,6.83,6.93,7
+Langat 2,25/12/2022,Ammonia (NH4),0.09,0.1,0.1
+Langat 2,25/12/2022,Ferum/Iron (Fe),1.28,1.44,1.6
+Langat 2,25/12/2022,Turbidity,76,103.17,161
+Langat 2,25/12/2022,Manganese (Mn),0.16,0.2,0.24
+Langat 2,26/12/2022,Color,8,12.67,22
+Langat 2,26/12/2022,pH,6.93,7.01,7.1
+Langat 2,26/12/2022,Ammonia (NH4),0.08,0.49,0.9
+Langat 2,26/12/2022,Ferum/Iron (Fe),0.82,1.08,1.33
+Langat 2,26/12/2022,Turbidity,78,151.5,334
+Langat 2,26/12/2022,Manganese (Mn),0.19,0.2,0.2
+Langat 2,27/12/2022,Color,10,12.83,19
+Langat 2,27/12/2022,pH,6.91,6.98,7.08
+Langat 2,27/12/2022,Ammonia (NH4),0.04,0.07,0.1
+Langat 2,27/12/2022,Ferum/Iron (Fe),0.93,1.07,1.2
+Langat 2,27/12/2022,Turbidity,40,127.83,351
+Langat 2,27/12/2022,Manganese (Mn),0.11,0.13,0.14
+Langat 2,28/12/2022,Color,9,12.83,22
+Langat 2,28/12/2022,pH,7.01,7.05,7.13
+Langat 2,28/12/2022,Ammonia (NH4),0.09,0.1,0.11
+Langat 2,28/12/2022,Ferum/Iron (Fe),1.37,1.59,1.8
+Langat 2,28/12/2022,Turbidity,44,130,288
+Langat 2,28/12/2022,Manganese (Mn),0.21,0.23,0.24
+Langat 2,29/12/2022,Color,10,15.5,22
+Langat 2,29/12/2022,pH,6.91,7.08,7.14
+Langat 2,29/12/2022,Ammonia (NH4),0.21,0.22,0.23
+Langat 2,29/12/2022,Ferum/Iron (Fe),2.77,2.94,3.11
+Langat 2,29/12/2022,Turbidity,85,161,280
+Langat 2,29/12/2022,Manganese (Mn),0.53,0.53,0.53
+Langat 2,30/12/2022,Color,10,14.83,20
+Langat 2,30/12/2022,pH,6.91,7.09,7.19
+Langat 2,30/12/2022,Ammonia (NH4),0.08,0.09,0.09
+Langat 2,30/12/2022,Ferum/Iron (Fe),1.19,1.41,1.62
+Langat 2,30/12/2022,Turbidity,76,111.83,177
+Langat 2,30/12/2022,Manganese (Mn),0.19,0.22,0.25
+Langat 2,31/12/2022,Color,8,9.83,12
+Langat 2,31/12/2022,pH,7.17,7.21,7.28
+Langat 2,31/12/2022,Ammonia (NH4),0.05,0.08,0.1
+Langat 2,31/12/2022,Ferum/Iron (Fe),1.1,1.46,1.81
+Langat 2,31/12/2022,Turbidity,48,93.83,140
+Langat 2,31/12/2022,Manganese (Mn),0.15,0.2,0.24

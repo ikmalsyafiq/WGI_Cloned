@@ -1,0 +1,838 @@
+,wtp,Month,WQI
+0,Bernam River Headworks (New),01-2021,78.8
+1,Rantau Panjang New,01-2021,83.6
+2,North Hummock,01-2021,74.2
+3,Batang Kali,01-2021,94.1
+4,Kuala Kubu Bharu,01-2021,94.8
+5,Kalumpang,01-2021,95.0
+6,Sungai Selisek,01-2021,88.9
+7,Sungai Dusun,01-2021,89.5
+8,Sungai Tengi,01-2021,94.4
+9,Sungai Selangor Fasa 2 Stream C,01-2021,84.9
+10,Sungai Sireh,01-2021,79.1
+11,Sungai Langat,01-2021,87.8
+12,Bukit Tampoi New,01-2021,82.8
+13,Cheras Batu 11,01-2021,81.1
+14,Salak Tinggi,01-2021,71.7
+15,Sungai Pangsoon,01-2021,97.0
+16,Sungai Lolo - Baru,01-2021,92.3
+17,Sungai Serai,01-2021,95.6
+18,Bukit Nanas,01-2021,71.1
+19,Sungai Batu,01-2021,94.4
+20,Sungai Gombak,01-2021,93.2
+21,Ampang Intake,01-2021,85.8
+22,Sungai Rangkap,01-2021,91.7
+23,Kepong,01-2021,95.6
+24,Sungai Rumput,01-2021,93.6
+25,Wangsa Maju,01-2021,73.3
+26,Sungai Semenyih,01-2021,74.0
+27,Sungai Labu,01-2021,80.0
+28,Semenyih 2,01-2021,76.1
+29,Sungai Selangor Fasa 1,01-2021,85.1
+30,Rasa,01-2021,90.6
+31,Sungai Selangor Fasa 3,01-2021,83.8
+32,Langat 2,01-2021,92.9
+33,Labohan Dagang,01-2021,90.9
+34,Bernam River Headworks (New),02-2021,92.0
+35,Rantau Panjang New,02-2021,84.9
+36,North Hummock,02-2021,66.5
+37,Batang Kali,02-2021,95.3
+38,Kuala Kubu Bharu,02-2021,96.5
+39,Kalumpang,02-2021,96.5
+40,Sungai Selisek,02-2021,88.7
+41,Sungai Dusun,02-2021,91.2
+42,Sungai Tengi,02-2021,93.5
+43,Sungai Selangor Fasa 2 Stream C,02-2021,80.5
+44,Sungai Sireh,02-2021,81.2
+45,Sungai Langat,02-2021,85.3
+46,Bukit Tampoi New,02-2021,71.9
+47,Cheras Batu 11,02-2021,68.9
+48,Salak Tinggi,02-2021,72.3
+49,Sungai Pangsoon,02-2021,94.8
+50,Sungai Lolo - Baru,02-2021,94.9
+51,Sungai Serai,02-2021,96.6
+52,Bukit Nanas,02-2021,75.0
+53,Sungai Batu,02-2021,90.5
+54,Sungai Gombak,02-2021,93.0
+55,Ampang Intake,02-2021,90.2
+56,Sungai Rangkap,02-2021,96.7
+57,Kepong,02-2021,95.3
+58,Sungai Rumput,02-2021,93.1
+59,Wangsa Maju,02-2021,70.3
+60,Sungai Semenyih,02-2021,70.8
+61,Sungai Labu,02-2021,86.2
+62,Semenyih 2,02-2021,75.3
+63,Sungai Selangor Fasa 1,02-2021,88.6
+64,Rasa,02-2021,94.9
+65,Sungai Selangor Fasa 3,02-2021,75.6
+66,Langat 2,02-2021,92.1
+67,Labohan Dagang,02-2021,88.3
+68,Bernam River Headworks (New),03-2021,91.7
+69,Rantau Panjang New,03-2021,79.9
+70,North Hummock,03-2021,84.8
+71,Batang Kali,03-2021,87.9
+72,Kuala Kubu Bharu,03-2021,94.8
+73,Kalumpang,03-2021,94.8
+74,Sungai Selisek,03-2021,87.3
+75,Sungai Dusun,03-2021,87.7
+76,Sungai Tengi,03-2021,90.6
+77,Sungai Selangor Fasa 2 Stream C,03-2021,80.3
+78,Sungai Sireh,03-2021,88.4
+79,Sungai Langat,03-2021,88.8
+80,Bukit Tampoi New,03-2021,71.9
+81,Cheras Batu 11,03-2021,84.6
+82,Salak Tinggi,03-2021,68.5
+83,Sungai Pangsoon,03-2021,97.3
+84,Sungai Lolo - Baru,03-2021,93.3
+85,Sungai Serai,03-2021,95.9
+86,Bukit Nanas,03-2021,72.8
+87,Sungai Batu,03-2021,88.8
+88,Sungai Gombak,03-2021,92.8
+89,Ampang Intake,03-2021,94.5
+90,Sungai Rangkap,03-2021,91.9
+91,Kepong,03-2021,95.6
+92,Sungai Rumput,03-2021,89.2
+93,Wangsa Maju,03-2021,74.0
+94,Sungai Semenyih,03-2021,86.3
+95,Sungai Labu,03-2021,85.5
+96,Semenyih 2,03-2021,79.5
+97,Sungai Selangor Fasa 1,03-2021,86.4
+98,Rasa,03-2021,93.9
+99,Sungai Selangor Fasa 3,03-2021,84.3
+100,Langat 2,03-2021,92.2
+101,Labohan Dagang,03-2021,92.3
+102,Bernam River Headworks (New),04-2021,91.1
+103,Rantau Panjang New,04-2021,86.3
+104,North Hummock,04-2021,70.0
+105,Batang Kali,04-2021,91.1
+106,Kuala Kubu Bharu,04-2021,95.1
+107,Kalumpang,04-2021,96.0
+108,Sungai Selisek,04-2021,81.1
+109,Sungai Dusun,04-2021,92.2
+110,Sungai Tengi,04-2021,90.9
+111,Unknown,04-2021,
+112,Sungai Selangor Fasa 2 Stream C,04-2021,84.0
+113,Sungai Sireh,04-2021,86.1
+114,Sungai Langat,04-2021,90.1
+115,Bukit Tampoi New,04-2021,72.4
+116,Cheras Batu 11,04-2021,72.4
+117,Salak Tinggi,04-2021,60.9
+118,Sungai Pangsoon,04-2021,96.1
+119,Sungai Lolo - Baru,04-2021,95.9
+120,Sungai Serai,04-2021,94.4
+121,Bukit Nanas,04-2021,71.6
+122,Sungai Batu,04-2021,91.4
+123,Sungai Gombak,04-2021,97.9
+124,Ampang Intake,04-2021,92.3
+125,Sungai Rangkap,04-2021,94.8
+126,Kepong,04-2021,95.8
+127,Sungai Rumput,04-2021,94.1
+128,Wangsa Maju,04-2021,76.0
+129,Sungai Semenyih,04-2021,67.1
+130,Sungai Labu,04-2021,79.1
+131,Semenyih 2,04-2021,77.6
+132,Sungai Selangor Fasa 1,04-2021,88.2
+133,Rasa,04-2021,96.4
+134,Sungai Selangor Fasa 3,04-2021,82.8
+135,Langat 2,04-2021,93.8
+136,Labohan Dagang,04-2021,91.3
+137,Bernam River Headworks (New),05-2021,81.7
+138,Rantau Panjang New,05-2021,81.3
+139,North Hummock,05-2021,73.2
+140,Batang Kali,05-2021,94.8
+141,Kuala Kubu Bharu,05-2021,96.5
+142,Kalumpang,05-2021,95.6
+143,Sungai Selisek,05-2021,90.5
+144,Sungai Dusun,05-2021,93.3
+145,Sungai Tengi,05-2021,93.0
+146,Unknown,05-2021,
+147,Sungai Selangor Fasa 2 Stream C,05-2021,83.5
+148,Sungai Sireh,05-2021,81.7
+149,Sungai Langat,05-2021,92.1
+150,Bukit Tampoi New,05-2021,66.9
+151,Cheras Batu 11,05-2021,76.7
+152,Salak Tinggi,05-2021,66.9
+153,Sungai Pangsoon,05-2021,95.4
+154,Sungai Lolo - Baru,05-2021,93.9
+155,Sungai Serai,05-2021,96.1
+156,Bukit Nanas,05-2021,73.4
+157,Sungai Batu,05-2021,85.8
+158,Sungai Gombak,05-2021,94.7
+159,Ampang Intake,05-2021,93.4
+160,Sungai Rangkap,05-2021,95.2
+161,Kepong,05-2021,95.3
+162,Sungai Rumput,05-2021,94.3
+163,Wangsa Maju,05-2021,72.9
+164,Sungai Semenyih,05-2021,76.5
+165,Sungai Labu,05-2021,77.8
+166,Semenyih 2,05-2021,92.5
+167,Sungai Selangor Fasa 1,05-2021,89.0
+168,Rasa,05-2021,82.8
+169,Sungai Selangor Fasa 3,05-2021,87.2
+170,Langat 2,05-2021,93.5
+171,Labohan Dagang,05-2021,91.6
+172,Bernam River Headworks (New),06-2021,89.2
+173,Rantau Panjang New,06-2021,83.5
+174,North Hummock,06-2021,74.6
+175,Batang Kali,06-2021,90.5
+176,Kuala Kubu Bharu,06-2021,96.9
+177,Kalumpang,06-2021,97.1
+178,Sungai Selisek,06-2021,87.2
+179,Sungai Dusun,06-2021,95.8
+180,Sungai Tengi,06-2021,91.1
+181,Unknown,06-2021,
+182,Sungai Selangor Fasa 2 Stream C,06-2021,81.4
+183,Sungai Sireh,06-2021,93.2
+184,Sungai Langat,06-2021,87.1
+185,Bukit Tampoi New,06-2021,77.9
+186,Cheras Batu 11,06-2021,68.9
+187,Salak Tinggi,06-2021,63.6
+188,Sungai Pangsoon,06-2021,96.0
+189,Sungai Lolo - Baru,06-2021,95.2
+190,Sungai Serai,06-2021,94.7
+191,Bukit Nanas,06-2021,72.0
+192,Sungai Batu,06-2021,90.6
+193,Sungai Gombak,06-2021,93.9
+194,Ampang Intake,06-2021,94.3
+195,Sungai Rangkap,06-2021,96.0
+196,Kepong,06-2021,94.1
+197,Sungai Rumput,06-2021,94.4
+198,Wangsa Maju,06-2021,71.8
+199,Sungai Semenyih,06-2021,73.3
+200,Sungai Labu,06-2021,83.8
+201,Semenyih 2,06-2021,85.1
+202,Sungai Selangor Fasa 1,06-2021,88.0
+203,Rasa,06-2021,89.6
+204,Sungai Selangor Fasa 3,06-2021,88.3
+205,Langat 2,06-2021,90.0
+206,Labohan Dagang,06-2021,92.8
+207,Bernam River Headworks (New),07-2021,80.4
+208,Rantau Panjang New,07-2021,84.2
+209,North Hummock,07-2021,72.1
+210,Batang Kali,07-2021,95.3
+211,Kuala Kubu Bharu,07-2021,97.2
+212,Kalumpang,07-2021,94.1
+213,Sungai Selisek,07-2021,89.5
+214,Sungai Dusun,07-2021,93.7
+215,Sungai Tengi,07-2021,95.2
+216,Unknown,07-2021,
+217,Sungai Selangor Fasa 2 Stream C,07-2021,84.9
+218,Sungai Sireh,07-2021,86.3
+219,Sungai Langat,07-2021,90.3
+220,Bukit Tampoi New,07-2021,69.8
+221,Cheras Batu 11,07-2021,72.6
+222,Salak Tinggi,07-2021,63.6
+223,Sungai Pangsoon,07-2021,94.1
+224,Sungai Lolo - Baru,07-2021,93.2
+225,Sungai Serai,07-2021,97.2
+226,Bukit Nanas,07-2021,71.2
+227,Sungai Batu,07-2021,91.2
+228,Sungai Gombak,07-2021,97.9
+229,Ampang Intake,07-2021,94.1
+230,Sungai Rangkap,07-2021,95.3
+231,Kepong,07-2021,96.6
+232,Sungai Rumput,07-2021,96.4
+233,Wangsa Maju,07-2021,76.1
+234,Sungai Semenyih,07-2021,71.3
+235,Sungai Labu,07-2021,77.5
+236,Semenyih 2,07-2021,78.0
+237,Sungai Selangor Fasa 1,07-2021,71.0
+238,Rasa,07-2021,87.4
+239,Sungai Selangor Fasa 3,07-2021,73.8
+240,Langat 2,07-2021,90.5
+241,Labohan Dagang,07-2021,92.4
+242,Bernam River Headworks (New),08-2021,88.8
+243,Rantau Panjang New,08-2021,83.9
+244,North Hummock,08-2021,72.9
+245,Batang Kali,08-2021,81.1
+246,Kuala Kubu Bharu,08-2021,95.0
+247,Kalumpang,08-2021,93.2
+248,Sungai Selisek,08-2021,91.4
+249,Sungai Dusun,08-2021,93.2
+250,Sungai Tengi,08-2021,89.2
+251,Unknown,08-2021,
+252,Sungai Selangor Fasa 2 Stream C,08-2021,77.4
+253,Sungai Sireh,08-2021,81.6
+254,Sungai Langat,08-2021,87.6
+255,Bukit Tampoi New,08-2021,75.2
+256,Cheras Batu 11,08-2021,68.8
+257,Salak Tinggi,08-2021,59.3
+258,Sungai Pangsoon,08-2021,95.3
+259,Sungai Lolo - Baru,08-2021,93.5
+260,Sungai Serai,08-2021,95.7
+261,Bukit Nanas,08-2021,71.4
+262,Sungai Batu,08-2021,89.2
+263,Sungai Gombak,08-2021,93.6
+264,Ampang Intake,08-2021,93.3
+265,Sungai Rangkap,08-2021,95.1
+266,Kepong,08-2021,95.0
+267,Sungai Rumput,08-2021,92.6
+268,Wangsa Maju,08-2021,71.6
+269,Sungai Semenyih,08-2021,66.9
+270,Sungai Labu,08-2021,85.4
+271,Semenyih 2,08-2021,75.1
+272,Sungai Selangor Fasa 1,08-2021,81.3
+273,Rasa,08-2021,87.3
+274,Sungai Selangor Fasa 3,08-2021,78.0
+275,Langat 2,08-2021,94.5
+276,Labohan Dagang,08-2021,90.6
+277,Bernam River Headworks (New),09-2021,80.8
+278,Rantau Panjang New,09-2021,90.3
+279,North Hummock,09-2021,64.8
+280,Batang Kali,09-2021,86.0
+281,Kuala Kubu Bharu,09-2021,94.7
+282,Kalumpang,09-2021,96.2
+283,Sungai Selisek,09-2021,92.9
+284,Sungai Dusun,09-2021,93.5
+285,Sungai Tengi,09-2021,92.5
+286,Unknown,09-2021,
+287,Sungai Selangor Fasa 2 Stream C,09-2021,78.2
+288,Sungai Sireh,09-2021,81.4
+289,Sungai Langat,09-2021,87.9
+290,Bukit Tampoi New,09-2021,75.5
+291,Cheras Batu 11,09-2021,69.5
+292,Salak Tinggi,09-2021,71.5
+293,Sungai Pangsoon,09-2021,93.0
+294,Sungai Lolo - Baru,09-2021,95.8
+295,Sungai Serai,09-2021,93.5
+296,Bukit Nanas,09-2021,68.0
+297,Sungai Batu,09-2021,86.6
+298,Sungai Gombak,09-2021,94.5
+299,Ampang Intake,09-2021,95.7
+300,Sungai Rangkap,09-2021,94.3
+301,Kepong,09-2021,93.9
+302,Sungai Rumput,09-2021,96.4
+303,Wangsa Maju,09-2021,71.2
+304,Sungai Semenyih,09-2021,80.1
+305,Sungai Labu,09-2021,84.0
+306,Semenyih 2,09-2021,82.0
+307,Sungai Selangor Fasa 1,09-2021,80.8
+308,Rasa,09-2021,92.3
+309,Sungai Selangor Fasa 3,09-2021,73.0
+310,Langat 2,09-2021,88.8
+311,Labohan Dagang,09-2021,84.3
+312,Bernam River Headworks (New),10-2021,88.9
+313,Rantau Panjang New,10-2021,88.0
+314,North Hummock,10-2021,67.7
+315,Batang Kali,10-2021,90.4
+316,Kuala Kubu Bharu,10-2021,96.7
+317,Kalumpang,10-2021,95.8
+318,Sungai Selisek,10-2021,90.6
+319,Sungai Dusun,10-2021,94.1
+320,Sungai Tengi,10-2021,93.1
+321,Unknown,10-2021,
+322,Sungai Selangor Fasa 2 Stream C,10-2021,83.8
+323,Sungai Sireh,10-2021,79.0
+324,Sungai Langat,10-2021,87.1
+325,Bukit Tampoi New,10-2021,60.5
+326,Cheras Batu 11,10-2021,80.9
+327,Salak Tinggi,10-2021,67.3
+328,Sungai Pangsoon,10-2021,94.0
+329,Sungai Lolo - Baru,10-2021,94.8
+330,Sungai Serai,10-2021,95.7
+331,Bukit Nanas,10-2021,71.6
+332,Sungai Batu,10-2021,88.9
+333,Sungai Gombak,10-2021,92.9
+334,Ampang Intake,10-2021,92.7
+335,Sungai Rangkap,10-2021,93.2
+336,Kepong,10-2021,94.0
+337,Sungai Rumput,10-2021,92.6
+338,Wangsa Maju,10-2021,76.3
+339,Sungai Semenyih,10-2021,72.4
+340,Sungai Labu,10-2021,80.5
+341,Semenyih 2,10-2021,78.6
+342,Sungai Selangor Fasa 1,10-2021,84.3
+343,Rasa,10-2021,92.2
+344,Sungai Selangor Fasa 3,10-2021,83.0
+345,Langat 2,10-2021,93.1
+346,Labohan Dagang,10-2021,93.4
+347,Bernam River Headworks (New),11-2021,81.9
+348,Rantau Panjang New,11-2021,84.2
+349,North Hummock,11-2021,75.2
+350,Batang Kali,11-2021,88.7
+351,Kuala Kubu Bharu,11-2021,96.3
+352,Kalumpang,11-2021,96.7
+353,Sungai Selisek,11-2021,89.8
+354,Sungai Dusun,11-2021,94.1
+355,Sungai Tengi,11-2021,95.9
+356,Unknown,11-2021,
+357,Sungai Selangor Fasa 2 Stream C,11-2021,79.5
+358,Sungai Sireh,11-2021,78.1
+359,Sungai Langat,11-2021,88.5
+360,Bukit Tampoi New,11-2021,82.6
+361,Cheras Batu 11,11-2021,69.6
+362,Salak Tinggi,11-2021,64.2
+363,Sungai Pangsoon,11-2021,93.7
+364,Sungai Lolo - Baru,11-2021,95.6
+365,Sungai Serai,11-2021,95.6
+366,Bukit Nanas,11-2021,71.0
+367,Sungai Batu,11-2021,89.3
+368,Sungai Gombak,11-2021,94.1
+369,Ampang Intake,11-2021,92.1
+370,Sungai Rangkap,11-2021,95.2
+371,Kepong,11-2021,93.1
+372,Sungai Rumput,11-2021,94.4
+373,Wangsa Maju,11-2021,77.2
+374,Sungai Semenyih,11-2021,81.8
+375,Sungai Labu,11-2021,80.7
+376,Semenyih 2,11-2021,74.4
+377,Sungai Selangor Fasa 1,11-2021,78.6
+378,Rasa,11-2021,84.6
+379,Sungai Selangor Fasa 3,11-2021,80.9
+380,Langat 2,11-2021,91.2
+381,Labohan Dagang,11-2021,83.2
+382,Bernam River Headworks (New),12-2021,86.7
+383,Rantau Panjang New,12-2021,86.2
+384,North Hummock,12-2021,79.8
+385,Batang Kali,12-2021,92.9
+386,Kuala Kubu Bharu,12-2021,97.1
+387,Kalumpang,12-2021,97.4
+388,Sungai Selisek,12-2021,90.3
+389,Sungai Dusun,12-2021,95.3
+390,Sungai Tengi,12-2021,94.8
+391,Unknown,12-2021,
+392,Sungai Selangor Fasa 2 Stream C,12-2021,82.5
+393,Sungai Sireh,12-2021,80.9
+394,Sungai Langat,12-2021,88.4
+395,Bukit Tampoi New,12-2021,77.5
+396,Cheras Batu 11,12-2021,84.7
+397,Salak Tinggi,12-2021,73.8
+398,Sungai Pangsoon,12-2021,95.9
+399,Sungai Lolo - Baru,12-2021,95.7
+400,Sungai Serai,12-2021,95.5
+401,Bukit Nanas,12-2021,73.6
+402,Sungai Batu,12-2021,95.0
+403,Sungai Gombak,12-2021,95.5
+404,Ampang Intake,12-2021,93.4
+405,Sungai Rangkap,12-2021,94.6
+406,Kepong,12-2021,95.3
+407,Sungai Rumput,12-2021,94.6
+408,Wangsa Maju,12-2021,84.6
+409,Sungai Semenyih,12-2021,82.6
+410,Sungai Labu,12-2021,81.1
+411,Semenyih 2,12-2021,83.4
+412,Sungai Selangor Fasa 1,12-2021,81.2
+413,Rasa,12-2021,91.1
+414,Sungai Selangor Fasa 3,12-2021,73.2
+415,Langat 2,12-2021,91.0
+416,Labohan Dagang,12-2021,88.3
+417,Sungai Sireh,01-2022,69.4
+418,Bernam River Headworks,01-2022,83.4
+419,Rantau Panjang New,01-2022,81.0
+420,North Hummock,01-2022,75.9
+421,Batang Kali,01-2022,92.1
+422,Kuala Kubu Baru,01-2022,94.8
+423,Kalumpang,01-2022,94.3
+424,Sungai Selisek,01-2022,84.3
+425,Sungai Dusun,01-2022,89.2
+426,Sungai Tengi,01-2022,91.3
+427,Wangsa Maju,01-2022,73.7
+428,Bukit Nanas,01-2022,77.6
+429,Sungai Batu,01-2022,73.4
+430,Sungai Gombak,01-2022,95.5
+431,Ampang Intake,01-2022,94.4
+432,Sungai Rangkap,01-2022,92.7
+433,Kepong,01-2022,94.9
+434,Sungai Rumput,01-2022,92.6
+435,Sungai Selangor Fasa 1,01-2022,81.9
+436,Sungai Selangor Fasa 2 Stream C,01-2022,82.3
+437,Sungai Selangor Fasa 3,01-2022,75.4
+438,Rasa,01-2022,84.5
+439,Bukit Tampoi,01-2022,91.9
+440,Salak Tinggi,01-2022,79.4
+441,Sungai Semenyih,01-2022,81.6
+442,Sungai Labu,01-2022,88.0
+443,Semenyih 2,01-2022,88.4
+444,Labohan Dagang,01-2022,88.7
+445,Sungai Langat,01-2022,91.3
+446,Cheras Batu 11,01-2022,91.0
+447,Sungai Pangsoon,01-2022,93.9
+448,Sungai Lolo,01-2022,92.3
+449,Sungai Serai,01-2022,92.9
+450,Langat 2,01-2022,92.9
+451,Intake Semantan (Langat 2),01-2022,90.4
+452,Sungai Sireh,02-2022,77.4
+453,Bernam River Headworks,02-2022,87.9
+454,Rantau Panjang New,02-2022,83.9
+455,North Hummock,02-2022,85.3
+456,Batang Kali,02-2022,92.2
+457,Kuala Kubu Baru,02-2022,94.6
+458,Kalumpang,02-2022,94.8
+459,Sungai Selisek,02-2022,91.0
+460,Sungai Dusun,02-2022,91.9
+461,Sungai Tengi,02-2022,90.3
+462,Wangsa Maju,02-2022,74.5
+463,Bukit Nanas,02-2022,90.7
+464,Sungai Batu,02-2022,85.0
+465,Sungai Gombak,02-2022,92.9
+466,Ampang Intake,02-2022,94.5
+467,Sungai Rangkap,02-2022,94.1
+468,Kepong,02-2022,94.3
+469,Sungai Rumput,02-2022,91.2
+470,Sungai Selangor Fasa 1,02-2022,78.8
+471,Sungai Selangor Fasa 2 Stream C,02-2022,81.7
+472,Sungai Selangor Fasa 3,02-2022,82.7
+473,Rasa,02-2022,84.2
+474,Bukit Tampoi,02-2022,87.1
+475,Salak Tinggi,02-2022,86.8
+476,Sungai Semenyih,02-2022,79.9
+477,Sungai Labu,02-2022,87.8
+478,Semenyih 2,02-2022,82.4
+479,Labohan Dagang,02-2022,84.4
+480,Sungai Langat,02-2022,94.8
+481,Cheras Batu 11,02-2022,84.3
+482,Sungai Pangsoon,02-2022,95.3
+483,Sungai Lolo,02-2022,91.4
+484,Sungai Serai,02-2022,94.8
+485,Langat 2,02-2022,89.8
+486,Intake Semantan (Langat 2),02-2022,90.2
+487,Sungai Sireh,03-2022,75.8
+488,Bernam River Headworks,03-2022,73.2
+489,Rantau Panjang New,03-2022,81.8
+490,North Hummock,03-2022,88.2
+491,Batang Kali,03-2022,89.6
+492,Kuala Kubu Baru,03-2022,93.5
+493,Kalumpang,03-2022,93.4
+494,Sungai Selisek,03-2022,76.6
+495,Sungai Dusun,03-2022,90.0
+496,Sungai Tengi,03-2022,95.1
+497,Wangsa Maju,03-2022,67.1
+498,Bukit Nanas,03-2022,87.8
+499,Sungai Batu,03-2022,87.3
+500,Sungai Gombak,03-2022,90.8
+501,Ampang Intake,03-2022,84.4
+502,Sungai Rangkap,03-2022,95.7
+503,Kepong,03-2022,91.8
+504,Sungai Rumput,03-2022,88.9
+505,Sungai Selangor Fasa 1,03-2022,76.5
+506,Sungai Selangor Fasa 2 Stream C,03-2022,80.7
+507,Sungai Selangor Fasa 3,03-2022,65.6
+508,Rasa,03-2022,88.2
+509,Bukit Tampoi,03-2022,84.4
+510,Salak Tinggi,03-2022,79.3
+511,Sungai Semenyih,03-2022,77.2
+512,Sungai Labu,03-2022,82.3
+513,Semenyih 2,03-2022,83.8
+514,Labohan Dagang,03-2022,88.7
+515,Sungai Langat,03-2022,87.6
+516,Cheras Batu 11,03-2022,89.8
+517,Sungai Pangsoon,03-2022,94.8
+518,Sungai Lolo,03-2022,95.4
+519,Sungai Serai,03-2022,95.0
+520,Langat 2,03-2022,90.8
+521,Intake Semantan (Langat 2),03-2022,91.2
+522,Sungai Sireh,04-2022,82.6
+523,Bernam River Headworks,04-2022,82.7
+524,Rantau Panjang New,04-2022,81.7
+525,North Hummock,04-2022,81.4
+526,Batang Kali,04-2022,91.2
+527,Kuala Kubu Baru,04-2022,94.3
+528,Kalumpang,04-2022,91.8
+529,Sungai Selisek,04-2022,87.0
+530,Sungai Dusun,04-2022,91.0
+531,Sungai Tengi,04-2022,91.9
+532,Wangsa Maju,04-2022,74.4
+533,Bukit Nanas,04-2022,83.7
+534,Sungai Batu,04-2022,83.7
+535,Sungai Gombak,04-2022,92.6
+536,Ampang Intake,04-2022,86.9
+537,Sungai Rangkap,04-2022,94.7
+538,Kepong,04-2022,93.6
+539,Sungai Rumput,04-2022,92.0
+540,Sungai Selangor Fasa 1,04-2022,86.2
+541,Sungai Selangor Fasa 2 Stream C,04-2022,85.9
+542,Sungai Selangor Fasa 3,04-2022,81.0
+543,Rasa,04-2022,84.2
+544,Bukit Tampoi,04-2022,84.4
+545,Salak Tinggi,04-2022,72.2
+546,Sungai Semenyih,04-2022,80.1
+547,Sungai Labu,04-2022,81.0
+548,Semenyih 2,04-2022,83.1
+549,Labohan Dagang,04-2022,87.4
+550,Sungai Langat,04-2022,94.5
+551,Cheras Batu 11,04-2022,83.1
+552,Sungai Pangsoon,04-2022,95.0
+553,Sungai Lolo,04-2022,93.4
+554,Sungai Serai,04-2022,94.5
+555,Langat 2,04-2022,93.0
+556,Intake Semantan (Langat 2),04-2022,91.3
+557,Sungai Sireh,05-2022,85.7
+558,Bernam River Headworks,05-2022,94.2
+559,Rantau Panjang New,05-2022,85.5
+560,North Hummock,05-2022,82.8
+561,Batang Kali,05-2022,87.6
+562,Kuala Kubu Baru,05-2022,93.7
+563,Kalumpang,05-2022,92.7
+564,Sungai Selisek,05-2022,87.4
+565,Sungai Dusun,05-2022,91.4
+566,Sungai Tengi,05-2022,92.3
+567,Wangsa Maju,05-2022,71.8
+568,Bukit Nanas,05-2022,68.7
+569,Sungai Batu,05-2022,87.1
+570,Sungai Gombak,05-2022,92.4
+571,Ampang Intake,05-2022,89.5
+572,Sungai Rangkap,05-2022,95.1
+573,Kepong,05-2022,93.2
+574,Sungai Rumput,05-2022,90.6
+575,Sungai Selangor Fasa 1,05-2022,79.8
+576,Sungai Selangor Fasa 2 Stream C,05-2022,80.9
+577,Sungai Selangor Fasa 3,05-2022,85.6
+578,Rasa,05-2022,85.6
+579,Bukit Tampoi,05-2022,83.4
+580,Salak Tinggi,05-2022,72.9
+581,Sungai Semenyih,05-2022,81.7
+582,Sungai Labu,05-2022,80.1
+583,Semenyih 2,05-2022,88.0
+584,Labohan Dagang,05-2022,92.1
+585,Sungai Langat,05-2022,94.8
+586,Cheras Batu 11,05-2022,88.0
+587,Sungai Pangsoon,05-2022,93.5
+588,Sungai Lolo,05-2022,93.7
+589,Sungai Serai,05-2022,94.8
+590,Langat 2,05-2022,92.7
+591,Intake Semantan (Langat 2),05-2022,88.7
+592,Sungai Sireh,06-2022,81.7
+593,Bernam River Headworks,06-2022,87.9
+594,Rantau Panjang New,06-2022,85.4
+595,North Hummock,06-2022,86.1
+596,Batang Kali,06-2022,78.6
+597,Kuala Kubu Baru,06-2022,93.1
+598,Kalumpang,06-2022,94.9
+599,Sungai Selisek,06-2022,86.5
+600,Sungai Dusun,06-2022,87.9
+601,Sungai Tengi,06-2022,90.5
+602,Wangsa Maju,06-2022,71.4
+603,Bukit Nanas,06-2022,78.1
+604,Sungai Batu,06-2022,87.2
+605,Sungai Gombak,06-2022,92.8
+606,Ampang Intake,06-2022,92.7
+607,Sungai Rangkap,06-2022,93.4
+608,Kepong,06-2022,94.5
+609,Sungai Rumput,06-2022,93.2
+610,Sungai Selangor Fasa 1,06-2022,87.9
+611,Sungai Selangor Fasa 2 Stream C,06-2022,88.7
+612,Sungai Selangor Fasa 3,06-2022,77.2
+613,Rasa,06-2022,87.7
+614,Bukit Tampoi,06-2022,76.1
+615,Salak Tinggi,06-2022,64.6
+616,Sungai Semenyih,06-2022,80.7
+617,Sungai Labu,06-2022,79.9
+618,Semenyih 2,06-2022,81.7
+619,Labohan Dagang,06-2022,87.5
+620,Sungai Langat,06-2022,90.6
+621,Cheras Batu 11,06-2022,86.7
+622,Sungai Pangsoon,06-2022,93.4
+623,Sungai Lolo,06-2022,93.9
+624,Sungai Serai,06-2022,94.8
+625,Langat 2,06-2022,90.8
+626,Intake Semantan (Langat 2),06-2022,90.2
+627,Sungai Sireh,07-2022,67.4
+628,Bernam River Headworks,07-2022,86.6
+629,Rantau Panjang New,07-2022,88.9
+630,North Hummock,07-2022,85.0
+631,Batang Kali,07-2022,85.0
+632,Kuala Kubu Baru,07-2022,94.2
+633,Kalumpang,07-2022,93.1
+634,Sungai Selisek,07-2022,85.1
+635,Sungai Dusun,07-2022,88.5
+636,Sungai Tengi,07-2022,92.5
+637,Wangsa Maju,07-2022,71.5
+638,Bukit Nanas,07-2022,73.8
+639,Sungai Batu,07-2022,81.7
+640,Sungai Gombak,07-2022,91.9
+641,Ampang Intake,07-2022,91.4
+642,Sungai Rangkap,07-2022,86.9
+643,Kepong,07-2022,92.2
+644,Sungai Rumput,07-2022,91.3
+645,Sungai Selangor Fasa 1,07-2022,86.7
+646,Sungai Selangor Fasa 2 Stream C,07-2022,77.5
+647,Sungai Selangor Fasa 3,07-2022,77.2
+648,Rasa,07-2022,86.5
+649,Bukit Tampoi,07-2022,91.4
+650,Salak Tinggi,07-2022,68.8
+651,Sungai Semenyih,07-2022,72.1
+652,Sungai Labu,07-2022,82.9
+653,Semenyih 2,07-2022,79.5
+654,Labohan Dagang,07-2022,93.9
+655,Sungai Langat,07-2022,90.2
+656,Cheras Batu 11,07-2022,82.3
+657,Sungai Pangsoon,07-2022,92.1
+658,Sungai Lolo,07-2022,93.3
+659,Sungai Serai,07-2022,92.6
+660,Langat 2,07-2022,91.1
+661,Intake Semantan (Langat 2),07-2022,93.3
+662,Sungai Sireh,08-2022,79.0
+663,Bernam River Headworks,08-2022,88.1
+664,Rantau Panjang New,08-2022,81.9
+665,North Hummock,08-2022,84.5
+666,Batang Kali,08-2022,80.7
+667,Kuala Kubu Baru,08-2022,89.1
+668,Kalumpang,08-2022,93.0
+669,Sungai Selisek,08-2022,85.7
+670,Sungai Dusun,08-2022,89.6
+671,Sungai Tengi,08-2022,91.6
+672,Wangsa Maju,08-2022,74.3
+673,Bukit Nanas,08-2022,71.3
+674,Sungai Batu,08-2022,87.2
+675,Sungai Gombak,08-2022,93.1
+676,Ampang Intake,08-2022,94.1
+677,Sungai Rangkap,08-2022,92.3
+678,Kepong,08-2022,93.5
+679,Sungai Rumput,08-2022,92.5
+680,Sungai Selangor Fasa 1,08-2022,78.7
+681,Sungai Selangor Fasa 2 Stream C,08-2022,82.4
+682,Sungai Selangor Fasa 3,08-2022,73.0
+683,Rasa,08-2022,80.0
+684,Bukit Tampoi,08-2022,79.7
+685,Salak Tinggi,08-2022,68.2
+686,Sungai Semenyih,08-2022,74.3
+687,Sungai Labu,08-2022,86.6
+688,Semenyih 2,08-2022,89.3
+689,Labohan Dagang,08-2022,92.1
+690,Sungai Langat,08-2022,93.5
+691,Cheras Batu 11,08-2022,80.5
+692,Sungai Pangsoon,08-2022,91.9
+693,Sungai Lolo,08-2022,92.0
+694,Sungai Serai,08-2022,92.4
+695,Langat 2,08-2022,90.7
+696,Intake Semantan (Langat 2),08-2022,92.0
+697,Sungai Sireh,09-2022,73.3
+698,Bernam River Headworks,09-2022,85.2
+699,Rantau Panjang New,09-2022,82.1
+700,North Hummock,09-2022,80.3
+701,Batang Kali,09-2022,79.4
+702,Kuala Kubu Baru,09-2022,93.5
+703,Kalumpang,09-2022,96.3
+704,Sungai Selisek,09-2022,87.7
+705,Sungai Dusun,09-2022,89.7
+706,Sungai Tengi,09-2022,94.6
+707,Wangsa Maju,09-2022,73.7
+708,Bukit Nanas,09-2022,78.9
+709,Sungai Batu,09-2022,86.8
+710,Sungai Gombak,09-2022,91.1
+711,Ampang Intake,09-2022,91.7
+712,Sungai Rangkap,09-2022,94.1
+713,Kepong,09-2022,93.7
+714,Sungai Rumput,09-2022,90.5
+715,Sungai Selangor Fasa 1,09-2022,85.1
+716,Sungai Selangor Fasa 2 Stream C,09-2022,79.7
+717,Sungai Selangor Fasa 3,09-2022,85.5
+718,Rasa,09-2022,77.9
+719,Bukit Tampoi,09-2022,91.9
+720,Salak Tinggi,09-2022,77.3
+721,Sungai Semenyih,09-2022,79.0
+722,Sungai Labu,09-2022,87.3
+723,Semenyih 2,09-2022,91.3
+724,Labohan Dagang,09-2022,80.3
+725,Sungai Langat,09-2022,91.0
+726,Cheras Batu 11,09-2022,85.9
+727,Sungai Pangsoon,09-2022,96.6
+728,Sungai Lolo,09-2022,94.9
+729,Sungai Serai,09-2022,95.0
+730,Langat 2,09-2022,93.6
+731,Intake Semantan (Langat 2),09-2022,91.6
+732,Sungai Sireh,10-2022,80.4
+733,Bernam River Headworks,10-2022,86.8
+734,Rantau Panjang New,10-2022,78.9
+735,North Hummock,10-2022,84.8
+736,Batang Kali,10-2022,81.4
+737,Kuala Kubu Baru,10-2022,95.5
+738,Kalumpang,10-2022,92.4
+739,Sungai Selisek,10-2022,90.8
+740,Sungai Dusun,10-2022,94.8
+741,Sungai Tengi,10-2022,90.7
+742,Wangsa Maju,10-2022,75.6
+743,Bukit Nanas,10-2022,75.0
+744,Sungai Batu,10-2022,84.7
+745,Sungai Gombak,10-2022,93.7
+746,Ampang Intake,10-2022,94.9
+747,Sungai Rangkap,10-2022,95.7
+748,Kepong,10-2022,94.3
+749,Sungai Rumput,10-2022,93.8
+750,Sungai Selangor Fasa 1,10-2022,82.2
+751,Sungai Selangor Fasa 2 Stream C,10-2022,80.5
+752,Sungai Selangor Fasa 3,10-2022,77.0
+753,Rasa,10-2022,91.5
+754,Bukit Tampoi,10-2022,83.7
+755,Salak Tinggi,10-2022,76.0
+756,Sungai Semenyih,10-2022,81.0
+757,Sungai Labu,10-2022,86.8
+758,Semenyih 2,10-2022,91.0
+759,Labohan Dagang,10-2022,87.2
+760,Sungai Langat,10-2022,91.3
+761,Cheras Batu 11,10-2022,89.2
+762,Sungai Pangsoon,10-2022,93.9
+763,Sungai Lolo,10-2022,89.7
+764,Sungai Serai,10-2022,90.9
+765,Langat 2,10-2022,87.9
+766,Intake Semantan (Langat 2),10-2022,86.7
+767,Sungai Sireh,11-2022,75.6
+768,Bernam River Headworks,11-2022,81.8
+769,Rantau Panjang New,11-2022,84.2
+770,North Hummock,11-2022,87.2
+771,Batang Kali,11-2022,90.2
+772,Kuala Kubu Baru,11-2022,91.8
+773,Kalumpang,11-2022,95.3
+774,Sungai Selisek,11-2022,86.4
+775,Sungai Dusun,11-2022,89.9
+776,Sungai Tengi,11-2022,92.8
+777,Wangsa Maju,11-2022,78.8
+778,Bukit Nanas,11-2022,74.0
+779,Sungai Batu,11-2022,74.4
+780,Sungai Gombak,11-2022,94.0
+781,Ampang Intake,11-2022,95.7
+782,Sungai Rangkap,11-2022,92.8
+783,Kepong,11-2022,95.7
+784,Sungai Rumput,11-2022,93.9
+785,Sungai Selangor Fasa 1,11-2022,79.8
+786,Sungai Selangor Fasa 2 Stream C,11-2022,86.6
+787,Sungai Selangor Fasa 3,11-2022,84.8
+788,Rasa,11-2022,82.2
+789,Bukit Tampoi,11-2022,89.8
+790,Salak Tinggi,11-2022,74.4
+791,Sungai Semenyih,11-2022,82.8
+792,Sungai Labu,11-2022,86.8
+793,Semenyih 2,11-2022,85.2
+794,Labohan Dagang,11-2022,89.5
+795,Sungai Langat,11-2022,93.1
+796,Cheras Batu 11,11-2022,91.3
+797,Sungai Pangsoon,11-2022,84.7
+798,Sungai Lolo,11-2022,85.7
+799,Sungai Serai,11-2022,86.2
+800,Langat 2,11-2022,92.1
+801,Intake Semantan (Langat 2),11-2022,89.6
+802,Sungai Sireh,12-2022,67.5
+803,Bernam River Headworks,12-2022,88.0
+804,Rantau Panjang New,12-2022,82.9
+805,North Hummock,12-2022,76.7
+806,Batang Kali,12-2022,90.2
+807,Kuala Kubu Baru,12-2022,94.5
+808,Kalumpang,12-2022,96.0
+809,Sungai Selisek,12-2022,85.6
+810,Sungai Dusun,12-2022,93.8
+811,Sungai Tengi,12-2022,93.6
+812,Wangsa Maju,12-2022,78.1
+813,Bukit Nanas,12-2022,75.2
+814,Sungai Batu,12-2022,79.6
+815,Sungai Gombak,12-2022,92.6
+816,Ampang Intake,12-2022,92.7
+817,Sungai Rangkap,12-2022,94.5
+818,Kepong,12-2022,94.1
+819,Sungai Rumput,12-2022,93.3
+820,Sungai Selangor Fasa 1,12-2022,77.0
+821,Sungai Selangor Fasa 2 Stream C,12-2022,84.6
+822,Sungai Selangor Fasa 3,12-2022,84.8
+823,Rasa,12-2022,91.2
+824,Bukit Tampoi,12-2022,88.0
+825,Salak Tinggi,12-2022,73.1
+826,Sungai Semenyih,12-2022,83.5
+827,Sungai Labu,12-2022,85.2
+828,Semenyih 2,12-2022,82.2
+829,Labohan Dagang,12-2022,91.4
+830,Sungai Langat,12-2022,91.7
+831,Cheras Batu 11,12-2022,78.9
+832,Sungai Pangsoon,12-2022,93.5
+833,Sungai Lolo,12-2022,92.3
+834,Sungai Serai,12-2022,95.9
+835,Langat 2,12-2022,91.2
+836,Intake Semantan (Langat 2),12-2022,86.8

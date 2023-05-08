@@ -1,0 +1,6 @@
+Raw Data:
+min -  Minimum value of that day
+max - Maximum value of that day
+test -  Number of Test Done on that day
+vio - Total Number of Violation on that day
+% - % of Violation against the number of test (vio/test)
